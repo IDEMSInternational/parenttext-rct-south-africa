@@ -33,14 +33,6 @@ These steps need to be followed if you want to run the pipeline from the command
 
 ## Run
 
-There are two main scripts.
-
-```
-python process_safeguarding_words.py
-```
-
-This process takes Excel files with safeguarding words received from local teams and converts to JSON format that can be digested by the main pipeline. For an example of required Excel input files, see the folder "excel_files" in this repo.
-
 ```
 python -m parenttext_pipeline.cli
 ```
