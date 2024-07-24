@@ -1,7 +1,7 @@
 # Data sources, IDs of Google Sheets where the core date is stored.
-# Specific for MX.
-five_day_ux_sheets = "1doFll5_L6URN8Chc9TODblvjiDHIh-5lDY1jhtIQtGc"
-SA_RCT_sheets = "1t3PmDoe1ErYy3o5-t5T4_VFFRdqhO2oP0ji1CMPxtvQ"
+# Specific for RCT.
+#five_day_ux_sheets = "1doFll5_L6URN8Chc9TODblvjiDHIh-5lDY1jhtIQtGc"
+SA_RCT_sheets = "17zm7q4aat5eRLJnMTr0pQEz7uWVinJIWAcGHRYnG2K4"
 RCT_survey = "1Z76O8X2QZWnyMBdQ3NMByydu1U6ZB_KaoMuzkPYIG3I"
 
 
@@ -60,23 +60,23 @@ sources = [
             T_delivery,
             N_menu_data,
             T_menu,
-            five_day_ux_sheets,
+            #five_day_ux_sheets,
             SA_RCT_sheets,
             RCT_survey
         ],
         # "archive": "parenttext_all.zip",
         #"archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
-        "crowdin_name": "rct",
+        "crowdin_name": "rct_survyes",
         "tags": [1,"rct"],
         #"tags": [1, "delivery",1 ,"menu",1,"onboarding",1,"safeguarding"],
         #"tags": [1,"dev_assess",1,"module",1,"ltp_activity",1,"goal_checkin",4,"course"],
-        "split_no": 2
+        "split_no": 1
     },
 ]
-
+#python -m add_prefix "./output/parenttext_all_8_modify_QR.json" "RCT" "./renamed.json"
 # Data used when modifying expiration times.
 special_expiration = "./edits/specific_expiration.json"
-default_expiration = 1440
+default_expiration = 5#1440
 
 # Model that is used as part of the process when the data is extracted from sheets.
 model = "models.parenttext_models"
@@ -99,7 +99,7 @@ folder_within_repo = "translations/parenttext_5day_south_africa"
 # 2 - We may want to reformat the quick replies so that long ones are added to the
 #     message text as above - for this use reference code "reformat"
 # 3 - We may not want to do anything, for this use reference code "none"
-qr_treatment = "reformat"
+qr_treatment = "reformat_whatsapp"
 
 # This is the default phrase we want to add in if the quick replies are being moved to
 # message text.
@@ -121,8 +121,8 @@ special_words = "./edits/special_words.json"
 # the node will not be changed.
 # In places where the QR are too long. We will make the changes to make the QRs
 # numbers and add the number references to the message text as example 1.
-count_threshold = "3"
-length_threshold = "18"
+count_threshold = "10"
+length_threshold = "25"
 
 # Google Sheet ID containing AB testing data.
 # Same for all deployments.
@@ -133,8 +133,8 @@ localisation_sheet_ID = "" #remove?
 # Google Sheet ID containing dict edits data.
 # Same for all deployments.
 eng_edits_sheet_ID = ""
-# 5day ux SA specific specific.
-transl_edits_sheet_ID = ""
+# RCT survey specific.
+transl_edits_sheet_ID = "1TSJoMAaJDj8ugFKXDpIN4kMUg28cSSF1JCKh_aF9FWM"
 
 # Data used in safeguarding script.
 SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
