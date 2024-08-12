@@ -61,8 +61,8 @@ sources = [
             N_menu_data,
             T_menu,
             #five_day_ux_sheets,
-            SA_RCT_sheets,
-            RCT_survey
+            RCT_survey,
+            SA_RCT_sheets
         ],
         # "archive": "parenttext_all.zip",
         #"archive": "https://drive.usercontent.google.com/download?id=1V9fQZ9ZrzwRkQWBtlHJ1it0Fe3hdtHs2&export=download&authuser=0&confirm=t&uuid=f9d65ff1-b210-4b61-a030-cd4a231c22ca&at=APZUnTVzz2FLSi1riCmRjCFI5vCx:1696348063599",  # noqa: E501
@@ -76,7 +76,7 @@ sources = [
 #python -m add_prefix "./output/parenttext_all_8_modify_QR.json" "RCT" "./renamed.json"
 # Data used when modifying expiration times.
 special_expiration = "./edits/specific_expiration.json"
-default_expiration = 5#1440
+default_expiration = 1080
 
 # Model that is used as part of the process when the data is extracted from sheets.
 model = "models.parenttext_models"
@@ -141,14 +141,12 @@ SG_flow_ID = "b83315a6-b25c-413a-9aa0-953bf60f223c"
 SG_flow_name = "safeguarding_wfr_interaction"
 
 # Path to file containing translated safeguarding words.
-SG_path = "./edits/safeguarding_words.json"
+SG_path = "./output/safeguarding_words.json"
 
 # Names of redirect flows to be modified as part of safeguarding process.
 redirect_flow_names = (
     '['
-    '    "safeguarding_redirect_to_topic_all", '
-    '    "safeguarding_redirect_to_topic_start", '
-    '    "safeguarding_redirect_to_topic_trigger"'
+    '    "safeguarding_redirect_to_topic_rct" '
     ']'
 )
 
@@ -168,9 +166,15 @@ def create_config():
         "redirect_flow_names": redirect_flow_names,
         "select_phrases": select_phrases,
         "replace_phrases": "",
-        "sg_flow_id": SG_flow_ID,
-        "sg_flow_name": SG_flow_name,
+        #"sg_flow_id": SG_flow_ID,
+        #"sg_flow_name": SG_flow_name,
         "sg_path": SG_path,
+        "sg_sources": [
+            {
+               "key": "zul",
+               "path": "excel_files/safeguarding zulu.xlsx",
+            }
+        ],
         "sources": sources,
         "special_expiration": special_expiration,
         "special_words": special_words,
