@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "ltp_activity_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "LtpActivityModel",
+        "template_arguments": "",
+        "status": ""
+      }
+    ],
+    "ltp_activity_data": [
+      {
+        "ID": "friendly_chat",
+        "name": "A friendly chat",
+        "text": "Talk to your teen about something that they are interested in! 😃\n\n⚽ An easy way to start talking to your teen is to ask them about something they are interested in. For example, you could talk about sports, books, movies, friends, music, celebrities, or school.\n\n👂 You may not find everything your teen shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn. ",
+        "act_type": "Quick | Calm ",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": "https://docs.google.com/document/d/1tJHwm9IZU-Z3yqxXtbv4PAX_JKGcrkVWPd1VhujuOyk"
+      },
+      {
+        "ID": "create_recipe",
+        "name": "Create your own Recipe",
+        "text": "Let your teen come up with a new meal idea! \n\n🍚 Create a new dish with Your Teen using ingredients they love!\n\n🔵 Together, choose two ingredients, and ask your teen to prepare a meal using them. For example: chicken and spinach, tomatoes and rice, maize and pumpkin.\n\n📝 If you enjoy the meal, make it something your family eats weekly, and ask your teen to write it down for you. Give the meal a name and explain how to make it. \n\n✨ If your teen notices that you are learning from their cooking, it will boost their confidence!",
+        "act_type": "Active",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "reflect_positive",
+        "name": "Reflect on the positive",
+        "text": "Spread Positivity! 🌈\n\n💡 Together, take a minute to think about all the things you did today. \n\n☀️ Take turns sharing one positive or fun thing that happened. This could be something small, like feeling good because you cleaned the house, or something big, like spending time with family and friends. \n\n⏰ Try doing this every day - even more on the days it feels like you have not done anything special. ",
+        "act_type": "Calm | Quick",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "whats_new",
+        "name": "What’s new?",
+        "text": "Learning is fun! 🎓\n\n❓ Ask your teen to think of a new, fun skill you could learn together. \nFor example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the countries in Africa. \n\n🔄 Take turns trying out the new skill.  Make sure to praise each other and learn and play together!\n\n💛 Approach learning the skill in a kind and fun way, and do not judge your teen or yourself for your ability in the skill. ",
+        "act_type": "Active",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "dance_moves",
+        "name": "Dance moves",
+        "text": "Let's get moving! 👋 Dancing is a great way to exercise, have fun, and bond with your teen at the same time! You both get to express yourselves in a fun, relaxed way.  🎵 \n\nThis game can be played in pairs or a group with everyone taking turns being the leader:\n\n📱 Let your teen choose a song they like and create a set of dance moves.\n\n👀 First person does a dance move and everyone else copies it.\n\n☀️ Don’t worry about perfecting the dance moves, it’s all about having fun together!\n\n💡 If you want to, you can perform your dance for the household!",
+        "act_type": "Quick | Active | Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "dance_activity",
+        "name": "Dance Activity",
+        "text": "Try something new and learn a dance challenge with your teen! ✨ Have fun!\n\n⭐ Dancing is a great way to have fun together while being creative and moving your body!\n\n📱 If your teen uses the app TikTok, suggest doing a dance challenge together.\n\n😃 Ask your teen to choose their favourite dance and learn it with them.\n\n🎉 It’s okay if you can’t dance well, have fun and try not to take it too seriously! \n\n💡 You do not have to post the video to learn the dance. You can keep it as a memory between you and your teen. ",
+        "act_type": "Quick | Active",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "checkin_chat",
+        "name": "Check-in chat",
+        "text": "Actively checking in on one another helps to keep relationships healthy! ⭐\n\nAsk each other questions: “What made you happy today?” 👂 “What was difficult today?” 👂 “How can I help you?” 👂\n\nFor this to help, your teen needs to feel safe while sharing things with you. Be open to their responses. 💚 Teens tend to be more honest when they trust that what they say will not be used against them later.\n\nGo easy on yourself if your teen does not want to share their problems with you. 💙 Often, teens are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷",
+        "act_type": "Quick | Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "express_yourself",
+        "name": "Express Yourself",
+        "text": "Dancing makes people happy!\n\n🌈 This game can be played in pairs or as a group - stand facing each other or in a circle.\n\n🎵 Together, choose a fun and upbeat song to play and a person to start the game by creating one dance move.\n\n👀 The person to their right must copy that dance move and add their own move to it.\n\n✨ Go around the circle, each person adding their own dance move to the full song.\n\n🔄 The first one who forgets someone's dance moves or does it in the wrong order chooses the next song and starts the game again.\n\n🎉 Try new dance moves with this game and have fun! ",
+        "act_type": "Quick | Active | Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "2truth_1lie",
+        "name": "2 Truths, 1 Lie",
+        "text": "This is a fun, quick game, and the point of it is to learn things about each other. Make your answers as interesting as possible! 🎨\n\n💡 Ask your teen to think of 3 facts about themselves. 2 must be true, 1 must be a lie. \n🔷 Here are some examples: I hate bananas, I have travelled to Kenya, my favourite subject in school was maths.\n\n👀 Share the facts with your teen and ask them to guess which one is a lie. \n\n🔄 Now ask them to do the same, and guess theirs.\n\nDid you learn anything new about your teen, or did they learn anything new about you? 💛",
+        "act_type": "Quick | Calm | Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "yes_no_maybe",
+        "name": "Yes, No or Maybe",
+        "text": "Are you tired of hearing your teen say yes, no, or maybe to all of your questions? Turn your chat into a game, and don’t allow one-word answers. 🎈\n\n🔴 Teens are known to give one-word answers to avoid talking. \n\n💡 When you would like to really know how your teen is doing, you can turn your chat into a game. \n\n⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses, such as Yes, No, Maybe, Fine, and Okay.\n\n⚽ You can ask about things your teen likes or what they did today. For example, how was your day? What are you excited for? Is there anything worrying you?\n\n🔄 It is important to let your teen ask a question as well. Trust is built when your teen can see that you are also sharing your life with them, and not only trying to learn about their life.",
+        "act_type": "Quick | Calm ",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "movie_world",
+        "name": "Movie World",
+        "text": "Leaving the busy and stressful world behind can be good for our health. 🌱 Take a moment to escape with your teen by creating a superhero story together!\n\n🎈 Ask your teen to imagine that they are a superhero and what their superpowers would be. Flying? Time travel? Mind reading? Super Strength?\n\n✨ Ask them how they would use these superpowers, and why. \n\n🌈 Help them give their superhero a name, an outfit, and a sidekick, and act it out. If your teen does not want to act, that is fine - talking about it is just as good! \n\n👑 Now, let them make up a superhero for you. Play the part! You can ask questions, like who the villain would be, or how you became a superhero. \n\n💡 Create a story - what happens to the characters? Is it an action story? Is it a thriller, space, sport, adventure, or romance?\n\n➡️ Next time you play this game, you could create a new story or superhero with your teen or continue the story you started together.",
+        "act_type": "Quick | Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "get_active",
+        "name": "Get Active",
+        "text": "Exercise is a great way to spend time together and it is so good for your health. 🌱 Find a sport or exercise that both you and your teen want to do and try it out together! \n\n⏰ Even walking for 10 minutes a day is good for you. \n\n⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport..\n\n🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?\n\n🌈 Exercise becomes easier and more enjoyable the more you do it. \n\n🔄 If you or your teen do not like the first exercise you pick, try a new exercise.",
+        "act_type": "Active",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "make_story",
+        "name": "Make up a story",
+        "text": "Creating stories together is a great way to learn the art of storytelling - and to build your teen’s creativity! 📖\n\n🔟 With your teen, come up with 10 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, wasp nest, cooking, wedding.\n\n🎂 Start your story with, “Once upon a time, there was a…” and make sure you use one of the words from the list in your sentence. For example, “Once upon a time, there was a family who worked on a *banana* farm.”\n\n📝 Let your teen make up the next sentence using another word from the list.\n\n🔄 Take turns until you have used as many words from the list as you can, or until you have finished your story. \n\n🔔 Be as creative as possible with your story and do not tell your teen what to say. It does not need to be a real story to be a good story!\n\n🎁 Ask your teen what their favourite part of the story was, and tell them yours!",
+        "act_type": "Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "take_a_pause",
+        "name": "Take A Pause with your teen",
+        "text": "Take a pause with your teen. This helps them deal with stress in a healthy way!\n\n⏰ You could take a pause before dinner, after school, before school, or before bedtime.\n\n👂 Sit down together and close your eyes. Listen to your breath as it goes in and out. Notice how you feel. \n\n⭐ Take 5 more deep breaths.\n\n👀 When you are ready, open your eyes again. Do you feel any different? \n\n⏸ Ask your teen what it was like to take a pause. Listen and accept whatever they say about it.",
+        "act_type": "Calm | Quick",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "name_tune",
+        "name": "Name That Tune",
+        "text": "Listening to music is a great way to lower your stress and have fun with your family. 💚\n\n📻 Gather your family members and choose one person to play or sing a song.\n\n❓ Everyone else must guess the name and artist of the song.\n\n🎉 The first one to guess it right becomes the next person to sing or play a song. \n\n🔄 Keep going around until everyone has been able to play their favourite song and let the rest hear.",
+        "act_type": "Active|Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "pass_ball",
+        "name": "Pass the ball",
+        "text": "Games are a great, fun way to spend time with your family! \n\n3️⃣ This game is best with at least 3 people.\n\n⚽ Find a ball to play. If you cannot find a ball, choose an item you can safely throw around. For example, a bottle cap or a plastic cup.\n\n➡️ Start in a circle and pass the ball around. \n\n👋 Start throwing the ball in new directions (up, down, straight, curved, rolling on the ground) and with different forces (hard, soft, medium). You can bounce the ball, throw it in the air, and catch it a few times before passing it. \n\n✨ When everyone gets good at catching the ball, you can start moving around the room, still passing the ball. \n\n⭐ Can you throw the ball under the leg? Behind the back? Over your head? Block a pass? Have fun with it!",
+        "act_type": "Active|Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "fun_housework",
+        "name": "Make Housework Fun",
+        "text": "Turn your chores into games! 🏆 \n\n☀️ Making housework fun is a good way to teach your teen to be responsible and to rely on themselves. \n\n📝 Together, make a list of all the chores that must be done in your home. \n\n💡 Make sure the tasks are fair and things your teen can do. For example, washing up, sweeping, mopping, making the beds, and laundry.\n\n🔄 Each week, let a different person in the family choose a chore first.\n\n🎵 Play some music or turn on the radio. Music is a great way to make a boring task fun!\n\n✅ Tick off the tasks when they are done so you can see your progress as a family. You could offer small rewards as motivation to complete activities.\n\n📺 For example, you could let your teen watch more TV, spend more time with their friends, choose what they want for dinner, or have something sweet if they do their chores in a fair amount of time.\n\n❓ If your child does not complete a chore, ask them why, and come up with a fair consequence together.",
+        "act_type": "Active|Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "picnic_game",
+        "name": "I’m Going on a Picnic and I Will Bring…",
+        "text": "Memory games are a fun way to strengthen our brains! \n\n🎂 Think of all the things you would have at your dream picnic. \n\n🎈 The first person says, “On Saturday, I am going to the park to have a picnic. To this picnic, I will bring...” and they say one thing they will bring to the picnic.\n\n🍅 For example: a sandwich, a ball, a blanket, forks, cups, a dog, or coca cola.\n\n🔔 The second person adds to the first person's list, but must start at the beginning: “On Saturday, I am going to the park to have a picnic. To this picnic, I will bring...” and say the item that the first person said AND then add their own item to the list.\n\n🔄 Each time you add an item, you must say all previous items first - in the correct order!\n\n⭐ Each person adds to the list, while remembering all the previous items. \n\n👀 If everyone has a turn, keep going and building your list. The first person to forget an item restarts the game!",
+        "act_type": "Calm|Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "who_i_am",
+        "name": "This is who I am",
+        "text": "Self-esteem is the way you value yourself, either in a positive or negative way. Helping your teen to have high self-esteem is a recipe for success! 🏆\n\n⭐Share with your teen 3 things you like about yourself!\n\n3️⃣ Ask your teen to tell you 3 things they like about themselves. \nFor example: I am great at treating others kindly. I am great at styling my hair. I am great at football. ⚽\n\nIf your teen does not feel comfortable sharing these, ask them to write them down. 📝",
+        "act_type": "Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "things_i_like",
+        "name": "Things I like about others and me",
+        "text": "Here is an activity to help you and your teen notice the good parts of themselves.. \n\n☀️Ask your teen to share 3 things they like about a friend or someone they admire, like a celebrity.\n\n❓ Ask them if they share any of these qualities, too.\n\n💙 You can do the same: share with your teen the qualities you like about yourself or about someone you admire - and what you like about your teen!",
+        "act_type": "Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "family_wishlist",
+        "name": "Make a family wish list",
+        "text": "Wish lists are a great way to set, plan and keep track of your goals and dreams. 🌷 \n📝 To start your wish list, gather your family together and grab pens and paper. \n🚲 Allow each family member to write a list of goals and experiences they want to achieve this year.\n🎂 For example: exercise daily, read 1 book a month, make a new friend, learn to bake a cake, learn to juggle, or go watch the local soccer team play. \n🔔 Once you have finished, put the list up where everyone can see it daily.\n🎉 As members of the family reach their goals, tick them off the list and celebrate each goal reached. \n❓ As the year goes on, there might be some items some of you have not achieved. Talk to your family about whether you still want to reach this goal or whether the goal has changed. \n🔑 If you still want to achieve the goal, discuss with your family what you need to do to tick the goal off your wish list.",
+        "act_type": "Calm|Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "setting_goal",
+        "name": "Weekly Goal Setting",
+        "text": "Let’s set some goals ⭐\n\n⏰ It can be helpful to set smaller weekly goals that are easier to reach. This helps us reach our larger goals over time.\n\n💡Ask your teen for one goal that they would like to achieve this week. \n\n🔄 Make sure this goal is *specific* and  *achievable* to reach in 1 week.\n\n💚 You can also share your own weekly goal with your teen and support each other so you can both achieve your goals.\n\n🎉 Make sure to praise and celebrate your teen for their hard work towards reaching their goal.\n\n🔔 If your teen does not reach their goal, that is okay. Discuss with your teen the steps they still need to take or how they could reach it a different way.",
+        "act_type": "Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "cakes_candle",
+        "name": "Three cakes and a candle",
+        "text": "Working towards big goals can be hard! Here is a way you can help your teen set new goals for the things they want to achieve. 👑\n\n👑 Ask your teen to come up with three things that they are good at, and discuss what they did to become so good at them. For example: keeping their room neat, helping your family with housework, or playing a sport.\n\n🏆 Next, ask your teen what they wish they were good at. \n\n🔑 Remind them that it took work and practice to become good at the skills they have. They will have to do the same for any new goal.\n\n⏰ Help your teen break down their goal and set up smaller goals they need to achieve to reach their greater goal. \n\n📝 It is much easier to achieve a goal if you write it down! This way, you can be reminded of it as you work towards it.\n\n☀️ For example, if the goal is to be good at football, small weekly goals could be to go to football practice 2 times per week, run at least 1 km 5 times per week, and learn about the sport from other football players in the community or from books or videos they find. \n\n✅ It is important to write down these smaller goals and let your teen tick off each task as they do them each week. Seeing themselves reach smaller goals will keep them motivated to achieve the big goal!",
+        "act_type": "Calm",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "role_playing",
+        "name": "Role Playing",
+        "text": "Let’s start acting! ⭐\n\n❓Role playing common stressful social moments with your teen allows them to practise how to respond so they are prepared if this moment does happen. 🌷\n\n✨ Ask your teen if they want to role play with you. You can also suggest a topic. For example, asking someone on a date, saying no to drugs/alcohol/sexting, dealing with a bully, getting a bad grade, or dealing with gossip.\n\n🌙 Your teen could play the role of a friend asking you to drink at a party. You could role play an underage teen who does not want to drink. Encourage your teen to be silly and really get into character with them. \n\n⏯️ After you act out the scene, it is important to talk to your teen about the actions that you role played. You can act out this scenario as many times as you like!",
+        "act_type": "Active",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "traffic_lights",
+        "name": "Traffic Lights",
+        "text": "A group activity is a great way to bond with others! 💛 \n\n💡 Choose one person to turn and face a wall. This will be the traffic officer. \n\n🏁 Everyone else will begin the game at the other side of the room, or if you are outside, at a starting line. Set a long distance between the traffic officer and the players. \n\n💚 The game begins when the officer shouts “Green”, and everyone can start moving towards the traffic officer at any speed they choose. \n\n🔴 The officer can shout “Red!” at any time, without looking behind them. When they shout this, everyone must stop and freeze! \n\n⏸ The officer turns around to see if everyone is frozen. If they see anyone moving, they have to send them back to the start line.\n\n🏆 The winner is the first person to get to the officer without being sent back to the start.\n\n👑 The winner then becomes the traffic officer and you can play another round!",
+        "act_type": "Active|Group",
+        "act_age": "10|11|12|13|14|15|16|17",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "cooking_with_maths",
+        "name": "Cooking with Maths",
+        "text": "Cooking can help your boy or girl start learning maths!\n💚 Invite your girl or boy to help you cook for your family, or to choose something they would like to cook \n;\n🍅 Ask your boy or girl to count different ingredients. Help them if it’s difficult!\n\n🔟 Help your girl or boy to understand adding and subtracting quantities \n\n📝 Encourage your boy or girl to recognise numbers on packaging\n\n 👀 Ask your girl or boy about the different sizes of ingredients - e.g. which is bigger/biggest?\n;\n🔄 Think about when you will cook together again! You can also practise understanding numbers and quantities during other activities like shopping or building/making things",
+        "act_type": "Active",
+        "act_age": "3| 4 | 5 | 6 ",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "follow_instructions",
+        "name": "Following Instructions",
+        "text": "👂 Play a game in which your boy or girl listens to and tries to remember strings of instructions.\nThis will be useful in school, at home, and later in life!\n;\nStart with just one instruction using an object in your home. For example “touch the red ball” 🔴\n\nSlowly add more instructions (e.g “then pick up the cup ☕), but tell your girl or boy that they can only start once you’ve finished giving the instructions.\nSee how many your boy or girl can follow without forgetting!\n;\n🔄 Now swap roles! It’s your boy or girl’s turn to give you instructions! They can use the same objects if they want.\nYou can also try this game with a group of girls and boys! Make sure they take turns :)",
+        "act_type": "Calm | Quick | Group",
+        "act_age": "3 | 4 | 5",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "one_on_one_time",
+        "name": "One-on-One Time",
+        "text": "💚 Spending time just with your girl or boy and taking an interest in them can improve your relationship. \n;\n👀 When your boy or girl is playing alone or occupying themselves quietly, join them and show interest in what they are doing.\n\n👂Ask questions about their activity, and listen to them.\n\nLet your girl or boy lead the activity, follow them to build their confidence and autonomy 😃.\n\n👀 Say what you see - describing everything and supporting your boy’s or girl’s actions.\n;\nBe positive, praise your girl or boy, and enjoy spending this time with them 😃💚",
+        "act_type": "Calm",
+        "act_age": "2| 3 | 4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "play_books_4to6",
+        "name": "Playtime with Books",
+        "text": "📖 Book sharing will help your boy or girl learn and is a fun, playful activity to spend quality time together.\n\n⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones.\n\n📖 If your girl or boy wants to choose a book, that’s fine, otherwise choose for them.\n;\n\n💚 Sit close together and follow your boy or girl attention and lead. \nPoint at things, name and repeat words. Help them to learn more about what interests them in the book 👀 \nIf there are words or numbers in the book, ask and help your girl or boy recognise letters numbers, and simple words 💡. \n\nLink things in the books to your child's life, and use words about emotions and talk about them! 😃.\n;\n🔄 If possible, start a regular routine to read together when your girl or boy isn’t too tired or hungry.\nReading together is one of the best ways to help your boy or girl learn and prepare for success in school! 🎓",
+        "act_type": "Calm",
+        "act_age": "4 | 5 | 6 ",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "play_books_2to3",
+        "name": "Playtime with Books",
+        "text": "📖 Book sharing will help your girl or boy learn and is a fun, playful activity to spend quality time together\n\n⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones\n\n📖 If your boy or girl wants to choose a book, that’s fine, otherwise choose for them\n;\n\n💚 Sit close together and follow your girl or boy attention and lead \nPoint at things, name and repeat words. Help them to learn more about what interests them in the book 👀 \n\nLink things in the books to your child's life, and use words about emotions and talk about them! 😃\n;\n🔄 If possible, start a regular routine to read together when your girl or boy isn’t too tired or hungry\nReading together is one of the best ways to help your boy or girl learn and prepare for success in school! 🎓",
+        "act_type": "Calm",
+        "act_age": "2 | 3 |",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "i_spy",
+        "name": "I Spy!",
+        "text": "👀 I spy is a fun game to play with your girl or boy that will help them learn about letters and words!\n;\n\nChoose an object or a thing around you, and don’t tell your boy or girl what it is. It should be something that your boy or girl knows the word for. For example “ball” ⚽\n\n👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”\n\nYour girl or boy should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅\n;\n\nPlay this game with as many objects as possible and as many different letters! Help your boy or girl to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓",
+        "act_type": "Calm | Quick | Group",
+        "act_age": "4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "categorise_organise",
+        "name": "Categorising and Organising",
+        "text": "Help your girl or boy to learn by sorting objects and things! 🔵🔷\n\nYour boy or girl will learn by understanding how things fit and group together (eg, bear = animal, mango = fruit, blue = colour) 🧸\n\nFind a book with different pictures and help your girl or boy to find things in a particular category (e.g. “Find all of the animals”) 👀\n\nFind *safe* objects in the house, get your boy or girl to group them by colour, size, or types of object (cups, plates). Then make more complicated categories (e.g. small cups, big cups) ☕\n;\n🔄 You can play the categorising game anywhere! Just look around and ask your girl or boy to find things from the category you say!",
+        "act_type": "Quick | Group",
+        "act_age": "2 | 3 | 4 | 5",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "what_letter_is_this",
+        "name": "What Letter is This?",
+        "text": "Playing games with letters can help your boy or girl learn the alphabet and how letters are put together to make words.\n\n📝 Write a letter on a piece of card or paper (e.g. “p”)\n\n👂 Say the letter out loud and ask your girl or boy to say it too!\n\nAsk your boy or girl to say some words that begin with the letter “p”, give them clues like “What starts with “p”? Plant… What else? 🌱\n\n👀 Ask your girl or boy to look for objects in your house that begin with a letter (eg “p” for plate). Help them find things.\n;\n🔄 Try a new letter every day!",
+        "act_type": "Quick | Group",
+        "act_age": "3 | 4 | 5",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "riddles",
+        "name": "Riddles Help Boys and Girls Learn",
+        "text": "Riddles and puzzles are a fun way to build thinking skills! 💡\n;\nDo you remember any riddles from your childhood? If you can’t then make one up, they can be very simple! 😃\nLike “What can you see at night but not in the day” Answer: “The moon” 🌙\n\nIf your girl or boy is finding them difficult, try an easy one like: “What is round, bouncy and can be thrown or kicked?” Answer: “A ball” ⚽\n\nYour boy or girl can also try making riddles! 💡\n;\nYou can have fun with riddles anywhere at any time - like traveling on a bus, walking to school or in a car 🚗",
+        "act_type": "Quick | Group | Calm",
+        "act_age": "3 | 4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "whats_new_child",
+        "name": "What's New?",
+        "text": "Learning is fun! 🎓\n\n❓ Ask your girl or boy to think of a new, fun skill you could learn together. \nFor example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the states in Mexico. \n\n🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!\n\n💛 Approach learning the skill in a kind and fun way, and do not judge your boy or girl or yourself for your ability in the skill. \n\n😃 Once you have mastered the skill, choose another skill to learn together.",
+        "act_type": "Active",
+        "act_age": "5| 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "make_story_child",
+        "name": "Make up a Story",
+        "text": "Creating stories together is a great way to have fun with imagination - and to build your girl or boy’s creativity! 📖\n;\n5️⃣ With your boy or girl, come up with 5 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, cooking, wedding. If you need to remember them, write them clearly on a paper with your girl or boy.\n\n🎂 Start your story with, “Once upon a time, there was a…” and use one of the words from the list in the first part. For example, “Once upon a time, there was a family who worked on a *banana* farm.”\n\n📝 Let your boy or girl make up the next part using another word from the list.\n;\n🔄 Take turns until you have used all the words and created a story. \n\n🔔 Be creative and do not tell your girl or boy what to say. It does not need to be a real story to be fun!\n\n🎁 Ask your boy or girl what their favourite part of the story was, and tell them yours!",
+        "act_type": "Calm",
+        "act_age": "4 | 5| 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "play_with_clothes",
+        "name": "Playing with Clothes",
+        "text": "💡Help your girl or boy use their fingers, talk about clothes, and organise them! \n\nHelp your boy or girl exercise their fingers by showing them how buttons and zips work on clothes, and letting them practise using them! 👋\n;\n🔵 Talk about the colours of clothes! Ask your girl or boy to pick a colour and talk about all the things that are that colour: “What are all the things we can think of that are blue?”\n;\n😃 Encourage your boy or girl to help you sort clothes into piles for each family member.",
+        "act_type": "Calm",
+        "act_age": "3 | 4| 5|",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "play_with_veggies",
+        "name": "Playing with Vegetables",
+        "text": "🌱 Help your girl or boy learn by thinking and talking about vegetables!\n\n🍅 Mix together 2-3 different ingredients of your choice (like onions, tomatoes and corn example). Say: “Help me sort these vegetables into piles?” Try sorting them by size.\n;\n😃 Remind me!\nTalk about your child’s experiences. Ask questions and wait for answers. Follow your child’s interests. \n“Can you help me remember what is at the market?” “Do they sell carrots at the market?” “Do they sell anything yellow at the market?” “What else do they sell?” “Can you think of other things they sell?”\n;\n💡Can you think of something similar?\nSay: We are going to think of some things that are similar or different from what I tell you. So listen carefully!”\nHere is a tomato. Can you think of something else that is red like a tomato? 🍅\nCan you think of something else that is round like a tomato? ⚽",
+        "act_type": "Calm",
+        "act_age": "3 | 4| 5|",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "animals",
+        "name": "Animals",
+        "text": "🧸 Active animals: Take turns with Your Child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird\n;\n💡All the animals we can think of - think about groups of animals!\nWhat are all the animals we can think of that have feathers?\nWhat are all the animals we can think of that eat plants? 🌱\nWhat are all the animals we can think of that lay eggs?\n;\n😃 Counting rabbits\n🔟 Find 10 rocks and put them in a line, tell your girl or boy that they are rabbits!\nAsk them to count the rabbits!\nPut the rabbits into 2 equal piles. Ask your boy or girl to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have?”",
+        "act_type": "Active",
+        "act_age": "4| 5| 6 | 7",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "active_counting",
+        "name": "Active Counting",
+        "text": "👋 Clap, hop, jump: Play the following game with Your Child. Make it active!\n\n1️⃣ Clap hands 1 time. 2️⃣ Clap hands 2 times.\n1️⃣ Jump 1 time. 2️⃣ Jump 2 times.\n1️⃣ Hop 1 time.\n3️⃣ Hop 3 times.\n💡Can you hop, then jump, then clap? \n🏆 Can you clap twice, jump once, and hop three times?\n;\n💡Remembering Instructions\nTake turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!\nFor example:\nHop twice, turn around.\nJump to the kitchen, pick up a spoon, then run back. ✅",
+        "act_type": "Active",
+        "act_age": "4|5|6",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "thinking_games",
+        "name": "Thinking Games",
+        "text": "❗ Mama/Daddy says! Play this game of giving instructions:\nMama/daddy says touch your head. Mama/daddy says open your mouth. Mama/daddy says turn around. Mama/daddy says touch your knees. Mama/daddy says jump twice. Mama/daddy says jump, then clap and sit.\n;\n👂 Go and stop: Play the game with Your Child\nSay: When I say “stop”, we freeze. When I say “go”, we can walk again.\nOnce Your Child is familiar with the game, Your Child will lead.\n;\n🔵 🔴Blue-Red - now play this game!\nIf I say touch something blue, you need to touch something red. If I say touch something red, you need to touch something blue.",
+        "act_type": "Active",
+        "act_age": "4|5|6|7|8 ",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "games_with_pictures",
+        "name": "Games with Pictures!",
+        "text": "👂 Making up a story from an image\nFor example, say: We are going to make up a story about this picture. I can start. This little girl is feeling very excited today. Why do you think she is feeling excited?\n😃 She is holding her bag and has a big smile. Where do you think she is going?\n;\n👀 Can you point to it?\nUsing a book or a magazine, or anything with pictures, say:\nI am going to describe something on the page and you need to guess what it is and point to it. For example, “I see something that is [green and moves slowly].\nCan you guess what it is?” 💚",
+        "act_type": "Calm",
+        "act_age": "4|5|6",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "shapes_everywhere",
+        "name": "Shapes Everywhere!",
+        "text": "📺 Squares, squares everywhere\n\n👀 Draw squares in the sand or dirt. Make some bigger and some smaller.\nTell Your Child, “this is a square.” \nAsk your girl or boy to try to draw a square. Hold your boy’s or girl’s hand to help if this is hard. \nLook for things around the home or outdoors that are the same shape.\n\nNow do the same with circles! 🔴",
+        "act_type": "Active | Quick",
+        "act_age": "2 | 3| 4| 5|",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "story_telling",
+        "name": "Story Telling",
+        "text": "💡 Let’s make a story!\n\nSay: We are going to make up a story. I will start then you will help me continue it. \n⏰ ”Once upon a time there was…”\n“What happened next?”👀\n“What happened after that?”\n;\n\n👂 Tell me the story!\nSay to Your Child: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” \n👀 Show your girl or boy pictures in the book. Ask your boy or girl what is happening in the pictures and what happens next.",
+        "act_type": "Calm",
+        "act_age": "3| 4| 5|",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "im_a_writer",
+        "name": "I'm a Writer!",
+        "text": "📝 Have fun being creative with writing!\n\nYou and Your Child can have fun writing with a pencil and paper, or with a stick and the sand!\nIf your girl or boy doesn’t know how to write letters, encourage them to draw shapes, and try to copy the shapes of letters. 🔵▶️\n\nWhen they are more confident, encourage them to write letters and even words. 😃Start showing them how to write their name and other important words for them, like mom, ball or milk.\n\nShow them the simple things that you write - like shopping lists! Show them the words and each of the letters. Let them try to copy the words! 📖",
+        "act_type": "Active | Quick",
+        "act_age": "4| 5|6",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "a_friendly_chat",
+        "name": "A Friendly Chat",
+        "text": "Talk to your girl or boy about something that they are interested in! 😃\n\n💚 Spending quality time with your boy or girl and talking to them every day is a good way to develop a strong relationship. \n\n⚽ An easy way to start talking to your girl or boy is to ask them about something they are interested in, for example you could talk about topics such as: sports, books, movies, friends, music, celebrities, or school.\n\n👂 You may not find everything your boy or girl shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn.",
+        "act_type": "Quick | Calm",
+        "act_age": "3 | 4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "get_active_child",
+        "name": "Get Active",
+        "text": "Exercise is a great way to spend time together and it is so good for your health. 🌱 Find a sport or exercise that both you and your girl or boy want to do and try it out together! \n\n⏰ Even walking for 10 minutes a day is good for you. \n\n⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport..\n\n🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?\n\n🌈 Exercise becomes easier and more enjoyable the more you do it. \n\n🔄 If you or your girl or boy do not like the first exercise you pick, try a new exercise.",
+        "act_type": "Active",
+        "act_age": "4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "pass_ball_child",
+        "name": "Pass the Ball",
+        "text": "Games are a great, fun way to spend time with your family! \n\n3️⃣ This game is best with at least 3 people.\n\n⚽ Find a ball to play. If you cannot find a ball, choose an item you can safely throw around. For example, a bottle cap or a plastic cup.\n\n➡️ Start in a circle and pass the ball around. \n\n👋 Start throwing the ball in new directions (up, down, straight, curved, rolling on the ground) and with different forces (hard, soft, medium). You can bounce the ball, throw it in the air, and catch it a few times before passing it. \n\n✨ When everyone gets good at catching the ball, you can start moving around the room, still passing the ball. \n\n⭐ Can you throw the ball under the leg? Behind the back? Over your head? Block a pass? Have fun with it!",
+        "act_type": "Active|Group",
+        "act_age": "4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "active_songs",
+        "name": "Active Songs",
+        "text": "😃 Young boys and girls love physical games! But they need reminders about how to play 💡\n🎵 Songs with movements are fun and active and give instructions on how to move!\n;\nSing songs to Your Child or a group of girls and boys in which they have to:\n✅ Start and stop ❌\n⬇️ Slow down and speed up ⬆️",
+        "act_type": "Active|Group",
+        "act_age": "2 | 3",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "follow_the_leader",
+        "name": "Follow the Leader!",
+        "text": "⭐ Choose someone to be the leader (tip: start with an adult like yourself)\n😃 Other players line up behind the leader. The leader moves around in any way they like!\n🏁 They can run, jump, crawl, walk on tiptoe, and any other way they want!\n👀 The other players must copy what the leader does, and the leader can change movements at any time.\n\n🔄 Players take turns being the leader!",
+        "act_type": "Active|Group",
+        "act_age": "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "be_the_narrator",
+        "name": "Be the Narrator",
+        "text": "👀 Say what your girl or boy is doing while they are playing\n\n👂 This will help them learn the words to describe their actions.\n\n😃 You can do it in a simple way, or in a silly way like a sports commentator, a news presenter, or a game show host\n\n💡 Ask questions like “what will you do next?” or “I see you want to put the ball in the jar. Is there another way to do that?”",
+        "act_type": "Calm | Quick",
+        "act_age": "2 | 3",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "be_an_artist",
+        "name": "Be an Artist!",
+        "text": "📝 Give Your Child some paper and a pen or pencil, or some different pens or pencils.\n😃 Let your girl or boy draw whatever they want to!\n👀 Ask questions about what they are drawing, the size of the thing they are drawing, and the colours they are using.\n\n🏆 If possible, put your boy or girl’s picture up on the wall when they are finished. Give praise to your girl or boy!",
+        "act_type": "Calm",
+        "act_age": "2 | 3",
+        "attached_single_doc": ""
+      },
+      {
+        "ID": "emotions_expert",
+        "name": "Be an Expert in Emotions!",
+        "text": "📝 Create an album of the six emotions with Your Child: happy, sad, angry, disgusted, surprised, afraid.\n\nDraw, cut-out pictures from magazines, or take photos of family members showing different emotions. \n\nLabel each emotion and add words about how each family member feels those emotions. \n\nPut the album in a spot everyone agrees on, and use it throughout the day to show how the family is feeling. For example, after school, everyone can pin the emotion they’re experiencing. \n\nFeel free to add new feelings as they come up. If someone doesn’t know what they are feeling, help them identify it by exploring how it feels in their body. Try together to find a new word for that emotion.\n\nThis can help everyone in the family become experts in understanding themselves and be aware of what their bodies need.",
+        "act_type": "Active|Group ",
+        "act_age": "4 | 5 | 6 | 7 | 8 | 9",
+        "attached_single_doc": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,656 @@
+[
+  {
+    "SourceText": "Each teen grows and learns in their own way. This tool can help you learn what activities your teen can do.",
+    "text": "Ingane ngayinye iyakhula futhi ifunde ngendlela yayo. Leli thuluzi lingakusiza ufunde ukuthi yimiphi imisebenzi ingane yakho engayenza.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your teen have difficulty seeing or hearing sounds like peoples’ voices or music, even with glasses or hearing aids?",
+    "text": "Ingabe ingane yakho inobunzima bokubona noma ukuzwa imisindo efana namazwi abantu noma umculo, ngisho nangezibuko noma izinsizakuzwa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about your teenager's eyesight or hearing, and they might need help from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngokubona noma ukuzwa kwengane yakho, futhi kungase idinge usizo oluvela kubantu abaqeqeshelwe ekusizeni izingane ezinalenkinga.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Ngiyaxolisa, angiqondi ukuthi uthini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Compared with children of the same age, does your teen have difficulty walking?",
+    "text": "Uma kuqhathaniswa nezingane ezingontanga nengane yakho, ingabe ingane yakho inenkinga yokuzihambela?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about your teen's ability to move around, and they might need assistance from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngekhono lengane yakho lokugcogcoma, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezikanje.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your teen have difficulty with self-care such as feeding or dressing him/herself?",
+    "text": "Ingabe ingane yakho inenkinga yokuzinakekela njengokuzifunza noma ukuzigqokisa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you are concerned about your teen's ability to take care of themselves, and they might need help from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngekhono lengane yakho lokuzinakekela, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your teen have difficulty being understood by others?",
+    "text": "Ingabe kunzima yini ukuthi enganeni yakho abanye bayiqonde?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about how your teen communicates, and they might need help from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngokuthi ingane yakho ikhuluma kanjani, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your teen have difficulty learning or remembering things, focusing on an activity that he or she enjoys doing, or accepting changes in his or her routine?",
+    "text": "Ingabe ingane yakho ikuthola kunzima ukufunda noma ukukhumbula izinto, ukugxila emsebenzini ewujabulelayo, noma ukwamukela izinguquko ezinhlelweni zayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about how your teen is able to think or understand things, and they might need help from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ukuthi ingane yakho Icabanga noma iziqonda kangakanani izinto, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Compared with teens of the same age, does your teen have difficulty controlling their behaviour, such as fighting, screaming, or breaking rules?",
+    "text": "Uma kuqhathaniswa izingane ezingontanga, ingabe ingane yakho inenkinga yokulawula ukuziphatha kwayo, njengokulwa, ukuklabalasa, noma ukwephula imithetho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you are concerned about your teen's behaviour, and they might need help from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngokuziphatha kwengane yakho, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your teen have difficulty making friends?",
+    "text": "Ingabe ingane yakho inenkinga yokwenza abangani?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems that you're worried about your teen's ability to interact with others, and they might need assistance from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngendlela ingane yakho exhumana ngayo nabanye, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How often does your teen seem very anxious, nervous, worried, sad, or depressed?",
+    "text": "Kukangaki ingane yakho ibonakala ikhathazeke kakhulu, yethukile, iphatheke kabi, noma idangele?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about how your teen is feeling, and they might need assistance from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngokuthi ingane yakho izizwa kanjani, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for taking the teen ability test. If you have any concerns, talk to a professional.",
+    "text": "Siyabonga ngokuhlola ikhono lengane. Uma unokuthile okukukhathazayo, khuluma nabantu abaqeqeshelwe ukusiza izingane ezinalesimo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Remember, if you ever need support type HELP.",
+    "text": "Khumbula, uma kwenzeka udinga ukwesekwa bhala USIZO.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like your teen is developing well. That's great!",
+    "text": "Kubukeka sengathi ingane yakho iqhuba kahle. Kuhle lokho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Each child grows and learns in their own way. This tool can help you learn what activities your child can do.",
+    "text": "Ingane ngayinye iyakhula iphinde ifunde ngendlela yayo. Leli thuluzi lingakusiza ekutheni ukwazi ufunde ukuthi yimiphi imisebenzi ingane yakho engayenza.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your child have difficulty seeing or hearing sounds like peoples’ voices or music, even with glasses or hearing aids?",
+    "text": "Ingabe ingane yakho inobunzima bokubona noma ukuzwa imisindo efana namazwi abantu noma umculo, ngisho nangezibuko noma izinsizakuzwa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about your child's eyesight or hearing, and they might need help from a professional.",
+    "text": "Kubonakala sengathi ukhathazekile ngokubona noma ukuzwa kwengane yakho, futhi ingase idinge usizo oluvela kuchwepheshe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Compared with children of the same age, does your child have difficulty walking?",
+    "text": "Uma kuqhathaniswa nezingane ezingontanga bengane yakho, ingabe ingane yakho inenkinga yokuhamba?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about your child's ability to move around, and they might need assistance from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngekhono lengane yakho lokunyakaza, futhi ingase idinge usizo oluvela kumuntu onguchwepheshe kulezi zinto.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your child have difficulty with self-care such as feeding or dressing him/herself?",
+    "text": "Ingabe ingane yakho inenkinga yokuzinakekela njengokuzifunza noma ukuzigqokisa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you are concerned about your child's ability to take care of themselves, and they might need help from a professional.",
+    "text": "Kubonakala sengathi ukhathazekile ngekhono lengane yakho lokuzinakekela, futhi bangase badinge usizo oluvela kumuntu oqeqeshelwe ukusiza.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your child have difficulty being understood by others?",
+    "text": "Ingabe ingane yakho inobunzima bokuqondwa abanye?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about how your child communicates, and they might need help from a professional.",
+    "text": "Kubonakala sengathi ukhathazekile ngokuthi ingane yakho ikhuluma kanjani, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwe ukuthi basize.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your child have difficulty learning or remembering things, focusing on an activity that he or she enjoys doing, or accepting changes in his or her routine?",
+    "text": "Ingabe ingane yakho ibhekana nobunzima bokufunda noma ukukhumbula izinto, ukugxila emsebenzini ewujabulelayo, noma ukwamukela izinguquko ezinhlelweni zayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about how your child is able to think or understand things, and they might need help from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngokuthi ngendlela ingane yakho ecabanga ngayo noma eqonda ngazo izinto, futhi ingase idinge usizo oluvela kubantu abaqeqeshelwa ukusiza izingane ezinjalo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Compared with children of the same age, does your child have difficulty controlling their behaviour, such as fighting, screaming, or breaking rules?",
+    "text": "Uma kuqhathaniswa nezingane ezineminyaka efanayo nengane yakho, ingabe ingane yakho inenkinga yokulawula ukuziphatha kwayo, njengokulwa, ukumemeza, noma ukwephula imithetho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you are concerned about your child's behaviour, and they might need help from a professional.",
+    "text": "Kubonakala sengathi ukhathazekile ngokuziphatha kwengane yakho, futhi ingase idinge usizo oluvela kuchwepheshe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Does your child have difficulty making friends?",
+    "text": "Ingabe ingane yakho inenkinga yokwenza abangane?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems that you're worried about your child's ability to interact with others, and they might need assistance from a professional.",
+    "text": "Kubukeka sengathi ukhathazekile ngekhono lengane yakho loku sebenzisana nabanye, futhi ingase idinge usizo oluvela kuchwepheshe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How often does your child seem very anxious, nervous, worried, sad, or depressed?",
+    "text": "Kukangaki ingane yakho ibonakala ikhathazeke kakhulu, yethukile, iphatheke kabi, Idangele, noma icindezelekile?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems like you're worried about how your child is feeling, and they might need assistance from a professional.",
+    "text": "Kubonakala sengathi ukhathazekile ngokuthi ingane yakho izizwa kanjani, futhi ingase idinge usizo oluvela kuchwepheshe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for taking the child ability test. If you have any concerns, talk to a professional.",
+    "text": "Siyabonga ngokuhlola ikhono lengane. Uma unokuthile okukukhathazayo, khuluma nochwepheshe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It looks like your child is developing well. That's great!",
+    "text": "Kubukeka sengathi ingane yakho ikhula kahle. Kuhle lokho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Every child grows and learns differently. This tool can help find areas where your child might need assistance. To make it work, you need to answer all 10 questions.",
+    "text": "Zonke izingane zikhula futhi zifunde ngezindlela ezihlukile. Leli thuluzi lingasiza ekutholeni izindawo lapho ingane yakho ingase idinge khona usizo. Ukuze lisebenze, udinga ukuphendula yonke imibuzo ewu-10.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "How much is your child doing each of these things?",
+    "text": "Ikangaki ingane yakho yenza enye yalezi zinto?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Names at least 5 body parts - like nose, hand, or tummy",
+    "text": "Isho okungenani izingxenye ezi-5 zomzimba - njengekhala, isandla, noma isisu",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Climbs up a ladder at a playground",
+    "text": "Ukukhuphuka iladi endaweni yokudlala",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Uses words like \"me\" or \"mine\"",
+    "text": "Ukusebenzisa amagama anjengokuthi \"mina\" noma \"yami\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Jumps off the ground with two feet",
+    "text": "Ukungxuma usuka phezulu uye phansi ngezinyawo ezimbili",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Puts 2 or more words together - like \"more water\" or \"go outside\"",
+    "text": "Ukuhlanganisa amagama angu-2 noma ngaphezulu -anjengokuthi \"amanzi amaningi\" noma \"phumela ngaphandle\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Uses words to ask for help",
+    "text": "Ukusebenzisa amagama ukucele usizo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Names at least one colour",
+    "text": "Ukusho okungenani umbala owodwa",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Tries to get you to watch by saying \"Look at me\"",
+    "text": "Ukuzama ukufuna ukuthi uyibuke ngokuthi uthi \"Ngibheke\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Says his or her first name when asked",
+    "text": "Ukusho igama layo lapho ubuzwa",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Draws lines",
+    "text": "Ukudweba imigqa",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your child is growing and learning well. It is okay if they can't do everything mentioned in the questions. Most children can't do all of those things!",
+    "text": "Ingane yakho iyakhula futhi ifunda kahle. Kulungile uma ingakwazi ukwenza zonke izinto ezishiwo emibuzweni. Izingane eziningi azikwazi ukwenza zonke lezo zinto!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever need help, just type HELP.",
+    "text": "Uma kwenzeka udinga usizo, vele ubhale ukuthi USIZO.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It seems that your child might need help from a professional. Make sure to check with one to see if your child is growing and learning well.",
+    "text": "Kubonakala sengathi ingane yakho ingase idinge usizo oluvela kochwepheshe. Qiniseka ukuthi uxhumana nabo ukuze ubone ukuthi ingane yakho iyakhula futhi ifunda kahle yini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talks so other people can understand him or her most of the time",
+    "text": "Iyakhuluma ukuze abanye abantu bayiqonde kangcono",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Washes and dries hands without help (an adult can help turn on the water)",
+    "text": "Ukugeza futhi yomise izandla zayo ngaphandle kosizo (umuntu omdala angasiza ekuvuleni amanzi)",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Asks questions beginning with \"why\" or \"how\" - like \"Why no cookie?\"",
+    "text": "Buza imibuzo eqala ngokuthi \"kungani\" noma \"kanjani\" - njengokuthi \"Kungani lingekho ikhekhe?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Explains the reasons for things, like needing a sweater when it's cold",
+    "text": "Chaza izizathu zezinto, njengokudinga ijezi uma kubanda",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Compares things - using words like \"bigger\" or \"shorter\"",
+    "text": "Iqhathanisa izinto - isebenzisa amagama anjengokuthi \"okukhudlwana\" noma \"okufushane\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Answers questions like \"What do you do when you are cold?\"",
+    "text": "Iphendula imibuzo efana nokuthi \"Wenzani uma ugodola?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "or \"…when you are sleepy?\"",
+    "text": "noma \"... uma uzela?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Answers questions like \"What do you do when you are cold?\" or \"…when you are sleepy?",
+    "text": "Iphendula imibuzo efana nokuthi \"Wenzani uma ugodola?\" noma \"... uma uzela?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Tells you a story from a book or TV",
+    "text": "Ikwazi ukukutshela indaba evela encwadini noma kuyi-TV",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Draws simple shapes - like a circle or a square",
+    "text": "Idweba izinto ezilula - ezinjengendingiliza noma isikwele",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Says words like \"feet\" for more than one foot",
+    "text": "Isho amagama anjengokuthi \"izinyawo\" ngendlela efanele ingasebenzisi ubunye",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "and \"men\" for more than one man",
+    "text": "futhi \"amadoda\" ngendlela efanele ingasebenzisi ubunye",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Uses words like \"yesterday\" and \"tomorrow\" correctly",
+    "text": "Isebenzisa amagama afana nelithi \"izolo\" nelithi \"kusasa\" ngendlela efanele",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Says words like \"feet\" for more than one foot and \"men\" for more than one man",
+    "text": "Isho amagama anjengokuthi \"izinyawo\" uma zimbili futhi \"amadoda\" uma isho amadoda angaphezu kweyodwa",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Stays dry all night",
+    "text": "Ingasazichameli",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Follows simple rules when playing a board game or card game",
+    "text": "Ilandela imithetho elula uma idlala umdlalo webhodi noma umdlalo wemakhadi",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Prints his or her name",
+    "text": "Aphrinte igama lakhe",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Draws pictures you recognise",
+    "text": "Ukudweba izithombe ozaziyo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "No Difficulty",
+    "text": "Abukho Ubunzima",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Some Difficulty",
+    "text": "Obunye Ubunzima",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A Lot of Difficulty",
+    "text": "Ubunzima Obuningi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot See and/or Hear",
+    "text": "Akakwazi Ukubona /noma Ukuzwa",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot Walk",
+    "text": "Akakwazi Ukuhamba",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot Take Care of Themselves",
+    "text": "Akakwazi Ukuzinakekela",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot Be Understood by Others",
+    "text": "Akakwazi Ukuqondwa Ngabanye",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot Learn, Remember or Focus",
+    "text": "Akakwazi Ukufunda, Ukukhumbula noma Ukunaka",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot Control Their Behaviour",
+    "text": "Akakwazi Ukulawula Ukuziphatha",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "He or She Cannot Make Friends",
+    "text": "Akakwazi Ukwenza Abangani",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Every Day",
+    "text": "Nsuku zonke",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Once A Week",
+    "text": "Kanye ngeviki",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "About Once a Month",
+    "text": "Cishe Kanye Ngenyanga",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "A Few Times Each Year",
+    "text": "Izikhathi Ezimbalwa Unyaka ngamunye",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Never",
+    "text": "Akukaze",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Not Yet",
+    "text": "Hhayi okwamanje",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Somewhat",
+    "text": "Uyazama",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Very Much",
+    "text": "Kakhulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "no difficulty",
+    "text": "abukho ubunzima",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "some difficulty",
+    "text": "obunye ubunzima",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "a lot of difficulty",
+    "text": "ubunzima obuningi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot see and/or hear",
+    "text": "akakwazi Ukubona /noma ukuzwa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot walk",
+    "text": "akakwazi ukuhamba",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot take care of themselves",
+    "text": "akakwazi ukuzinakekela",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot be understood by others",
+    "text": "akakwazi ukuqondwa ngabanye",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot learn, remember or focus",
+    "text": "akakwazi ukufunda, ukukhumbula noma ukugxila",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot control their behaviour",
+    "text": "akakwazi ukulawula ukuziphatha",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "he or she cannot make friends",
+    "text": "akakwazi ukwenza abangani",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "every day",
+    "text": "nsuku zonke",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "once a week",
+    "text": "kanye ngeviki",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "about once a month",
+    "text": "cishe kanye ngenyanga",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "a few times each year",
+    "text": "izikhathi ezimbalwa unyaka ngamunye",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "never",
+    "text": "neze",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "not yet",
+    "text": "hhayi okwamanje",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "somewhat",
+    "text": "uyazama",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "very much",
+    "text": "kakhulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "safeguarding_leave_programme_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "safeguarding_start_programme_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "referrals",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "ReferralsModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "safeguarding_entry_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SafeguardingEntryModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "safeguarding_trigger_wrapper_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SafeguardingLaunchFlowModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "safeguarding_wfr_interaction_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "safeguarding_help_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "uncaught_message_flow_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      }
+    ],
+    "safeguarding_trigger_wrapper_data": [
+      {
+        "ID": "menu",
+        "disabled_not_completed_registration": "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "disabled_not_selected_first_goal": "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "conclusion_msg": "",
+        "expiration_msg": "",
+        "var.name": "",
+        "var.value": ""
+      },
+      {
+        "ID": "play",
+        "disabled_not_completed_registration": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "disabled_not_selected_first_goal": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "conclusion_msg": "",
+        "expiration_msg": "",
+        "var.name": "",
+        "var.value": ""
+      },
+      {
+        "ID": "grow",
+        "disabled_not_completed_registration": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "disabled_not_selected_first_goal": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "conclusion_msg": "",
+        "expiration_msg": "",
+        "var.name": "",
+        "var.value": ""
+      },
+      {
+        "ID": "review",
+        "disabled_not_completed_registration": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "disabled_not_selected_first_goal": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "conclusion_msg": "",
+        "expiration_msg": "",
+        "var.name": "",
+        "var.value": ""
+      },
+      {
+        "ID": "pause",
+        "disabled_not_completed_registration": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "disabled_not_selected_first_goal": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "conclusion_msg": "Thank you for taking a pause with me today. ",
+        "expiration_msg": "",
+        "var.name": "",
+        "var.value": ""
+      },
+      {
+        "ID": "help",
+        "disabled_not_completed_registration": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "disabled_not_selected_first_goal": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+        "conclusion_msg": "",
+        "expiration_msg": "",
+        "var.name": "",
+        "var.value": ""
+      }
+    ],
+    "safeguarding_leave_programme_data": [
+      {
+        "ID": "intro",
+        "msg": "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "confirm",
+        "msg": "If you do not want to receive any more messages, please type \"EXIT\".\n\nIf you made a mistake, please type \"BACK\".",
+        "metadata.description": "BACK needs to be consistent with \"back_option\"\nEXIT needs to be consistent with \"leave_option\""
+      },
+      {
+        "ID": "back_option",
+        "msg": "BACK",
+        "metadata.description": "needs to be consistent with \"confirm\" message"
+      },
+      {
+        "ID": "leave_option",
+        "msg": "EXIT",
+        "metadata.description": "needs to be consistent with \"confirm\" message"
+      },
+      {
+        "ID": "goodbye",
+        "msg": "Thank you for participating. If you want to return to the programme, type HELLO. \n\nWe hope to see you again soon! ",
+        "metadata.description": "HELLO is just to suggest something to type, but anything typed in the chat will trigger the same behaviour"
+      }
+    ],
+    "safeguarding_start_programme_data": [
+      {
+        "ID": "join_again_in_program",
+        "msg": "You are already part of ParentText! ",
+        "metadata.description": ""
+      },
+      {
+        "ID": "instructions",
+        "msg": "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis.",
+        "metadata.description": ""
+      },
+      {
+        "ID": "join_again_completed",
+        "msg": "You have already completed ParentText!",
+        "metadata.description": ""
+      },
+      {
+        "ID": "rejoin_greeting",
+        "msg": "Welcome back to ParentText!",
+        "metadata.description": ""
+      }
+    ],
+    "safeguarding_entry_data": [
+      {
+        "ID": "generic",
+        "question": "Are you currently facing an emergency?",
+        "yes_opt": "Yes",
+        "yes_aliases": "yes y yeah yep",
+        "no_opt": "No",
+        "no_aliases": "no n nope",
+        "intro": "Here are the contact details of your local emergency services:",
+        "no_message": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+      },
+      {
+        "ID": "mental_health",
+        "question": "Do you need some support with an emotional issue?",
+        "yes_opt": "Yes",
+        "yes_aliases": "yes y yeah yep",
+        "no_opt": "No",
+        "no_aliases": "no n nope",
+        "intro": "If you ever feel like talking privately to a trained professional, you can call:",
+        "no_message": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+      },
+      {
+        "ID": "health",
+        "question": "Are you currently experiencing a health issue?",
+        "yes_opt": "Yes",
+        "yes_aliases": "yes y yeah yep",
+        "no_opt": "No",
+        "no_aliases": "no n nope",
+        "intro": "Here are the contact details of your local medical services:",
+        "no_message": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+      },
+      {
+        "ID": "violence",
+        "question": "Are you experiencing an unsafe situation?",
+        "yes_opt": "Yes",
+        "yes_aliases": "yes y yeah yep",
+        "no_opt": "No",
+        "no_aliases": "no n nope",
+        "intro": "If you ever feel like talking privately to a trained professional, you can call:",
+        "no_message": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+      },
+      {
+        "ID": "natural_disasters",
+        "question": "Do you have an emergency?",
+        "yes_opt": "Yes",
+        "yes_aliases": "yes y yeah yep",
+        "no_opt": "No",
+        "no_aliases": "no n nope",
+        "intro": "Here are the contact details of your local emergency services:",
+        "no_message": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+      },
+      {
+        "ID": "drugs",
+        "question": "Do you need some urgent help?",
+        "yes_opt": "Yes",
+        "yes_aliases": "yes y yeah yep",
+        "no_opt": "No",
+        "no_aliases": "no n nope",
+        "intro": "If you ever feel like talking privately to a trained professional, you can call:",
+        "no_message": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+      }
+    ],
+    "safeguarding_wfr_interaction_data": [
+      {
+        "ID": "",
+        "msg": "no",
+        "metadata.description": ""
+      },
+      {
+        "ID": "go_back_qst",
+        "msg": "Would you like to go back to the previous messages?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "yes_opt",
+        "msg": "Yes",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_opt",
+        "msg": "No",
+        "metadata.description": ""
+      },
+      {
+        "ID": "yes_opt_aliases",
+        "msg": "yes y yeah yep",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_opt_aliases",
+        "msg": "no n nope nah",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_message",
+        "msg": "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines.",
+        "metadata.description": ""
+      }
+    ],
+    "referrals": [
+      {
+        "ID": "generic",
+        "intro": "",
+        "referrals": "{generic referrals}",
+        "option_name": "Emergency support"
+      },
+      {
+        "ID": "health",
+        "intro": "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:",
+        "referrals": "{health referrals}",
+        "option_name": "Health support services"
+      },
+      {
+        "ID": "violence",
+        "intro": "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! ",
+        "referrals": "{violence referrals}",
+        "option_name": "Dealing with violence"
+      },
+      {
+        "ID": "mental_health",
+        "intro": "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:",
+        "referrals": "{mental_health referrals}",
+        "option_name": "Suicide prevention services"
+      },
+      {
+        "ID": "family",
+        "intro": "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:",
+        "referrals": "{family referrals}",
+        "option_name": "Family counselling and support"
+      },
+      {
+        "ID": "drugs",
+        "intro": "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:",
+        "referrals": "{drugs referrals}",
+        "option_name": "Drugs and alcohol abuse"
+      },
+      {
+        "ID": "development",
+        "intro": "",
+        "referrals": "{development resources 1}",
+        "option_name": "Child development support"
+      },
+      {
+        "ID": "legal",
+        "intro": "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:",
+        "referrals": "{legal_help referrals}",
+        "option_name": "Legal or SASSA help"
+      },
+      {
+        "ID": "lgbtqia+",
+        "intro": "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:",
+        "referrals": "{lgbtqia referrals}",
+        "option_name": "LGBTQIA+ support services"
+      },
+      {
+        "ID": "school",
+        "intro": "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:",
+        "referrals": "{school referrals}",
+        "option_name": "School issues"
+      },
+      {
+        "ID": "natural_disasters",
+        "intro": "",
+        "referrals": "{natural_disasters referrals}",
+        "option_name": ""
+      }
+    ],
+    "safeguarding_help_data": [
+      {
+        "ID": "intro",
+        "msg": "I might know some resources that can help. Would you like information for:",
+        "metadata.description": ""
+      },
+      {
+        "ID": "offer_next",
+        "msg": "What would you like to do?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "more_contacts_opt",
+        "msg": "Get other emergency contacts",
+        "metadata.description": ""
+      },
+      {
+        "ID": "menu_opt",
+        "msg": "Go to the Main Menu",
+        "metadata.description": ""
+      },
+      {
+        "ID": "exit_opt",
+        "msg": "Exit Menu",
+        "metadata.description": ""
+      },
+      {
+        "ID": "farewell",
+        "msg": "We hope this was helpful! You can access this information at any time by typing {HELP}. ",
+        "metadata.description": ""
+      }
+    ],
+    "uncaught_message_flow_data": [
+      {
+        "ID": "rejoin_greetings",
+        "msg": "Welcome back to ParentText!",
+        "metadata.description": ""
+      },
+      {
+        "ID": "instructions",
+        "msg": "I don't understand your message.\nPlease type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis. ",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_consent",
+        "msg": "You have not given consent to participate in this programme. Would you like to participate?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_consent_yes_opt",
+        "msg": "Yes",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_consent_no_opt",
+        "msg": "No",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_join_msg",
+        "msg": "If you ever decide to participate in the programme, type HELLO. \nWe hope to see you again soon, and we wish you a happy and peaceful day! ",
+        "metadata.description": ""
+      },
+      {
+        "ID": "rejoin_question",
+        "msg": "Parenting is hard. ParentText may help. Would you like to continue your progress?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "rejoin_yes_opt",
+        "msg": "Yes",
+        "metadata.description": ""
+      },
+      {
+        "ID": "rejoin_no_opt",
+        "msg": "No",
+        "metadata.description": ""
+      },
+      {
+        "ID": "no_rejoin_msg",
+        "msg": "That's okay. If you ever decide to come back, type HELLO. \nWe hope to see you again soon, and we wish you a happy and peaceful day! ",
+        "metadata.description": ""
+      }
+    ]
+  }
+}

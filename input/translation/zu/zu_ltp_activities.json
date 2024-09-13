@@ -1,0 +1,2282 @@
+[
+  {
+    "SourceText": "*A friendly chat*",
+    "text": "*Ingxoxo yobungane*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk to your teen about something that they are interested in! 😃",
+    "text": "Khuluma nengane yakho ngokuthile enentshisekelo kukho! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ An easy way to start talking to your teen is to ask them about something they are interested in. For example, you could talk about sports, books, movies, friends, music, celebrities, or school.",
+    "text": "⚽ Indlela elula yokuqala ukukhuluma nengane yakho ukuyibuza ngokuthile enentshisekelo kukho. Isibonelo, ungakhuluma ngezemidlalo, izincwadi, amamuvi, abangani, umculo, osaziwayo, noma isikole.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 You may not find everything your teen shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn.",
+    "text": "👂 Ungase ungatholi yonke into ingane yakho eyabelana ngayo ithandeka, kodwa kubalulekile ukukhombisa umdlandla kanye nokulangazelela ukufunda.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Create your own Recipe*",
+    "text": "*Dala iresiphi yakho*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your teen come up with a new meal idea! ",
+    "text": "Vumela ingane yakho ukuthi ize nombono omusha wokudla! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍚 Create a new dish with @fields.child_nickname using ingredients they love!",
+    "text": "🍚 Dala isidlo esisha ngegama elithi @fields.child_nickname usebenzisa izithako abazithandayo!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🔵 Together, choose two ingredients, and ask your teen to prepare a meal using them. For example: chicken and spinach, tomatoes and rice, maize and pumpkin.",
+    "text": "🔵 Ndawonye, khetha izithako ezimbili, bese ucela osemusha wakho enze isidlo ngazo. Njengesibonelo: inkukhu nomfino, utamatisi nerayisi, impuphu nethanga.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 If you enjoy the meal, make it something your family eats weekly, and ask your teen to write it down for you. Give the meal a name and explain how to make it. ",
+    "text": "📝 Uma ukujabulele ukudla, kwenze kube into edliwa umndeni wakho masonto onke, bese ucela intsha yakho ukuthi ikubhalele yona. Nikeza ukudla igama bese uchaza ukuthi kwenziwa kanjani. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ If your teen notices that you are learning from their cooking, it will boost their confidence!",
+    "text": "✨ Uma ingane yakho iqaphela ukuthi ufunda ekuphekeni kwayo, kuzokhulisa ukuzethemba kwayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍚 Create a new dish with your teen using ingredients they love!",
+    "text": "🍚 Dala isidlo esisha nengane yakho usebenzisa izithako abazithandayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Reflect on the positive*",
+    "text": "*Cabanga ngokuhle*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Spread Positivity! 🌈",
+    "text": "Sabalalisa okuhle!🌈",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Together, take a minute to think about all the things you did today. ",
+    "text": "💡 Ndawonye, thatha iminithi lokucabanga ngazo zonke izinto ozenzile namuhla. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Take turns sharing one positive or fun thing that happened. This could be something small, like feeling good because you cleaned the house, or something big, like spending time with family and friends. ",
+    "text": "☀️ Shintshanani ngokwabelana ngento eyodwa eyakhayo noma ejabulisayo eyenzekile. Lokhu kungaba yinto encane, njengokuzizwa ujabule ngoba uhlanze indlu, noma into enkulu, njengokuchitha isikhathi nomndeni nabangane. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Try doing this every day - even more on the days it feels like you have not done anything special.",
+    "text": "⏰ Zama ukwenza lokhu nsuku zonke - nakakhulu ngezinsuku lapho kuzwakala sengathi awenzanga lutho olukhethekile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What’s new?*",
+    "text": "*Yini entsha?*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Learning is fun! 🎓",
+    "text": "Ukufunda kumnandi! 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask your teen to think of a new, fun skill you could learn together. ",
+    "text": "❓Cela osemusha wakho ukuthi acabange ikhono elisha, elimnandi eningalifunda ndawonye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the countries in Africa. ",
+    "text": "Isibonelo: ukugcina ibhola emoyeni ngonyawo lwakho, ukuphonsa amabhola emoyeni uwabambe, ukwenza isobo, ukudansa, ukushaya ikhwela, ukusho i-alfabethi uqala ekugcineni, ukufunda zonke izizwe e-Afrika. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns trying out the new skill.  Make sure to praise each other and learn and play together!",
+    "text": "🔄 Shintshisanani nizama ikhono elisha. Qiniseka ukuthi niyancomana futhi nifunde futhi nidlale ndwawonye!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Approach learning the skill in a kind and fun way, and do not judge your teen or yourself for your ability in the skill.",
+    "text": "💛 Sondela ukufunda ikhono ngendlela enomusa nejabulisayo, futhi ungahluleli ingane yakho noma wena ngokwakho ngekhono lakho kukhono.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Dance moves*",
+    "text": "*Umdanso*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's get moving! 👋 Dancing is a great way to exercise, have fun, and bond with your teen at the same time! You both get to express yourselves in a fun, relaxed way.  🎵 ",
+    "text": "Masiqhubeke! 👋 Ukudansa kuyindlela enhle yokuzivocavoca, ukuzijabulisa, nobudlelwane nengane yakho ngesikhathi esisodwa! Nobabili nithola ukuveza imizwa yenu ngendlela ejabulisayo, ekhululekile. 🎵 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This game can be played in pairs or a group with everyone taking turns being the leader:",
+    "text": "Lo mdlalo ungadlalwa nibabili noma eqenjini nabo bonke abantu bashintshisana ngokuba ngumholi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 Let your teen choose a song they like and create a set of dance moves.",
+    "text": "📱 Vumela ingane yakho ikhethe ingoma eyithandayo, ihlanganise izinhlobonhlobo zemidanso.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 First person does a dance move and everyone else copies it.",
+    "text": "👀 Umuntu wokuqala wenza umdanso bese bonke abanye abantu bayayikopisha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Don’t worry about perfecting the dance moves, it’s all about having fun together!",
+    "text": "☀️ Ningazikhathazi ngokwenza umdanso ube perfect, injongo ukuthi nizezenzele ubumnandi ndawonye!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 If you want to, you can perform your dance for the household!",
+    "text": "💡 Uma ufuna, ungadlalela umndeni wakho umdanso!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Dance Activity*",
+    "text": "*Umsebenzi womdanso*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Try something new and learn a dance challenge with your teen! ✨ Have fun!",
+    "text": "Zama into entsha futhi ufunde umqhudelwano wokudansa nosemusha wakho! ✨ Zijabulise!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Dancing is a great way to have fun together while being creative and moving your body!",
+    "text": "⭐ Ukudansa indlela enhle yokuzijabulisa ndawonye nibe nidala futhi ninyakazisa umzimba!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📱 If your teen uses the app TikTok, suggest doing a dance challenge together.",
+    "text": "📱 Uma ngabe osemusha wakho esebenzisa uTikTok, faka isicelo sokuthi nenze umqhudelwano wokudansa ndawonye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Ask your teen to choose their favourite dance and learn it with them.",
+    "text": "😃 Cela osemusha wakho ukuthi akhethe umdanso awuthandayo bese uyawufunda naye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 It’s okay if you can’t dance well, have fun and try not to take it too seriously! ",
+    "text": "🎉 Kulungile uma ungakwazi ukudansa kahle, zijabulise futhi uzame ukungayithatheli phezulu kakhulu! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 You do not have to post the video to learn the dance. You can keep it as a memory between you and your teen.",
+    "text": "💡 Awudingi ukuthumela ividiyo ukuze ufunde umdanso. Ungayigcina njengesikhumbuzo phakathi kwakho nengane yakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Check-in chat*",
+    "text": "*Hlola imilayezo*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Actively checking in on one another helps to keep relationships healthy! ⭐",
+    "text": "Ukuqhubeka nibhekana kuyasiza ukuthi nigcine ubudlelwano bunempilo! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask each other questions: “What made you happy today?” 👂 “What was difficult today?” 👂 “How can I help you?” 👂",
+    "text": "Buzanani imibuzo: \"Yini ekwenze wajabula namhlanje?\" 👂 \"Yini ebeyinzima namhlanje?\" 👂 \"Ngingakusiza kanjani? 👂",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For this to help, your teen needs to feel safe while sharing things with you. Be open to their responses. 💚 Teens tend to be more honest when they trust that what they say will not be used against them later.",
+    "text": "Ukuze lokhu kusize, umntwana wakho osemusha udinga ukuzizwa ephephile ngenkathi ukutshela izinto. Zivule ukuzwa izimpendulo wakhe. 💚 Intsha ijwayele ukuba neqiniso kakhulu uma bethemba ukuthi abazokusho angeke kusentshiswe ukubalimaza kamuva.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Go easy on yourself if your teen does not want to share their problems with you. 💙 Often, teens are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷",
+    "text": "Zikhululekele uma ingane yakho ingafuni ukwabelana nawe ngezinkinga zayo. 💙 Ngokuvamile, ingane iyesaba ukwabelana njengoba yesaba ukuthi izongena enkingeni. Ukucasuka ngabo ngeke kusize - qhubeka ubabonisa ukuthi uyabathanda futhi ubanike isikhathi! 🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Express Yourself*",
+    "text": "*Zibonakalise*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Dancing makes people happy!",
+    "text": "Ukudansa kwenza abantu bajabule!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 This game can be played in pairs or as a group - stand facing each other or in a circle.",
+    "text": "🌈 Lo mdlalo ungadlalwa nibabili noma eqenjini - ima nibhekane noma endingilizini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎵 Together, choose a fun and upbeat song to play and a person to start the game by creating one dance move.",
+    "text": "🎵 Ndawonye, khethani ingoma emnandi enokujabula idlale bese umuntu aqale umdlalo ngokuthi adale umdanso owodwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 The person to their right must copy that dance move and add their own move to it.",
+    "text": "👀 Umuntu ongasesandleni sokudla kufanele akopishe lowo mdanso bese efaka umdanso wakhe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Go around the circle, each person adding their own dance move to the full song.",
+    "text": "✨ Jikelezani endingilizini, umuntu nomuntu afake umdanso wakhe engomeni ephelele.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 The first one who forgets someone's dance moves or does it in the wrong order chooses the next song and starts the game again.",
+    "text": "🔄 Owokuqala okhohlwayo umdanso womunye umuntu noma oyenza nge-oda engalungile ukhetha ingoma elilandelayo bese uqala umdlalo futhi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Try new dance moves with this game and have fun!",
+    "text": "🎉 Zama ukunyakaza komdanso omusha ngalo mdlalo futhi ujabule!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*2 Truths, 1 Lie*",
+    "text": "*Amaqiniso amabili, amanga awodwa*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This is a fun, quick game, and the point of it is to learn things about each other. Make your answers as interesting as possible! 🎨",
+    "text": "Lona umdlalo ojabulisayo, osheshayo, futhi inhloso yawo wukufunda izinto ngomunye nomunye. Yenza izimpendulo zakho zibe mnandi ngangokunokwenzeka! 🎨",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ask your teen to think of 3 facts about themselves. 2 must be true, 1 must be a lie. ",
+    "text": "💡 Cela osemusha wakho ukuthi acabange izinto eziwu-3 ngaye. Ezimbili kufanele zibe iqiniso, okukodwa kube ngamanga. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔷 Here are some examples: I hate bananas, I have travelled to Kenya, my favourite subject in school was maths.",
+    "text": "🔷 Nazi izibonelo: Ngiyawuzonda ubhanana, ngake ngaya eKhenya, isifundo sami ebengisithanda esikolweni bekuyizibalo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Share the facts with your teen and ask them to guess which one is a lie. ",
+    "text": "👀 Yethula amaqiniso kumfana noma intombazane yakho futhi ubabuze baqagele ukuthi iyiphi engamanga. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Now ask them to do the same, and guess theirs.",
+    "text": "🔄 Manje bacele ukuthi benze okufanayo, bese uqagela okwabo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Did you learn anything new about your teen, or did they learn anything new about you? 💛",
+    "text": "Ingabe kukhona okusha okufundile mayelana nomntwana wakho, noma kukhona okusha umntwana akufundile ngawe? 💛",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Yes, No or Maybe*",
+    "text": "*Yebo, Cha noma Mhlawumbe*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you tired of hearing your teen say yes, no, or maybe to all of your questions? Turn your chat into a game, and don’t allow one-word answers. 🎈",
+    "text": "Ingabe ukhathele ukuzwa umfana noma intombazane yakho ethi yebo, cha, noma mhlawumbe kuyo yonke imibuzo yakho? Shintsha ingxoxo yakho ibe umdlalo, futhi ungamvumeli ukuthi aphendule ngegama elilodwa. 🎈",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 Teens are known to give one-word answers to avoid talking. ",
+    "text": "🔴 Intsha yaziwa ngokuphendula ngegama elilodwa ukugwema ukukhuluma. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 When you would like to really know how your teen is doing, you can turn your chat into a game. ",
+    "text": "💡 Ungafisa ukwazi nini ukuthi umfana noma intombazane yakho unjani, ungashintsha ingxoxo yenu ibe ngumdlalo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses, such as Yes, No, Maybe, Fine, and Okay.",
+    "text": "⭐ Shintshisanani nibuzana imibuzo. Umthetho owodwa ukuthi anikwazi ukuphendula ngegama elilodwa, njengo Yebo, Cha, Mhlawumbe, Kahle, futhi Kulungile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ You can ask about things your teen likes or what they did today. For example, how was your day? What are you excited for? Is there anything worrying you?",
+    "text": "⚽ Ungabuza ngezinto umfana noma intombazane yakho azithandayo nokuthi wenzeni namhlanje.  isibonelo, belunjani usuku lwakho? Yini oyijabulele? Ngabe kukhona okukukhathazayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 It is important to let your teen ask a question as well. Trust is built when your teen can see that you are also sharing your life with them, and not only trying to learn about their life.",
+    "text": "🔄 Kubalulekile ukuthi uvumele umfana noma intombazane yakho naye abuze umbuzo. Ukwethembana kwakheka lapho umfana noma intombazane yakho ebona ukuthi nawe wabelana nayo ngempilo yakho, awugcini ngokuzama ukufunda ngempilo yayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Movie World*",
+    "text": "*Umhlaba Wefilimu*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Leaving the busy and stressful world behind can be good for our health. 🌱 Take a moment to escape with your teen by creating a superhero story together!",
+    "text": "Ukushiya umhlaba ophithizelayo nokhathazanayo ngemuva kungaba yinto enhle ekuphileni kwethu. 🌱 Thatha umzuzu ube nomntwana wakho niqambe indaba engeqhawe ndawonye!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎈 Ask your teen to imagine that they are a superhero and what their superpowers would be. Flying? Time travel? Mind reading? Super Strength?",
+    "text": "🎈 Cela umfana noma intombazane yakho wakho ukuthi acabange ukuthi uyiqhawe nokuthi amandla akhe angaba yini. Ukundiza? Ukubuyela emuva esikhathini? Ukufunda umqondo? Amandla Amakhulu?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Ask them how they would use these superpowers, and why. ",
+    "text": "✨ Babuze ukuthi bangawasebenzisa kanjani amandla abo, futhi kungani. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Help them give their superhero a name, an outfit, and a sidekick, and act it out. If your teen does not want to act, that is fine - talking about it is just as good! ",
+    "text": "🌈 Siza ukuthi baqambe iqhawe labo igama, izimpahla zokugqoka, nomsizi wakhe, bese bayalingisa. Uma umfana noma intombazane yakho engafuni ukulingisa, kulungile  - ukukhuluma ngakho kuhle nakho! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👑 Now, let them make up a superhero for you. Play the part! You can ask questions, like who the villain would be, or how you became a superhero. ",
+    "text": "👑 Manje, badedele bakwakhele iqhawe. Lingisa! Ungabuza imibuzo, njengokuthi isitha kungaba ngubani, noma ube yiqhawe kanjani. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Create a story - what happens to the characters? Is it an action story? Is it a thriller, space, sport, adventure, or romance?",
+    "text": "💡 Dala indaba - kwenzekani kubalingiswa? Indaba eyokulwa? Indaba egijimisa igazi, umkhathi, ezimidlalo, indaba eyohambo, noma ezothando?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "➡️ Next time you play this game, you could create a new story or superhero with your teen or continue the story you started together.",
+    "text": "➡️ Ngokuzayo uma udlala lo mdlalo, ungaqamba indaba entsha noma engeqhawe elinamandla nomntwana wakho noma niqhubeke nendaba eniyiqale ndawonye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Get Active*",
+    "text": "*Yiba matasa*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Exercise is a great way to spend time together and it is so good for your health. 🌱 Find a sport or exercise that both you and your teen want to do and try it out together! ",
+    "text": "Ukuzivocavoca indlela enhle yokuchitha isikhathi ndawonye futhi kulungele ukuphila kwenu. 🌱 Thola umdlalo noma indlela yokuzivocavoca wena nomntwana wakho bese niyazama ndawonye! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Even walking for 10 minutes a day is good for you. ",
+    "text": "⏰ Nokuchitha imizuzu ewu-10 ngosuku uhamba kukulungele. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport..",
+    "text": "⚽ Ndawonye ningahamba, nigijime, nidlale ibhola, nibhukude, nidanse, noma nenze omunye umdlalo..",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?",
+    "text": "🏆 Ndawonye, cabangani izindlela zokwenza kubemnandi kakhulu. Ningagigjima kancane nize nifike endaweni ethize? Nishintshisane ngokuba ngumqeqeshi? Kungaba nomklomelo omncane, omahhala njengokukhetha into eningayenza elandelayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌈 Exercise becomes easier and more enjoyable the more you do it. ",
+    "text": "🌈 Ukuzivocavoca kubalula futhi kuba mnandi mawuqhubeka ukwenza. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If you or your teen do not like the first exercise you pick, try a new exercise.",
+    "text": "🔄 Uma wena noma umfana noma intombazane yakho esanda kweva eshumini nambili ningawuthandi umsebenzi wokuqala owukhethayo, zama umsebenzi omusha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make up a story*",
+    "text": "*Qamba inganekwane*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating stories together is a great way to learn the art of storytelling - and to build your teen’s creativity! 📖",
+    "text": "Ukudala izindaba ndawonye indlela enhle yokufunda ubuciko bokuxoxa izindaba - futhi kwakha ikhono lokudala kumfana noma intombazane yakho wakho! 📖",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔟 With your teen, come up with 10 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, wasp nest, cooking, wedding.",
+    "text": "🔟 Cabangani amagama ayi-10 ninomntwana wakho eningawasebenzisa. Kungaba inoma imaphi amagama eniwafunayo! Isibonelo: ubhanana, umkhumbi wasemkhathini, inhlanzi, amanzi, ukupenda, isidleke somnyovu, ukupheka, umshado.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 Start your story with, “Once upon a time, there was a…” and make sure you use one of the words from the list in your sentence. For example, “Once upon a time, there was a family who worked on a *banana* farm.”",
+    "text": "🎂 Qala indaba yakho ngokuthi, \"Kwasukasukela, kwakukhona i...\" bese uqiniseka ukuthi usebenzisa elilodwa lamagama kuhlu lwakho. Isibonelo, \"Kwasukasukela, kwakukhona umndeni owawusebenza efamini *labhanana*.\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Let your teen make up the next sentence using another word from the list.",
+    "text": "📝 Vumela umfana noma intombazane yakho acabange umusho olandelayo ngokusebenzisa elinye igama kuhlu lwamagama eniwacabangile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns until you have used as many words from the list as you can, or until you have finished your story. ",
+    "text": "🔄 Shintshisanani nize nisebenzise wonke amagama kuhlu eningawasebenzisa, noma nize niqede indaba yenu. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Be as creative as possible with your story and do not tell your teen what to say. It does not need to be a real story to be a good story!",
+    "text": "🔔 Yakha kangangokho onakho ngale ndaba yakho futhi ungamtsheli umfana noma intombazane yakho ukuthi athini amagama owacabangile. Akudingeki ukuthi kuze kube indaba yangempela ukuze kube indaba enhle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎁 Ask your teen what their favourite part of the story was, and tell them yours!",
+    "text": "🎁 Buza umfana noma intombazane yakho ukuthi iyiphi ingxenye ayithanda kakhulu endabeni, bese uyitshela eyakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Take A Pause with your teen*",
+    "text": "*Thatha Ikhefu nomntwana wakho*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a pause with your teen. This helps them deal with stress in a healthy way!",
+    "text": "Thatha ikhefu nomntwana wakho. Lokhu kubasiza ukubhekana nokukhathazeka ngendlela enempilo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ You could take a pause before dinner, after school, before school, or before bedtime.",
+    "text": "⏰ Ningathatha ikhefu ngaphambi kwesidlo sasebusuku, emva kwesikole, ngaphambi kwesikole, noma ngaphambi kwesikhathi sokulala.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Sit down together and close your eyes. Listen to your breath as it goes in and out. Notice how you feel. ",
+    "text": "👂 Hlalani ndawonye bese nivala amehlo. Lalela umphefumulo kwakho uma uphuma ungena. Bheka ukuthi uzizwa kanjani. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Take 5 more deep breaths.",
+    "text": "⭐ Phefumula kakhulu kawu-5.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When you are ready, open your eyes again. Do you feel any different? ",
+    "text": "👀 Uma usulungile, vala amehlo akho futhi. Uyawuzwa umehluko? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸ Ask your teen what it was like to take a pause. Listen and accept whatever they say about it.",
+    "text": "⏸ Buza umfana noma intombazane yakho ukuthi bekunjani ukuthatha ikhefu. Lalela futhi wamukele noma yini ayishoyo ngakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Name That Tune*",
+    "text": "*Qamba leloculo*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Listening to music is a great way to lower your stress and have fun with your family. 💚",
+    "text": "Ukulalela umculo indlela enhle yokwehlisa ukukhathazeka nokuzijabulisa nomndeni wakho. 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📻 Gather your family members and choose one person to play or sing a song.",
+    "text": "📻 Qoqa amalunga omndeni wakho bese ukhetha umuntu oyedwa ukuthi adlale ingoma noma acule.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Everyone else must guess the name and artist of the song.",
+    "text": "❓ Bonke abanye abantu kufanele baqagele igama nomculi wengoma.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 The first one to guess it right becomes the next person to sing or play a song. ",
+    "text": "🎉 Owokuqala oqagela kahle kuba nguyena umuntu olandelayo oculayo noma odlala ingoma. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Keep going around until everyone has been able to play their favourite song and let the rest hear.",
+    "text": "🔄 Qhubekani nijikeleza kuze kube yilapho wonke umuntu esekwazi ukudlala ingoma yakhe eyintandokazi futhi aqiniseke ukuthi abanye bayezwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Pass the ball*",
+    "text": "*Dlulisa ibhola*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Games are a great, fun way to spend time with your family! ",
+    "text": "Imidlalo ayindlela enhle, ejabulisanayo ukuchitha isikhathi nomndeni wakho! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ This game is best with at least 3 people.",
+    "text": "3️⃣ Lo mdlalo ulungele abantu abawu-3 kuyela phezulu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ Find a ball to play. If you cannot find a ball, choose an item you can safely throw around. For example, a bottle cap or a plastic cup.",
+    "text": "⚽ Thola ibhola lokudlala. Uma ungakwazi ukuthola ibhola, khetha into ephephile ongakwazi ukuyiphonsa. Isibonelo, isivalo sebhodlela noma inkomishi yeplastiki.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "➡️ Start in a circle and pass the ball around. ",
+    "text": "➡️ Qala endlingilizini bese udlulisa ibhola. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Start throwing the ball in new directions (up, down, straight, curved, rolling on the ground) and with different forces (hard, soft, medium). You can bounce the ball, throw it in the air, and catch it a few times before passing it. ",
+    "text": "👋 Qala uphonse ibhola ngezindlela ezihlukile (phezulu, phansi, phambili, indlela egobile, ulirole phansi) futhi ngamandla ahlukile (ngokuqina, ngokuthamba, ngendlela ephakathi). Ungagxuma ibhola, uliphonse emoyeni, bese ulibamba kaningi ngaphambi kokulidlulisa. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ When everyone gets good at catching the ball, you can start moving around the room, still passing the ball. ",
+    "text": "✨ Uma bonke abantu sebelibamba kahle ibhola, ungaqala ukuhamba-hamba egumbini, usaqhubeka udlulisa ngokuphonsa ibhola. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Can you throw the ball under the leg? Behind the back? Over your head? Block a pass? Have fun with it!",
+    "text": "⭐ Ungakwazi ukuphonsa ibhola ngaphansi komlenze? Ngemuva? Phezu kwekhanda lakho? Vimba iphasi? Zithokozise ngayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make Housework Fun*",
+    "text": "*Yenza Umsebenzi Wasendlini Ujabulise*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Turn your chores into games! 🏆 ",
+    "text": "Shintsha imisebenzi yasekhaya kube imidlalo! 🏆 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ Making housework fun is a good way to teach your teen to be responsible and to rely on themselves. ",
+    "text": "☀️ Ukwenza umsebenzi wasendlini ujabulise indlela enhle yokufundisa umfana noma intombazane yakho ukuzimela. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Together, make a list of all the chores that must be done in your home. ",
+    "text": "📝 Ndawonye, yenza uhlu lwayo yonke imisebenzi yasekhaya okufanele yenziwe. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Make sure the tasks are fair and things your teen can do. For example, washing up, sweeping, mopping, making the beds, and laundry.",
+    "text": "💡 Qiniseka ukuthi imisebenzi ilungile futhi imisebenzi umfana noma intombazane yakho angayenza. Isibonelo, ukuwasha, ukushanela, ukukorobha, ukwendlula umbhede, nokuwasha izimpahla.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Each week, let a different person in the family choose a chore first.",
+    "text": "🔄 Njalo ngesonto, dedela umuntu ohlukile emndenini ukuthi akhethe umsebenzi wasekhaya kuqala.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎵 Play some music or turn on the radio. Music is a great way to make a boring task fun!",
+    "text": "🎵 Dlala umculo noma ukhanyise umsakazo. Umculo indlela enhle ukwenza umsebenzi obhorayo ube mnandi!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ Tick off the tasks when they are done so you can see your progress as a family. You could offer small rewards as motivation to complete activities.",
+    "text": "✅ Thikha uma umsebenzi wenziwe ukuze nibone inthuthuko yenu njengomndeni. Ungabeka umklomelo omncane njengogqozi lokuqeda umsebenzi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 For example, you could let your teen watch more TV, spend more time with their friends, choose what they want for dinner, or have something sweet if they do their chores in a fair amount of time.",
+    "text": "📺 Isibonelo, ungavumela umfana noma intombazane yakho abukele iTV, achithe isikhathi nabangani bakhe, akhethe ukuthi kungaba isiphi isidlo sasebusuku, noma athole okunoshukela uma enza umsebenzi wakhe wasekhaya ngesikhathi esilungile",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ If your child does not complete a chore, ask them why, and come up with a fair consequence together.",
+    "text": "❓ Uma umfana noma intombazane yakho engawuqedi umsebenzi othile, mbuze ukuthi kungani, bese niqhamuka nomphumela omuhle ndawonye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*I’m Going on a Picnic and I Will Bring…*",
+    "text": "*Ngiya kwipikiniki futhi Ngizophatha…*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Memory games are a fun way to strengthen our brains! ",
+    "text": "Imidlalo yenkumbulo indlela ejabulisayo yokuqinisa izingqondo zethu! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 Think of all the things you would have at your dream picnic. ",
+    "text": "🎂 Cabanga zonke izinto ongabanazo kwipikiniki yamaphupho akho. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎈 The first person says, “On Saturday, I am going to the park to have a picnic. To this picnic, I will bring...” and they say one thing they will bring to the picnic.",
+    "text": "🎈 Umuntu wokuqala uthi, \"NgoMqibelo, ngiya epaki ngiyoba nepikiniki. Kule pikiniki, ngizoletha...\" bese esho okukodwa azokuletha kupikiniki.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍅 For example: a sandwich, a ball, a blanket, forks, cups, a dog, or coca cola.",
+    "text": "🍅 Isibonelo: isemishi, ibhola ingubo, izimfoloko, izinkomishi, inja, noma i-coca cola.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 The second person adds to the first person's list, but must start at the beginning: “On Saturday, I am going to the park to have a picnic. To this picnic, I will bring...” and say the item that the first person said AND then add their own item to the list.",
+    "text": "🔔 Umuntu wesibili wengeza kuhlu lomuntu wokuqala, kodwa kufanele aqale ekuqaleni: \"NgoMgqibelo, ngiya epaki ngiyoba nepikiniki. Kule pikiniki, ngizoletha...\" bese esho into eshiwo ngumuntu wokuqala BESE efaka nento yakhe lapho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Each time you add an item, you must say all previous items first - in the correct order!",
+    "text": "🔄 Njalo mawufaka into, kefanele usho zonke izinto esezishiwo kuqala - zilandelana kahle!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Each person adds to the list, while remembering all the previous items. ",
+    "text": "⭐ Umuntu ngamunye uyafaka kuhlu, abe ekhumbula izinto esezishiwo ngaphambili. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 If everyone has a turn, keep going and building your list. The first person to forget an item restarts the game!",
+    "text": "👀 Uma wonke umuntu enethuba, qhubeka futhi wakhe uhlu lwakho. Umuntu wokuqala okhohlwa into ethile uqala kabusha umdlalo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*This is who I am*",
+    "text": "*Yilokhu engiyikho*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Self-esteem is the way you value yourself, either in a positive or negative way. Helping your teen to have high self-esteem is a recipe for success! 🏆",
+    "text": "Ukuzethemba yindlela ozazisa ngayo, ngendlela enhle noma embi. Ukusiza umtwana wakho umfana noma intombazane yakho ukuba azethembe kuyindlela yempumelelo! 🏆",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐Share with your teen 3 things you like about yourself!",
+    "text": "⭐ Yabelana numfana noma intombazane yakho wakho izinto ezi-3 ozithandayo ngawe!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Ask your teen to tell you 3 things they like about themselves. ",
+    "text": "3️⃣ Cela umtwana wakho umfana noma intombazane yakho ukuthi akutshele izinto ezintathu-3 azithandayo ngaye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example: I am great at treating others kindly. I am great at styling my hair. I am great at football. ⚽",
+    "text": "Isibonelo: Ngimuhle ekuphatheni abantu ngomusa. Ngimuhle ukwenzeni izinwele zami. Ngimuhle ekudlaleni kwebhola. ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If your teen does not feel comfortable sharing these, ask them to write them down. 📝",
+    "text": "Uma umfana noma intombazane yakho ingazizwa ikhululekile ukwabelana ngalokhu, yicele ukuthi ikubhale phansi. 📝",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Things I like about others and me*",
+    "text": "*Izinto engizithanda ngami nangabanye*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is an activity to help you and your teen notice the good parts of themselves.. ",
+    "text": "Nawu umsebenzi ozosiza wena nomtwana wakho umfana noma intombazane yakho niqaphele izinto ezinhle ngani.. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️Ask your teen to share 3 things they like about a friend or someone they admire, like a celebrity.",
+    "text": "☀️ Mucele umtwana wakho umfana noma intombazane yakho ukuthi akutsele izinto ezintathu-3 azithandayo ngomngani noma umuntu amazisayo, njengosaziwayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask them if they share any of these qualities, too.",
+    "text": "❓ Babuze uma benazo nabo lezimfanelo ezifanayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💙 You can do the same: share with your teen the qualities you like about yourself or about someone you admire - and what you like about your teen!",
+    "text": "💙 Ungenza okufanayo: yabelana nomntwana wakho ngezimfanelo ozithandayo ngawe noma ngothile omthandayo - nalokho okuthandayo ngengane yakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make a family wish list*",
+    "text": "*Yenza uhlu lwezifiso zomndeni*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Wish lists are a great way to set, plan and keep track of your goals and dreams. 🌷 ",
+    "text": "Uhlu lwezifiso indlela enhle yokuhlela nokulandelela izifiso namaphupho akho. 🌷 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 To start your wish list, gather your family together and grab pens and paper. ",
+    "text": "📝 Ukuqala uhlu lwakho lwezifiso, hlanganisa umndeni wakho ndawonye bese nithola amapeni namaphepha. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🚲 Allow each family member to write a list of goals and experiences they want to achieve this year.",
+    "text": "🚲 Vumela amalunga omndeni abhale uhlu lwezifiso kanye nezinto abafisa zifezeke kulo nyaka.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 For example: exercise daily, read 1 book a month, make a new friend, learn to bake a cake, learn to juggle, or go watch the local soccer team play. ",
+    "text": "🎂 Isibonelo: ukuzivocavoca nsuku zonke, funda incwadi eyodwa ngenyanga, ukwenza umngani omusha, funda ukubhaka ikhekhe, funda ukuphonsa amabhola emoyeni uwabambe, noma hamba uyobheka iqembu lebhola lasendaweni lidlala. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Once you have finished, put the list up where everyone can see it daily.",
+    "text": "🔔 Uma seniqedile, beka uhlu lapho bonke abantu bazolubona khona nsuku zonke.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 As members of the family reach their goals, tick them off the list and celebrate each goal reached. ",
+    "text": "🎉 Njengoba amalunga omndeni afeza izifiso zabo, thikha kuhlu bese nibungaza isifiso esifezekile. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ As the year goes on, there might be some items some of you have not achieved. Talk to your family about whether you still want to reach this goal or whether the goal has changed. ",
+    "text": "❓ Njengoba unyaka uqhubeka, kungenzeka ezinye izinto, abanye benu azifezekanga. Khuluma nomndeni wakho mayelana nokuthi usafuna ukufeza lesi sifiso noma isifiso sesishintshile. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 If you still want to achieve the goal, discuss with your family what you need to do to tick the goal off your wish list.",
+    "text": "🔑 Uma usafuna ukufeza umgomo, xoxisana nomndeni wakho ngalokho okudingeka ukwenze ukuze ukhathule umgomo ohlwini lwakho lwezifiso.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Weekly Goal Setting*",
+    "text": "*Ukulungiselelwa Komgomo Wamasonto onke*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s set some goals ⭐",
+    "text": "Asibeke imigomo ethile ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ It can be helpful to set smaller weekly goals that are easier to reach. This helps us reach our larger goals over time.",
+    "text": "⏰ Kungaba usizo ukuzibekela imigomo emincane yamasonto onke okulula ukuyifinyelela. Lokhu kusisiza ukuthi sifinyelele imigomo yethu emikhulu ngokuhamba kwesikhathi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Ask your teen for one goal that they would like to achieve this week. ",
+    "text": "💡Buza umfana noma intombazane yakho umgomo owodwa engathanda ukuwufinyelela kuleli sonto. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Make sure this goal is *specific* and  *achievable* to reach in 1 week.",
+    "text": "🔄 Qiniseka ukuthi lo mgomo *uqondile* futhi *uyafinyeleleka* ukuze uwufinyelele evikini elilodwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 You can also share your own weekly goal with your teen and support each other so you can both achieve your goals.",
+    "text": "💚 Ungakwazi futhi ukwabelana ngomgomo wakho weviki nomntwana wakho futhi nisekelane ukuze nobabili nifinyelele imigomo yenu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉 Make sure to praise and celebrate your teen for their hard work towards reaching their goal.",
+    "text": "🎉 Qiniseka ukuthi uyayincoma futhi uyibungaze umfana noma intombazane yakho ngomsebenzi wayo onzima ukuze ifinyelele umgomo wayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 If your teen does not reach their goal, that is okay. Discuss with your teen the steps they still need to take or how they could reach it a different way.",
+    "text": "🔔 Uma umtwana wakho umfana noma intombazane yakho engafinyeleli kumgomo wakhe, kulungile. Xoxisana nomtwana wakho umfana noma intombazane yakho ngezinyathelo asadinga ukuzithatha noma ukuthi angafinyelela kanjani kuzo ngendlela ehlukile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Three cakes and a candle*",
+    "text": "*Amakhekhe amathathu nekhandlela*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Working towards big goals can be hard! Here is a way you can help your teen set new goals for the things they want to achieve. 👑",
+    "text": "Ukusebenzela izifiso ezinkulu kungaba nzima! Nansi indlela ongasiza ngayo umfana noma intombazane yakho wakho ukusetha amagoli ezintsha abafuna ukuzifeza. 👑",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👑 Ask your teen to come up with three things that they are good at, and discuss what they did to become so good at them. For example: keeping their room neat, helping your family with housework, or playing a sport.",
+    "text": "👑 Cela umfana noma intombazane yakho wakho ukuthi asho izinto ezintathu azenza kahle, futhi nikhulume ngokuthi benzeni ukuze bazenze kahle. Isibonelo: ukugcina ikamelo labo niqoqekile, ukusiza umndeni wakho ngomsebenzi wasendlini, noma ukudlala ezemidlalo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Next, ask your teen what they wish they were good at. ",
+    "text": "🏆 Okulandelayo, buza umfana noma intombazane yakho wakho ukuthi ufisa ukuthi ebemuhle ekwenzeni ini. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔑 Remind them that it took work and practice to become good at the skills they have. They will have to do the same for any new goal.",
+    "text": "🔑 Bakhumbuze ukuthi kwathatha umsebenzi nokuzijwayeza ukuze abemuhle kulamakhono anawo. Kufanele benze okufanayo kunoma isiphi isifiso esisha.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Help your teen break down their goal and set up smaller goals they need to achieve to reach their greater goal. ",
+    "text": "⏰ Siza umfana noma intombazane yakho wakho ukuthi ahlukanise isifiso sakhe futhi azibekele izifiso ezincane adinga ukuzifeza ukuze afikelele esifisweni sakhe esikhulu. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 It is much easier to achieve a goal if you write it down! This way, you can be reminded of it as you work towards it.",
+    "text": "📝 Kulula kakhulu ukufeza isifiso uma usibhala phansi! Ngale ndlela, ungakhunjuzwa ngaso njengoba usebenzela ukufika kuso.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "☀️ For example, if the goal is to be good at football, small weekly goals could be to go to football practice 2 times per week, run at least 1 km 5 times per week, and learn about the sport from other football players in the community or from books or videos they find. ",
+    "text": "☀️ Isibonelo, uma isifiso ukuba muhle ebholeni, izifiso ezincane zesonto kungaba ukuya ebholeni kabili ngesonto, ugijime okungenani ikhilomitha kawu-5 ngesonto, futhi ufunde ngebhola kwabanye abadlali bebhola emphakathini noma ezincwadini noma kumavidiyo abawatholayo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅ It is important to write down these smaller goals and let your teen tick off each task as they do them each week. Seeing themselves reach smaller goals will keep them motivated to achieve the big goal!",
+    "text": "✅ Kubalulekile ukubhala phansi le migomo emincane futhi uvumele umfana noma intombazane yakho ukuthi iphawule umsebenzi ngamunye njengoba iwenza isonto ngalinye. Ukuzibona befinyelela imigomo emincane kuzobagcina benogqozi lokufinyelela umgomo omkhulu!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Role Playing*",
+    "text": "*Ukudlala indima*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s start acting! ⭐",
+    "text": "Masiqale ukulingisa! ⭐",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓Role playing common stressful social moments with your teen allows them to practise how to respond so they are prepared if this moment does happen. 🌷",
+    "text": "❓ Ukulingisa indima ejwayelekile yokuzijabulisa ekhathazanayo numfana noma intombazane yakho wakho kuyamuvumela ukuthi azijwayeze ukuthi uzophendula kanjani ukuze abe akulungele uma isimo senzeka. 🌷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✨ Ask your teen if they want to role play with you. You can also suggest a topic. For example, asking someone on a date, saying no to drugs/alcohol/sexting, dealing with a bully, getting a bad grade, or dealing with gossip.",
+    "text": "✨ Buza umtwana wakho umfana noma intombazane yakho ukuthi uyafuna yini ukudlala indima nawe. Ungafaka isicelo sesihloko. Isibonelo, ukucela othile ukuzikhipha naye, ukungqaba izidakamizwa/utshwala/imiyalezo yocansi, ukubhekana nohlukumeza abanye, ukuthola amamaki amabi, noma ukubhekana nenhlebo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌙 Your teen could play the role of a friend asking you to drink at a party. You could role play an underage teen who does not want to drink. Encourage your teen to be silly and really get into character with them. ",
+    "text": "🌙umfana noma intombazane yakho wakho angalingisa indima yomngani okucela ukuthi uphuze ephathini. Wena ungalingisa indima yomntwana umfana noma intombazane yakho ongafuni ukuphuza. Gqugquzela umfana noma intombazane yakho umfana noma intombazane yakho ukuthi abe isiphukuphuku futhi angeni esimeni ngokuphelele. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏯️ After you act out the scene, it is important to talk to your teen about the actions that you role played. You can act out this scenario as many times as you like!",
+    "text": "⏯️ Ngemva kokulingisa indawo, kubalulekile ukukhuluma nomntwana wakho mayelana nezenzo ozililile. Ungalingisa lesi simo izikhathi eziningi ngokuthanda kwakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Traffic Lights*",
+    "text": "* Izibani Zomgwaqo*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "A group activity is a great way to bond with others! 💛 ",
+    "text": "Umsebenzi weqembu uyindlela enhle yokuhlangana nabanye! 💛 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Choose one person to turn and face a wall. This will be the traffic officer. ",
+    "text": "💡 Khetha umuntu oyedwa ukuthi ajike abheke udonga. Lona kuzoba iphoyisa lomgwaqo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 Everyone else will begin the game at the other side of the room, or if you are outside, at a starting line. Set a long distance between the traffic officer and the players. ",
+    "text": "🏁 Bonke abanye abantu bazoqala umdlalo kwelinye uhlangothi legumbi, noma uma ungaphandle, kulayini wokuqala. Setha ibanga elide phakathi kwephoyisa lomgwaqo nabanye abadlali. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 The game begins when the officer shouts “Green”, and everyone can start moving towards the traffic officer at any speed they choose. ",
+    "text": "💚 Umdlalo uqala uma iphoyosa limemeza \"Umbala oluhlaza\", bese bonke abantu bangaqala ukusondela ephoyiseni lomgwaqo nganoma isiphi isivinini abasikhethayo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔴 The officer can shout “Red!” at any time, without looking behind them. When they shout this, everyone must stop and freeze! ",
+    "text": "🔴 Iphoyisa lingamemeza lithi \"Umbala obomvu!\" nganoma isiphi isikhathi, ngaphandle kokubheka ngemuva. Uma limemeza lokhu, wonke umuntu kufanele ame futhi anganyakazi! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏸ The officer turns around to see if everyone is frozen. If they see anyone moving, they have to send them back to the start line.",
+    "text": "⏸ Iphoyisa liyaphenduka ukubona ukuthi wonke umuntu akanyakazi. Uma ebona umuntu onyakazayo, kufanele amubuyisele emuva ayoqala phansi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 The winner is the first person to get to the officer without being sent back to the start.",
+    "text": "🏆 Umanqoba umuntu owokuqala ofika ephoyiseni ngaphandle kokubuyiselwa ekuqaleni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👑 The winner then becomes the traffic officer and you can play another round!",
+    "text": "👑 Owinile ube eseba iphoyisa lomgwaqo futhi ungadlala omunye umzuliswano!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Cooking with Maths*",
+    "text": "*Ukupheka neZibalo*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Cooking can help your boy or girl start learning maths!",
+    "text": "Ukupheka kungasiza umfana noma intombazane yakho ukuqala ukufunda izibalo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Invite your girl or boy to help you cook for your family, or to choose something they would like to cook",
+    "text": "💚 Mema umfana noma intombazane yakho izokusiza ukuphekela umndeni wakho, noma akhethe into angathanda ukuyipheka",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍅 Ask your boy or girl to count different ingredients. Help them if it’s difficult!",
+    "text": "🍅 Buza umfana noma intombazane yakho ukuthi ibale izithako. Basize uma kunzima!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔟 Help your girl or boy to understand adding and subtracting quantities ",
+    "text": "🔟 Siza umfana noma intombazane yakho ukuthi akwazi ukwengeza nokunciphisa ubuningi ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Encourage your boy or girl to recognise numbers on packaging",
+    "text": "📝 Khuthaza umfana noma intombazane yakho ukubona izinombolo emaphaketheni",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": " 👀 Ask your girl or boy about the different sizes of ingredients - e.g. which is bigger/biggest?",
+    "text": " 👀 Buza umfana noma intombazane yakho ngosayizi bezithako - isib. ikuphi okukhulu/nokukhulu kakhulu?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Think about when you will cook together again! You can also practise understanding numbers and quantities during other activities like shopping or building/making things",
+    "text": "🔄 Cabanga ngokutih nizopheka nini ndawonye futhi! Ungamujwayeza ukuqonda izinombolo nobuningi uma nenza izinto njengokuthenga ezitolo noma ukwakha izinto",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Following Instructions*",
+    "text": "*Ukulandela Imiyalelo*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Play a game in which your boy or girl listens to and tries to remember strings of instructions.",
+    "text": "👂 Dlala umdlalo lapho umfana noma intombazane yakhou elalela bese ezama ukukhumbula imiyalelo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This will be useful in school, at home, and later in life!",
+    "text": "Lokhu kuzosiza esikoleni, ekhaya, nasempilweni esikhathini esizayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Start with just one instruction using an object in your home. For example “touch the red ball” 🔴",
+    "text": "Qala ngomyalelo owodwa usebenzisa into esekhaya lakho. Isibonelo \"thinta ibhola elibomvu\" 🔴",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Slowly add more instructions (e.g “then pick up the cup ☕), but tell your girl or boy that they can only start once you’ve finished giving the instructions.",
+    "text": "Kancane kancane faka eminye imiyalelo (isib. \"bese ucosha inkomishi ☕), kodwa tshela umfana noma intombazane yakho ukuthi ingaqala uma usuqedile ukusho imiyalelo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "See how many your boy or girl can follow without forgetting!",
+    "text": "Bheka ukuthi umfana noma intombazane yakho ingalandela emingaki ngaphandle kokukhohlwa!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Now swap roles! It’s your boy or girl’s turn to give you instructions! They can use the same objects if they want.",
+    "text": "🔄 Manje shintshisanani izindawo! Sekuyithuba lengane yakho ukuthi ikunike imiyalelo! Angasebenzisa izinto ezifanayo uma efuna.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can also try this game with a group of girls and boys! Make sure they take turns :)",
+    "text": "Ungazama lo mdlalo neqembu lezingane! Qiniseka ukuthi bayashintshisana :)",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*One-on-One Time*",
+    "text": "*Isikhathi Ninobabili Nodwa*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Spending time just with your girl or boy and taking an interest in them can improve your relationship.",
+    "text": "💚 Ukuchitha isikhathi nomntwana wakho ninodwa futhi ukubanendaba naye kungasiza ubudlelwano benu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 When your boy or girl is playing alone or occupying themselves quietly, join them and show interest in what they are doing.",
+    "text": "👀 Uma umfana noma intombazane yakho idlala yodwa noma izenzela okunye ngokuthula, mujoyine utshengise ukuba nendaba nento ayenzayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂Ask questions about their activity, and listen to them.",
+    "text": "👂 Buza imibuzo ngomsebenzi awenzayo, bese uyalalela.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let your girl or boy lead the activity, follow them to build their confidence and autonomy 😃.",
+    "text": "Dedela umfana noma intombazane yakho ihole umsebenzi, mulandele ukwakha ukuzethemba nokuzimela 😃.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Say what you see - describing everything and supporting your boy’s or girl’s actions.",
+    "text": "👀 Isho okubonayo - chaza izinto futhi weseke izenzo zengane yakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Be positive, praise your girl or boy, and enjoy spending this time with them 😃💚",
+    "text": "Iba nethemba, ncoma umfana noma intombazane yakho, ujabulele ukuchitha isikhathi naye 😃💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Playtime with Books*",
+    "text": "*Isikhathi Sokudlala Ngezincwadi*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 Book sharing will help your boy or girl learn and is a fun, playful activity to spend quality time together.",
+    "text": "📖 Ukwethula izincwadi kuzosiza umfana noma intombazane yakho ukufunda futhi umsebenzi ojabulisayo, onokudlala ukuze nichithe isikhathi sekhwalithi ndawonye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones.",
+    "text": "⏰ Khetha isikhathi eningeke niphazamiseke ngaso, futhi uvimbe iziphazamiso - isib. cima iTV futhi ubeka amafoni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 If your girl or boy wants to choose a book, that’s fine, otherwise choose for them.",
+    "text": "📖 Uma umfana noma intombazane yakho ikhetha incwadi, lokho kulungile, noma wena umukhethele.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Sit close together and follow your boy or girl attention and lead. ",
+    "text": "💚 Hlalani eduze ndawonye futhi ulandelela ukunaka komntwana wakho bese uyamhola. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Point at things, name and repeat words. Help them to learn more about what interests them in the book 👀 ",
+    "text": "Khomba izinto, isho amagama futhi uwaphinde. Msize ukufunda kakhulu ngezinto azinakayo encwadini 👀 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If there are words or numbers in the book, ask and help your girl or boy recognise letters numbers, and simple words 💡. ",
+    "text": "Uma kukhona amagama noma izinombolo encwadini, buza futhi usize umfana noma intombazane yakho ukubona i-alfabethi, izinombolo namagama alula 💡. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Link things in the books to your child's life, and use words about emotions and talk about them! 😃.",
+    "text": "Qondanisa izinto encwadini nempilo yomntwana wakho, futhi usebenzise amagama emizwa bese ukhuluma ngawo! 😃.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If possible, start a regular routine to read together when your girl or boy isn’t too tired or hungry.",
+    "text": "🔄 Uma kwenzeka, qala uhlelo lokufunda ndawonye uma umfana noma intombazane yakho ingakhathele kakhulu noma ingalambile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Reading together is one of the best ways to help your boy or girl learn and prepare for success in school! 🎓",
+    "text": "Ukufunda ndawonye indlela eyodwa yokusiza umfana noma intombazane yakho ukufunda nokulungiselela ukuphumelela esikoleni! 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 Book sharing will help your girl or boy learn and is a fun, playful activity to spend quality time together",
+    "text": "📖 Ukwethula izincwadi kuzosiza umfana noma intombazane yakho futhi umsebenzi ojabulisayo, ongumdlalo wokucitha isikhathi ndawonye",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones",
+    "text": "⏰ Khetha isikhathi eningeke niphazamiseke ngaso, futhi uvimbe iziphazamiso - isib. cima iTV futhi ubeka amafoni",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📖 If your boy or girl wants to choose a book, that’s fine, otherwise choose for them",
+    "text": "📖 Uma umfana noma intombazane yakho ikhetha incwadi, lokho kulungile, noma wena ungayikhethela",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Sit close together and follow your girl or boy attention and lead ",
+    "text": "💚 Hlalani eduze ndawonye futhi ulandelela ukunaka komntwana wakho bese uyamhola ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Link things in the books to your child's life, and use words about emotions and talk about them! 😃",
+    "text": "Qondanisa izinto encwadini nempilo yomntwana wakho, futhi usebenzise amagama emizwa bese ukhuluma ngawo! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If possible, start a regular routine to read together when your girl or boy isn’t too tired or hungry",
+    "text": "🔄 Uma kwenzeka, qala uhlelo lokufunda ndawonye uma umfana noma intombazane yakho ingakhathele kakhulu noma ingalambile",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*I Spy!*",
+    "text": "*Ngiyahlola!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 I spy is a fun game to play with your girl or boy that will help them learn about letters and words!",
+    "text": "👀 Ngiyahlola umdlalo ojabulisayo ongawudlala nomntwana wakho ongamusiza ukufunda i-alfabethi namagama!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose an object or a thing around you, and don’t tell your boy or girl what it is. It should be something that your boy or girl knows the word for. For example “ball” ⚽",
+    "text": "Khetha into eseduze nawe, futhi ungayitsheli umfana noma intombazane yakho ukuthi yini. Kufanele kube into umfana noma intombazane yakho eyaziyo igama layo. Ngokwesibonelo \"ibhola\" ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”",
+    "text": "👀 Bese uthi \"Ngiyahlola ngehlo lami elincane, into eqala ngo *bese usho i-alfabethi yokuqala yegama* okungu \"b\" kulesisimo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your girl or boy should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅",
+    "text": "umfana noma intombazane yakho kufanele ibheke eduzane iqagele ukuthi usho yiphi into. Uma eqagela kahle, muncome bese niyashintshisana! Uma ehluleka, munikeze uphawu, njengokuthi \"iyindilinga\" noma \"imnyama futhi imhlophe\". ✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Play this game with as many objects as possible and as many different letters! Help your boy or girl to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓",
+    "text": "Dlala lomdlalo ngezinto eziningi ongazicabanga futhi ngezinhlamvu ezihlukile! Siza umfana noma intombazane yakho ukufunda ngezinhlamvu nemisindo emagameni. Lokhu kuzomsiza afunde ukufunda ekhaya nasesikoleni. 🎓",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Categorising and Organising*",
+    "text": "*Ukuhlukanisa Nokuqoqa*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Help your girl or boy to learn by sorting objects and things! 🔵🔷",
+    "text": "Siza umfana noma intombazane yakho ukufunda ngokuthi ahlukanise izinto! 🔵🔷",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your boy or girl will learn by understanding how things fit and group together (eg, bear = animal, mango = fruit, blue = colour) 🧸",
+    "text": "umfana noma intombazane yakho izofunda ngokuqondisisa ukuthi izinto zihlangana ndawonye kanjani (isib, ibhele = isilwane, umangoza = isithelo, luhlaza okwesibhakabhaka = umbala) 🧸",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Find a book with different pictures and help your girl or boy to find things in a particular category (e.g. “Find all of the animals”) 👀",
+    "text": "Thola incwadi enezithombe ezihlukahlukene bese usiza umfana noma intombazane yakho ukuthola izinto esigabeni esithize (isib. \"Thola zonke izilwane\") 👀",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Find *safe* objects in the house, get your boy or girl to group them by colour, size, or types of object (cups, plates). Then make more complicated categories (e.g. small cups, big cups) ☕",
+    "text": "Thola izinto *eziphephile* endlini, tshela umfana noma intombazane yakho ukuthi iziqoqe ngombala, ngobukhulu, noma ngohlobo lwento (izinkomishi, amapuleti). Bese wenza izigaba ezinzima (isib. izinkomishi ezincane, izinkomishi ezinkulu) ☕",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 You can play the categorising game anywhere! Just look around and ask your girl or boy to find things from the category you say!",
+    "text": "🔄 Ningadlala lomdlalo wokuhlukanisa noma ikuphi! Vele ubheke eduzane bese ubuza umfana noma intombazane yakho ukuthi ithole izinto kusigaba osishoyo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What Letter is This?*",
+    "text": "Lithini leligama?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Playing games with letters can help your boy or girl learn the alphabet and how letters are put together to make words.",
+    "text": "Ukudlala imidlalo ngamagama kungasiza umfana noma intombazane yakho ukufunda i-alfabethi nokuthi amagama akhiwa kanjani.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Write a letter on a piece of card or paper (e.g. “p”)",
+    "text": "📝 Bhala i-alfabethi eyodwa kwibhodi noma ephepheni (isib. \"p\")",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Say the letter out loud and ask your girl or boy to say it too!",
+    "text": "👂 Isho i-alfabethi ngomsindo futhi ucele umfana noma intombazane yakho ikusho nayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask your boy or girl to say some words that begin with the letter “p”, give them clues like “What starts with “p”? Plant… What else? 🌱",
+    "text": "Cela umfana noma intombazane yakho ukuthi isho amagama aqala ngo-alfabethi u-\"t\", muphe uphawu njengokuthi \"Yini eqala ngo-\"t\"? Isitshalo... Yini okunye? 🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Ask your girl or boy to look for objects in your house that begin with a letter (eg “p” for plate). Help them find things.",
+    "text": "👀 Cela umfana noma intombazane yakho ukuthi ibheke izinto endlini yakho eziqala nge-alfabethi elilodwa (isib \"p\" oku ipuleti). Musize athole izinto.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Try a new letter every day!",
+    "text": "🔄 Zama i-igama elisha elilodwa ngosuku!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Riddles Help Boys and Girls Learn*",
+    "text": "*Iziphicaphicana Zisiza Izingane Ukufunda*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Riddles and puzzles are a fun way to build thinking skills! 💡",
+    "text": "Iziphicaphicana namaphazili ayindlela ejabulisayo yokwakha ikhono lokucabanga! 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you remember any riddles from your childhood? If you can’t then make one up, they can be very simple! 😃",
+    "text": "Uyazikhumbula iziphicaphicana zasebuntwaneni bakho? Uma uhluleka, yakha eyodwa, ingaba lula kakhulu! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Like “What can you see at night but not in the day” Answer: “The moon” 🌙",
+    "text": "Njengokuthi \"Yini ongayibona ebusuku kodwa ayiveli emini\" Impendulo: \"Inyanga\" 🌙",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If your girl or boy is finding them difficult, try an easy one like: “What is round, bouncy and can be thrown or kicked?” Answer: “A ball” ⚽",
+    "text": "Uma umfana noma intombazane yakho ihluleka, zama esilula njengokuthi: \"Yini eyindingiliza, ongayiphonsa noma uyikhahlele?\" Impendulo: \"Ibhola\" ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your boy or girl can also try making riddles! 💡",
+    "text": "umfana noma intombazane yakho nayo ingazama ukwenza izinganekwane! 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You can have fun with riddles anywhere at any time - like traveling on a bus, walking to school or in a car 🚗",
+    "text": "Ningazijabulisa ngeziphicaphicana noma inini nanoma ikuphi - njengokuhamba ngebhasi, ukuhamba ngezinyawo ukuya esikoleni noma phakathi kwemoto 🚗",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*What's New?*",
+    "text": "*Yini Entsha?*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❓ Ask your girl or boy to think of a new, fun skill you could learn together. ",
+    "text": "❓ Cela umfana noma intombazane yakho ukuthi icabange ikhono elisha, elijabulisayo eningalifunda ndawonye. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the states in Mexico. ",
+    "text": "Isibonelo: ukugcina ibhola emoyeni ngonyawo lwakho, ukuphonsa amabhola emoyeni uwabambe, ukwenza isobo, ukudansa, ukushaya ikhwela, ukusho i-alfabethi uqala ekugcineni, ukufunda zonke izifundazwe zaseMexico. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!",
+    "text": "🔄 Shintshisanani nizama ikhono elisha. Qiniseka ukuthi niyancomana futhi nifunde futhi nidlale ndwawonye!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💛 Approach learning the skill in a kind and fun way, and do not judge your boy or girl or yourself for your ability in the skill. ",
+    "text": "💛 Qala ukufunda ikhono ngendlela enomusa futhi ejabulisayo, futhi ungahluleli umfana noma intombazane yakho noma wena ngokwakho ngamandla akho kulelo khono. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Once you have mastered the skill, choose another skill to learn together.",
+    "text": "😃 Uma usuphumelele kulelo khono, khetha elinye ikhono eningalifunda ndawonye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Make up a Story*",
+    "text": "*Yakha Indaba*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Creating stories together is a great way to have fun with imagination - and to build your girl or boy’s creativity! 📖",
+    "text": "Ukwakha izindaba ndawonye indlela enhle yokuzijabulisa ngomcabango - nokwakha ikhono lokudala lengane yakho! 📖",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "5️⃣ With your boy or girl, come up with 5 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, cooking, wedding. If you need to remember them, write them clearly on a paper with your girl or boy.",
+    "text": "5️⃣ nomntwana wakho, cabanga amagama ayi-5 ozowasebenzisa. Kungaba inoma imaphi owafunayo! Isibonelo: ubhanana, umkhumbi-mkhathi, inhlanzi, amanzi, ukupenda, ukupheka, umshado. Uma udinga ukuwakhumbula, wabhale phansi kahle ephepheni nomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎂 Start your story with, “Once upon a time, there was a…” and use one of the words from the list in the first part. For example, “Once upon a time, there was a family who worked on a *banana* farm.”",
+    "text": "🎂 Qala indaba yakho ngokuthi, \"Kwasukasukela, kwakukhona i...\" bese uqiniseka ukuthi usebenzisa elilodwa lamagama kuhlu lwakho. Isibonelo, \"Kwasukasukela, kwakukhona umndeni owawusebenza efamini *labhanana*.\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Let your boy or girl make up the next part using another word from the list.",
+    "text": "📝 Dedela umfana noma intombazane yakho icabange umusho olandelayo ngokusebenzisa elinye igama kuhlu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Take turns until you have used all the words and created a story. ",
+    "text": "🔄 Shintshisanani nize nisebenzise wonke amagama futhi seniyakhile indaba. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔔 Be creative and do not tell your girl or boy what to say. It does not need to be a real story to be fun!",
+    "text": "🔔 Yakha kabusha futhi ungayitsheli umfana noma intombazane yakho ukuthi ithini. Akudingeki ukuthi kube indaba yangempela ukuze ijabulise!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎁 Ask your boy or girl what their favourite part of the story was, and tell them yours!",
+    "text": "🎁 Buza umfana noma intombazane yakho ukuthi yini ayithandile kakhulu endabeni, bese umtshela okuthandwe nguwe!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Playing with Clothes*",
+    "text": "*Ukudlala Ngezimpahla*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Help your girl or boy use their fingers, talk about clothes, and organise them! ",
+    "text": "💡Siza umfana noma intombazane yakho ukusebenzisa iminwe yayo, ukukhuluma ngezimpahla, futhi ukuzihlukanisa! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Help your boy or girl exercise their fingers by showing them how buttons and zips work on clothes, and letting them practise using them! 👋",
+    "text": "Siza umfana noma intombazane yakho ukuvocavoca iminwe yayo ngokumukhombisa ukuthi izinkinobho noziphi basebenza kanjani ezimpahleni, bese uyamudedela azijwayeze ukuwasebenzisa! 👋",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 Talk about the colours of clothes! Ask your girl or boy to pick a colour and talk about all the things that are that colour: “What are all the things we can think of that are blue?”",
+    "text": "🔵 Khuluma ngombala wezimpahla! Cela umfana noma intombazane yakho ukuthi ikhethe umbala bese nikhuluma ngazo zonke izinto ezinalowo mbala: \"Iziphi zonke izinto esingazicabanga ezingumbala oluhlaza okwesibhakabhaka?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Encourage your boy or girl to help you sort clothes into piles for each family member.",
+    "text": "😃 Khuthaza umfana noma intombazane yakho ukuthi akusize ukuhlukanisa izimpahla, nenzela amalunga omndeni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Playing with Vegetables*",
+    "text": "*Ukudlala Ngemifino*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🌱 Help your girl or boy learn by thinking and talking about vegetables!",
+    "text": "🌱 Siza umfana noma intombazane yakho ukufunda ngokucabanga nangokukhuluma ngemifino!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🍅 Mix together 2-3 different ingredients of your choice (like onions, tomatoes and corn example). Say: “Help me sort these vegetables into piles?” Try sorting them by size.",
+    "text": "🍅 Hlanganisa izithako ezi-2-3 ozikhethayo (njengo-anyanisi, utamatisi nombhila isibonelo). Ithi: \"Ngisize ukuhlukanisa lemifino?\" Zama ukuwahlukanisa ngobukhulu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Remind me!",
+    "text": "😃 Ngikhumbuze!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk about your child’s experiences. Ask questions and wait for answers. Follow your child’s interests. ",
+    "text": "Khuluma ngezinto umfana noma intombazane yakho azibonile. Buza imibuzo futhi ulinde izimpendulo. Landela izinto umfana noma intombazane yakho azithokozelayo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "“Can you help me remember what is at the market?” “Do they sell carrots at the market?” “Do they sell anything yellow at the market?” “What else do they sell?” “Can you think of other things they sell?”",
+    "text": "\"Ungangisiza ukukhumbula ukuthi kwakukhona ini emakethe?\" \"Bayawadayisa yini amakherothi emakethe?\" \"Bayayidayisa into enombala ophuzi emakethe?\" \"Yini enye abayidayisayo?\" \"Ungacabanga ezinye izinto abazidayisayo?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Can you think of something similar?",
+    "text": "💡 Ungayicabanga into enokufana?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say: We are going to think of some things that are similar or different from what I tell you. So listen carefully!”",
+    "text": "Ithi: \"Sizocabanga izinto ezifanayo noma ezihlukile kunalokho engizokusho kuwena. Lalelisisa!\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a tomato. Can you think of something else that is red like a tomato? 🍅",
+    "text": "Nawu utamatisi. Ungacabanga enye into ebomvu njengotamatisi? 🍅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you think of something else that is round like a tomato? ⚽",
+    "text": "Ungacabanga enye into eyindingiliza njengotamatisi? ⚽",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Animals*",
+    "text": "*Izilwane*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🧸 Active animals: Take turns with @fields.child_nickname doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird",
+    "text": "🧸 Izilwane eziphilayo: Shintshisana no @fields.child_nickname nilingisa izilwane: Gxuma njengexoxo, zilule njengekati, gijima njengenja, nyakaza njengenyoka, phakama njengenyoni",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird",
+    "text": "🧸 Izilwane eziphilayo: Shintshisana nomntwana wakho nilingise izilwane: Gxuma njengexoxo, zilule njengekati, gijima njengenja, nyakaza njengenyoka, phakama njengenyoni",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡All the animals we can think of - think about groups of animals!",
+    "text": "💡 Zonke izilwane esingazicabanga - cabanga amaqembu ezilwane!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that have feathers?",
+    "text": "Iziphi zonke izilwane esingazicabanga ezinamaphiko?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that eat plants? 🌱",
+    "text": "Iziphi zonke izilwane esingazicabanga ezidla izitshalo? 🌱",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are all the animals we can think of that lay eggs?",
+    "text": "Iziphi zonke izilwane esingazicabanga izizalela amaqanda?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Counting rabbits",
+    "text": "😃 Ukubala onogwaja",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔟 Find 10 rocks and put them in a line, tell your girl or boy that they are rabbits!",
+    "text": "🔟 Thola amatshe ayi-10 bese uwabeka ngolayini, tshela umfana noma intombazane yakho ukuthi ngonogwaja!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask them to count the rabbits!",
+    "text": "Mcele abale onogwaja!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Put the rabbits into 2 equal piles. Ask your boy or girl to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have?”",
+    "text": "Hlukanisa onogwaja kabili. Cela umfana noma intombazane yakho ikuphe onogwaja abathathu. Ithi \"Uma ungipha abathathu, usala nonogwaja abangakhi?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Active Counting*",
+    "text": "*Ukubala Ngokwenza*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Clap, hop, jump: Play the following game with @fields.child_nickname. Make it active!",
+    "text": "👋 Shaya izandla, gxuma kancane, gxuma: Dlala lo mdlalo olandelayo no @fields.child_nickname. Yenza isenzo!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1️⃣ Clap hands 1 time. 2️⃣ Clap hands 2 times.",
+    "text": "1️⃣ Shaya izandla kanye. 2️⃣ Shaya izandla kabili.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Jump 1 time. 2️⃣ Jump 2 times.",
+    "text": "1️⃣ Gxuma kanye. 2️⃣ Gxuma kabili.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1️⃣ Hop 1 time.",
+    "text": "1️⃣ Gxuma kancane kanye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "3️⃣ Hop 3 times.",
+    "text": "3️⃣ Gxuma kancane kathathu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Can you hop, then jump, then clap? ",
+    "text": "💡 Ungagxuma kancane, ugxume, bese ushaya izandla? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 Can you clap twice, jump once, and hop three times?",
+    "text": "🏆 Ungashaya izandla kabili, ugxume kanye, bese ugxuma kancane kathathu?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👋 Clap, hop, jump: Play the following game with your child. Make it active!",
+    "text": "👋 Shaya izandla, gxuma kancane, gxuma: Dlala lo mdlalo olandelayo nomntwana wakho. Yenza isenzo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡Remembering Instructions",
+    "text": "💡 Ukukhumbula Imilayezo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Take turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!",
+    "text": "Shintshisanani nidlala umdlalo lapho unika khona omunye umuntu imilayezo emibili noma emithathu ekufanele akhumbule ukuyilandela. Qiniseka ukuthi umyakazo womzimba ubaliwe!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example:",
+    "text": "Isibonelo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Hop twice, turn around.",
+    "text": "Gxuma kancane kabili, phenduka.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Jump to the kitchen, pick up a spoon, then run back. ✅",
+    "text": "Gxumela ekhishini, cosha ikhezo, bese ugijima ubuyele emuva. ✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Thinking Games*",
+    "text": "*Imidlalo Yokucabanga*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❗ Mama/Daddy says! Play this game of giving instructions:",
+    "text": "❗ Umama/Ubaba uthi! Dlala lo mdlala ngokupha imiyalelo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Mama/daddy says touch your head. Mama/daddy says open your mouth. Mama/daddy says turn around. Mama/daddy says touch your knees. Mama/daddy says jump twice. Mama/daddy says jump, then clap and sit.",
+    "text": "Umama/Ubaba uthi thinta ikhanda lakho. Umama/Ubaba uthi vula umlomo wakho. Umama/Ubaba uthi jika. Umama/Ubaba uthi thinta amadolo akho. Umama/Ubaba uthi gxuma kabili. Umama/Ubaba uthi gxuma, bese ushaya izandla bese uhlala phansi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔵 🔴Blue-Red - now play this game!",
+    "text": "🔵 🔴 Kuluhlaza okwesibhakabhaka-Kubomvu - manje dlala lo mdlalo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If I say touch something blue, you need to touch something red. If I say touch something red, you need to touch something blue.",
+    "text": "Uma ngithi thinta into eluhlaza okwesibhakabhaka, kufanele uthinte into ebomvu. Uma ngithi thinta into ebomvu, kufanele uthinte into eluhlaza okwesibhakabhaka.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Go and stop: Play the game with @fields.child_nickname",
+    "text": "👂 Hamba bese uyama: Dlala lo mdlalo no@fields.child_nickname",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Say: When I say “stop”, we freeze. When I say “go”, we can walk again.",
+    "text": "Ithi: Uma ngithi \"ima\", asinyakazi. Uma ngithi \"hamba\", singahamba futhi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Once @fields.child_nickname is familiar with the game, @fields.child_nickname will lead.",
+    "text": "Uma u@fields.child_nickname esewujwayele lo mdlalo, u@fields.child_nickname uzonihola.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👂 Go and stop: Play the game with your child",
+    "text": "👂 Hamba bese uyama: Dlala lo mdlalo nomntwana wakho",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Once your child is familiar with the game, your child will lead.",
+    "text": "Uma umfana noma intombazane yakho esewujwayele lo mdlalo, umfana noma intombazane yakho uzonihola.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Games with Pictures!*",
+    "text": "*Imidlalo Enezithombe!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Making up a story from an image",
+    "text": "👂 Yakha indaba eqhamuka esithombeni",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "For example, say: We are going to make up a story about this picture. I can start. This little girl is feeling very excited today. Why do you think she is feeling excited?",
+    "text": "Ngokwesibonelo, ithi: Sizokwakha indaba mayelana nalesi sithombe. Ngingaqala. Le ntombazane encane izizwa ijabule kakhulu namhlanje. Ucabanga ukuthi ingani izizwa ijabulile?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 She is holding her bag and has a big smile. Where do you think she is going?",
+    "text": "😃 Uphethe isikhwama sakhe futhi umamatheka kakhulu. Ucabanga ukuthi uyaphi?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Can you point to it?",
+    "text": "👀 Ungakhomba khona?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Using a book or a magazine, or anything with pictures, say:",
+    "text": "Ngokusebenzisa incwadi noma imagazini, noma yini enezithombe, ithi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I am going to describe something on the page and you need to guess what it is and point to it. For example, “I see something that is [green and moves slowly].",
+    "text": "Ngizochaza into esekhasini bese uzoqagela ukuthi yini bese uyayikhomba. Isibonelo, \"Ngibona into [eluhlaza futhi enyakaza kancane].",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you guess what it is?” 💚",
+    "text": "Ungaqagela ukuthi yini?\" 💚",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Shapes Everywhere!*",
+    "text": "*Amasheyiphi Yonke Indawo!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📺 Squares, squares everywhere",
+    "text": "📺 Izikwele, izikwele yonke indawo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Draw squares in the sand or dirt. Make some bigger and some smaller.",
+    "text": "👀 Dweba izikwele emhlabathini. Yenza ezinye zibe nkulu, ezinye zibe ncane.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Tell @fields.child_nickname, “this is a square.” ",
+    "text": "Tshela u@fields.child_nickname, “lesi isikwele.” ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Ask your girl or boy to try to draw a square. Hold your boy’s or girl’s hand to help if this is hard. ",
+    "text": "Cela umfana noma intombazane yakho ukuthi izame ukudweba isikwele. Bamba isandla sengane yakho ukuyisiza uma lokhu kunzima. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Look for things around the home or outdoors that are the same shape.",
+    "text": "Funa izinto endlini noma ngaphandle ezinesheyiphi efanayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Now do the same with circles! 🔴",
+    "text": "Manje yenza okufanayo ngezindlingilizi! 🔴",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Tell your child, “this is a square.” ",
+    "text": "Tshela umfana noma intombazane yakho, \"lesi isikwele.\" ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Story Telling*",
+    "text": "*Ukuxoxa Indaba*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Let’s make a story!",
+    "text": "💡 Masakhe indaba!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say: We are going to make up a story. I will start then you will help me continue it. ",
+    "text": "Ithi: Sizokwakha indaba. Ngizoqala bese uzongisiza ukuqhubeka. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⏰ ”Once upon a time there was…”",
+    "text": "⏰ ”Kwasukasukela kwakhu khona…”",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "“What happened next?”👀",
+    "text": "\"Kulandele ini?\"👀",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "“What happened after that?”",
+    "text": "\"Kwalandela ini emva kwalokho?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 Tell me the story!",
+    "text": "👂 Ngitshele indaba!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say to @fields.child_nickname: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” ",
+    "text": "Ithi ku@fields.child_nickname: \"Nginencwadi la esesike sayifunda. Ungayikhumbula leyo ndaba bese ungitshela yona ngokubheka izithombe kuphela?\" ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "👀 Show your girl or boy pictures in the book. Ask your boy or girl what is happening in the pictures and what happens next.",
+    "text": "👀 Tshengisa umfana noma intombazane yakho izithombe encwadini. Buza umfana noma intombazane yakho ukuthi kwezekani ezithombeni nokuthi yini elandelayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Say to your child: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” ",
+    "text": "Ithi kumfana noma intombazane yakho: \"Nginancwadi la esesike sayifunda. Ungayikhumbula leyo ndaba bese ungitshela yona ngokubheka izithombe kuphela?\" ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*I'm a Writer!*",
+    "text": "*Ngingumbhali!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Have fun being creative with writing!",
+    "text": "📝 Zijabulise ngokusungula ukubhala!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You and @fields.child_nickname can have fun writing with a pencil and paper, or with a stick and the sand!",
+    "text": "Wena no@fields.child_nickname ningazijabulisa ngokubhala ngempensela nephepha, noma ngenduku nomhlabathi!",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "If your girl or boy doesn’t know how to write letters, encourage them to draw shapes, and try to copy the shapes of letters. 🔵▶️",
+    "text": "Uma umfana noma intombazane yakho ingakwazi ukubhala ama-alfabhethi, mukhuthaze adwebe amasheyiphi, futhi azame ukukopisha amasheyiphi e-alfabethi. 🔵▶️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "When they are more confident, encourage them to write letters and even words. 😃Start showing them how to write their name and other important words for them, like mom, ball or milk.",
+    "text": "Uma esezithemba, mukhuthaze ukuthi abhale i-alfabethi futhi namagama. 😃Qala ukumutshengisa ukubhala igama lakhe namanye amagama abalulekile kuyena, njengo mama, ibhola noma ubisi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Show them the simple things that you write - like shopping lists! Show them the words and each of the letters. Let them try to copy the words! 📖",
+    "text": "Mutshengise izinto ezilula ozibhalayo - njengohlu lokuthenga! Mutshengise amagama nama-alfabethi akhona. Mudedele azame ukukopisha amagama! 📖",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You and your child can have fun writing with a pencil and paper, or with a stick and the sand!",
+    "text": "Wena nomntwana wakho ningazijabulisa ngokubhala ngempensela nephepha, noma ngenduku nomhlabathi!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*A Friendly Chat*",
+    "text": "*Inkulumo Yobungani*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk to your girl or boy about something that they are interested in! 😃",
+    "text": "Khuluma nomntwana wakho ngento ayithokozelayo! 😃",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💚 Spending quality time with your boy or girl and talking to them every day is a good way to develop a strong relationship. ",
+    "text": "💚 Ukuchitha isikhathi sekhwalithi nomntwana wakho nokukhuluma naye nsuku zonke indlela enhle yokwakha ubudlelwane obuqinile. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⚽ An easy way to start talking to your girl or boy is to ask them about something they are interested in, for example you could talk about topics such as: sports, books, movies, friends, music, celebrities, or school.",
+    "text": "⚽ Indlela elula yokuqala ukukhuluma nomntwana wakho ukumubuza ngento ayithokozelayo, ngokwesibonelo ungakhuluma ngezihloko ezifana nalezi: ezemidlalo, izincwadi, iziqephu, abangani, umculo, osaziwayo, noma isikole.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 You may not find everything your boy or girl shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn.",
+    "text": "👂 Kungenzeka ungayikhathaleli yonke into umfana noma intombazane yakho ekwethulela yona, kodwa kubalulekile ukutshengisa intshisekelo nokuzimisela ukufunda.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Exercise is a great way to spend time together and it is so good for your health. 🌱 Find a sport or exercise that both you and your girl or boy want to do and try it out together! ",
+    "text": "Ukuzivocavoca indlela enhle yokuchitha isikhathi ndawonye futhi kulungele impilo yakho. 🌱 Thola umdlalo noma indlela yokuzivocavoca ofunwa nguwe nomntwana wakho bese niyizama ndawonye! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 If you or your girl or boy do not like the first exercise you pick, try a new exercise.",
+    "text": "🔄 Uma wena noma umfana noma intombazane yakho ningayithandi indlela yokuqala yokuzivocavoca, zamani enye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Pass the Ball*",
+    "text": "*Dlulisa Ibhola*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Active Songs*",
+    "text": "*Izingoma Zokwenza*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Young boys and girls love physical games! But they need reminders about how to play 💡",
+    "text": "😃 Izingane ezincane zithanda imidlalo enyakazisa umzimba! Kodwa zidinga ukukhunjuzwa ukuthi kudlalwa kanjani 💡",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎵 Songs with movements are fun and active and give instructions on how to move!",
+    "text": "🎵 Izingoma ezinomyakazo ziyajabulisa futhi zikutshela ukuthi unyakaze kanjani!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sing songs to @fields.child_nickname or a group of girls and boys in which they have to:",
+    "text": "Culela u@fields.child_nickname izingoma noma iqembu lezingane lapho kufanele ba:",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅ Start and stop ❌",
+    "text": "✅ Qale bese bayama ❌",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬇️ Slow down and speed up ⬆️",
+    "text": "⬇️ Yenza kancane bese unyusa isipidi ⬆️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sing songs to your child or a group of girls and boys in which they have to:",
+    "text": "Culela umfana noma intombazane yakho izingoma noma iqembu lezingane lapho kufanele ba:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Follow the Leader!*",
+    "text": "*Landela Umholi!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⭐ Choose someone to be the leader (tip: start with an adult like yourself)",
+    "text": "⭐ Khetha umuntu ozoba ngumholi (ithiphu: qala ngomuntu omdala njengawe)",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 Other players line up behind the leader. The leader moves around in any way they like!",
+    "text": "😃 Abanye abadlali bama emuva komholi. Umholi uyanyakaza nganoma iyiphi indlela ayithandayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏁 They can run, jump, crawl, walk on tiptoe, and any other way they want!",
+    "text": "🏁 Bangagijima, bagxume, bakhase, banyonyobe, noma iyiphi enye indlela ayifunayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 The other players must copy what the leader does, and the leader can change movements at any time.",
+    "text": "👀 Abanye abadlali kufanele balingise izenzo zomholi, futhi umholi angashintsha umnyakazo noma inini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🔄 Players take turns being the leader!",
+    "text": "🔄 Abadlali bayashintshisana ngokuba ngumholi!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Be the Narrator*",
+    "text": "*Iba Ngumxoxi*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Say what your girl or boy is doing while they are playing",
+    "text": "👀 Isho into eyenziwa umfana noma intombazane yakho uma idlala",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👂 This will help them learn the words to describe their actions.",
+    "text": "👂 Lokhu kuzomusiza ukufunda amagama okuchaza izenzo zakhe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "😃 You can do it in a simple way, or in a silly way like a sports commentator, a news presenter, or a game show host",
+    "text": "😃 Ungayenza ngendlela elula, noma esamahlaya njengomhlaziyi wezemidlalo, umethuli wezindaba, noma umphathi wohlelo lomdlalo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "💡 Ask questions like “what will you do next?” or “I see you want to put the ball in the jar. Is there another way to do that?”",
+    "text": "💡 Buza imibuzo njengokuthi \"yini elandelayo ozoyenza?\" noma \"Ngiyabona ufuna ukufaka ibhola ejekeni. Ikhona yini enye indlela yokwenza lokho?\"",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Be an Artist!*",
+    "text": "*Iba Usomaciko!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Give @fields.child_nickname some paper and a pen or pencil, or some different pens or pencils.",
+    "text": "📝 Nikeza u@fields.child_nickname iphepha nepeni noma ipensela, noma amapeni ahlukene namapensela.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "😃 Let your girl or boy draw whatever they want to!",
+    "text": "😃 Dedela umfana noma intombazane yakho idwebe noma yini ayifunayo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 Ask questions about what they are drawing, the size of the thing they are drawing, and the colours they are using.",
+    "text": "👀 Buza imibuzo ngento ayidwebayo, usayizi bento ayidwebayo, nemibala ayisebenzisayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🏆 If possible, put your boy or girl’s picture up on the wall when they are finished. Give praise to your girl or boy!",
+    "text": "🏆 Uma kwenzeka, beka isithombe sengane yakho odongeni uma eqeda. Income umfana noma intombazane yakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Give your child some paper and a pen or pencil, or some different pens or pencils.",
+    "text": "📝 Nikeza umfana noma intombazane yakho iphepha nepeni noma ipensela, noma amapeni ahlukene namapensela.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*Be an Expert in Emotions!*",
+    "text": "*Iba Uchwepheshe Wemizwa!*",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Create an album of the six emotions with @fields.child_nickname: happy, sad, angry, disgusted, surprised, afraid.",
+    "text": "📝 Yakha i-albhamu yemizwa eyisithupha no @fields.child_nickname: jabulile, usizi, casukile, nengekile, mangele, ukwesaba.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Draw, cut-out pictures from magazines, or take photos of family members showing different emotions. ",
+    "text": "Dweba, sika izithombe kumagazini, noma uthathe izithombe zamalunga omndeni batshengisa imizwa ehlukile. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Label each emotion and add words about how each family member feels those emotions. ",
+    "text": "Bhala umuzwa ngamunye bese ufaka amagama okuthi amalunga omndeni ngamunye ayizwa kanjani le mizwa. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Put the album in a spot everyone agrees on, and use it throughout the day to show how the family is feeling. For example, after school, everyone can pin the emotion they’re experiencing. ",
+    "text": "Beka i-albhamu endaweni enivumelana ngayo nonke, bese uyayisebenzisa osukwini ukutshengisa ukuthi umndeni uzizwa kanjani. Isibonelo, emva kwesikole, wonke umuntu angaphina umuzwa awuzwayo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Feel free to add new feelings as they come up. If someone doesn’t know what they are feeling, help them identify it by exploring how it feels in their body. Try together to find a new word for that emotion.",
+    "text": "Ungasabi ukwengeza imizwa uma iqhamuka. Uma kukhona ongazi ukuthi uzwa ini, msize abone ngokubheka ukuthi uzizwa kanjani emzimbeni. Zama ndawonye ukuthola igama elichaza loyo muzwa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This can help everyone in the family become experts in understanding themselves and be aware of what their bodies need.",
+    "text": "Lokhu kungasiza bonke ebantu emndenini babe ngochwepheshe ngokuzazi futhi nokuqonda ukuthi imzimba yabo idingani.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 Create an album of the six emotions with your child: happy, sad, angry, disgusted, surprised, afraid.",
+    "text": "📝 Dala i-albhamu yemizwa eyisithupha nomntwana wakho: jabulile, usizi, casukile, nengekile, mangele, ukwesaba.",
+    "type": "text",
+    "note": ""
+  }
+]

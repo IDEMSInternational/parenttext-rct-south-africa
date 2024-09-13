@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "==content==": [
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "insert-child-age-name",
+        "status": "released",
+        "order": "0"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "insert-childname",
+        "status": "released",
+        "order": "2"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "insert-childname-punctuation",
+        "status": "released",
+        "order": "1"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "baseline-age-customisation",
+        "status": "released",
+        "order": "2"
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "parent-gender-customisation",
+        "status": "released",
+        "order": "2"
+      }
+    ],
+    "remove-payment": [
+      {
+        "type_of_edit": "",
+        "flow_id": "prescreen_intro - study_introduction",
+        "original_row_id": "",
+        "node_identifier": "🥳 Welcome to our study! If you decide to join, you will be invited to complete 3 surveys. \n\n🌱 The surveys will ask you questions about your life and your relationship with your child. \n\n✏️ After completing the first survey, you will receive R25 airtime. \n\n💬 You will then be invited to receive messages on WhatsApp from this number about parenting or hygiene. \n\n✏️ A month later you will be asked to complete a 2nd survey after which you will receive R50 airtime. \n\n✏️ Three months later, you will receive a 3rd survey. You will receive R75 airtime after completing that final survey. \n\n📲 The money will be sent to a phone number of your choice as mobile money or talk time, depending on your mobile operator requirements.",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "rct_consent",
+        "original_row_id": "",
+        "node_identifier": "Please read this information carefully: {consent_link}",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "baseline_intro - parent_introduction",
+        "original_row_id": "",
+        "node_identifier": "✏️ You will receive R25 airtime for participating in this survey. \n\n📲 We will send airtime to the South African phone number of your choice.\n\n💛 To begin, we would like to ask a few questions about you and your family. It is important that you are honest so we can help families like yours. \n  \n🤐 Remember that your name and answers to these questions will be kept private. If there are any questions that you feel uncomfortable answering, you do not have to answer them.",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "baseline_intro - thanks",
+        "original_row_id": "",
+        "node_identifier": "🥳 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R25 airtime. \n\n📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime. \n\n🇿🇦 💛 Your valuable input will help us better understand the challenges and experiences of parents in South Africa. Thank you for your time!",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "prog_intro",
+        "original_row_id": "",
+        "node_identifier": "You can invite your family and friends to join the study and earn airtime, too! Just share this link with them: {rct link}",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      }
+    ],
+    "payment_messages_baseline": [
+      {
+        "flow": "prescreen_intro - study_introduction",
+        "english": "🥳 Welcome to our study! If you decide to join, you will be invited to complete 3 surveys. \n\n🌱 The surveys will ask you questions about your life and your relationship with your child. \n\n✏️ After completing the first survey, you will receive R25 airtime. \n\n💬 You will then be invited to receive messages on WhatsApp from this number about parenting or hygiene. \n\n✏️ A month later you will be asked to complete a 2nd survey after which you will receive R50 airtime. \n\n✏️ Three months later, you will receive a 3rd survey. You will receive R75 airtime after completing that final survey. \n\n📲 The money will be sent to a phone number of your choice as mobile money or talk time, depending on your mobile operator requirements.",
+        "english no airtime": "",
+        "zulu": "🥳 Siyakwamukela kustadi sethu! Uma ukhetha ukujoyina, uzomenywa ukuqeda izinhlolovo ezi-3. \n\n🌱 Izinhlolovo zizokubuza imibuzo mayelana nempilo yakho nobudlelwano bakho nengane yakho. \n\n✏️ Emva kokuqeda inhlolovo yokuqala, uzothola i-airtime ka-R25. \n\n💬 Uzobe usumenywa ukuthola imilayezo kuWhatsApp eqhamuka kulenombolo ngobuzali nenhlanzeko. \n\n✏️ Emva kwenyanga uzocelwa ukuthi uqede inhlokovo yesibili, bese uzothola i-airtime ka-R50. \n\n✏️ Ezinyangeni ezintathu kamuva, uzothola inhlolovo yesi-3. Uzothola i-airtime ka-R75 ngemva kokuqeda leyo nhlolovo yokugcina. \n\n📲 Imali izothunyelwa kunombolo yefoni oyikhethayo njengemali noma i-airtime, kuya ngokuthi usebenzisa muphi u-opharetha weselula.",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "rct_consent",
+        "english": "Please read this information carefully: https://bit.ly/satext_rct",
+        "english no airtime": "",
+        "zulu": "Sicela ufunde lemininingwane ngokucophelela: https://bit.ly/satext_rct",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "baseline_intro - parent_introduction",
+        "english": "✏️ You will receive R25 airtime for participating in this survey. \n\n📲 We will send airtime to the South African phone number of your choice.\n\n💛 To begin, we would like to ask a few questions about you and your family. It is important that you are honest so we can help families like yours. \n  \n🤐 Remember that your name and answers to these questions will be kept private. If there are any questions that you feel uncomfortable answering, you do not have to answer them.",
+        "english no airtime": "",
+        "zulu": "✏️ Uzothola i-airtime ka-R25 ngokuhlanganyela kule nhlolovo. \n\n📲 Sizothumela i-airtime kunoma iyiphi inombolo yocingo yaseNingizimu Afrika oyikhethayo.\n\n💛 Okokuqala, singathanda ukubuza imibizo embalwa mayelana nawe nomndeni wakho. Kubalulekile ukuthi ube neqiniso ukuze sikwazi ukusiza imindeni efana neyakho. \n  \n🤐 Khumbula ukuthi igama lakho nezimpendulo zakho zizogcinwa zifihlekile. Uma kukhona imibuzo ongakhululekanga ukuyiphendula, asikho isidingo sokuthi uyiphendule.",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "baseline_intro - thanks",
+        "english": "🥳 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R25 airtime. \n\n📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime. \n\n🇿🇦 💛 Your valuable input will help us better understand the challenges and experiences of parents in South Africa. Thank you for your time!",
+        "english no airtime": "",
+        "zulu": "🥳 Usuqedile ngenhlolovo! Siyabonga kakhulu ngokuhlanganyela kwakho. Njengophawu lokubonga, uzothola i-airtime ka-R25. \n\n📅 Sizolandela ngembuzo ecishe ifane emva kwenyanga eyodwa, futhi uma usuqede lolunhlolovo, uzothola i-airtime ka-R50 eyengeziwe. \n\n🇿🇦 💛 Umbono wakho uyigugu, uzosisiza ukuqondisisa kangcono ubunzima nezinto abazali baseNingizimu Afrika ababhekana nazo. Sibonga isikhathi sakho!",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "prog_intro",
+        "english": "You can invite your family and friends to join the study and earn airtime, too! Just share this link with them: https://wa.me/27832838620/?text=study",
+        "english no airtime": "",
+        "zulu": "Ungamema umndeni wakho noma abangani ukujoyina unhlolovo, nabo bathole i-airtime! Bathumelele lelinki kuphela: https://wa.me/27832838620/?text=study",
+        "zulu no airtime": ""
+      }
+    ],
+    "payment_messages_follow_up": [
+      {
+        "flow": "1_month_intro - parent_introduction",
+        "english": "Thank you very much for taking part in this survey! \n\n🇿🇦 💛 Your participation in this study will help us learn how we can support other parents like you in South Africa. \n\n🥳 You will receive R50 airtime for participating in this survey. \n\n🤫 Remember that your name and answers to these questions will be kept private. \n\n🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them. \n\n🤗 Please try to answer the questions as honestly as you can.",
+        "english no airtime": "",
+        "zulu": "Siyabonga kakhulu ngokubakhona kulolu nhlolovo! \n\n🇿🇦 💛 Ukuhlanganyela kwakho kulesi sitadi kuzosisiza ukufunda ukuthi singeseka kanjani abanye abazali abafana nawe eNingizimu Afrika. \n\n🥳 Uzothola i-airtime ka-R50 ngokuhlanganyela kule nhlolovo. \n\n🤫 Khumbula ukuthi igama lakho nezimpendulo zakho zizogcinwa ziyimfihlo. \n\n🤐 Uma kukhona imibuzo ongakhululekanga ukuyiphendula, awuphoqekile ukuyiphendula. \n\n🤗 Sicela uzame ukuphendula imibuzo ngeqiniso.",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "1_month_intro - thanks",
+        "english": "🎉🎉 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R50 airtime. \n\n📅 We will follow up with similar questions in two months, and once you've completed this final survey, you will receive an additional R75 airtime. \n\n🇿🇦 💛 Your valuable input will help us better understand the challenges and experiences of parents in South Africa. Thank you for your time!",
+        "english no airtime": "",
+        "zulu": "🎉🎉 Usuqedile ngenhlolovo! Siyabonga kakhulu ngokuhlanganyela kwakho. Njengophawu lokubonga, uzothola i-airtime ka-R50. \n\n📅 Sizolandela ngemibuzo ecishe ifane emva kwezinyanga ezimbili, futhi uma usuqede inhlolovo yokugcina, uzothola i-airtime ka-R75 eyengeziwe. \n\n🇿🇦 💛 Umbono wakho uyigugu, uzosisiza ukuqondisisa kangcono ubunzima nezinto abazali baseNingizimu Afrika ababhekana nazo. Sibonga isikhathi sakho!",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "3_month_intro - parent_introduction",
+        "english": "Thank you very much for taking part in this survey! \n\n🇿🇦 💛 Your participation in this study will help us learn how we can support other parents like you in South Africa. \n\n🎉 You will receive R75 airtime for participating in this survey. \n\n🤫 Remember that your name and answers to these questions will be kept private. \n\n🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them. \n\n🤗 Please try to answer the questions as honestly as you can.",
+        "english no airtime": "",
+        "zulu": "Siyabonga kakhulu ngokubakhona kulolu nhlolovo! \n\n🇿🇦 💛 Ukuhlanganyela kwakho kulesi sitadi kuzosisiza ukufunda ukuthi singeseka kanjani abanye abazali abafana nawe eNingizimu Afrika. \n\n🎉 Uzothola i-airtime ka-R75 ngokuhlanganyela kule nhlolovo. \n\n🤫 Khumbula ukuthi igama lakho nezimpendulo zakho zizogcinwa ziyimfihlo. \n\n🤐 Uma kukhona imibuzo ongakhululekanga ukuyiphendula, awuphoqekile ukuyiphendula. \n\n🤗 Sicela uzame ukuphendula imibuzo ngeqiniso.",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "3_month_intro - thanks",
+        "english": "🎉🎉 You are done! 🎉🎉\n\n💙 Thank you very much for completing this final survey. \n\n🥳 You will now receive R75 airtime as a token of appreciation. \n\n💚 We appreciate the time you took to answer these questions!",
+        "english no airtime": "",
+        "zulu": "🎉🎉 Usuqedile! 🎉🎉\n\n💙 Siyabonga kakhulu ngokuqeda unhlolovo lokugcina. \n\n🥳 Manje uzothola i-airtime ka-R75 njengophawu lokubonga. \n\n💚 Siyabonga isikhathi osithathile ukuphendula lemibuzo!",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "send_booster",
+        "english": "It looks like you’re not interested in the Child Development course right now. If you want to join the Child Development course later, just press 1. 📚\n\nRemember, you can still take the 3-month survey and get R75 airtime, even if you don’t do the course. 🎁",
+        "english no airtime": "",
+        "zulu": "Lokho kulungile! Ungangena kalula esifundweni soKuthuthuka Kwengane noma inini kumenyu enkulu. Bhala uIMENYU ukungena. \n\n🔑 Usengajoyina unhlolovo olulandelayo, bese uthola i-airtime ka-R75, uqeda noma ungaqedile ngeParentText.",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "interaction - 1_month_survey",
+        "english": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? \n\nPress a number on your keypad:\n1. Yes\n2. No",
+        "english no airtime": "",
+        "zulu": "🥳 Sekuyisikhathi sokwenza inhlolovo yesibili. Le nhlolovo inemibuzo eyi-25. Uzothola i-airtime ye-R50 ngokuphendula imibuzo. Sewukulungele ukuqala na? \n\nCindezela inombolo kukhiphedi yakho:\n1. Yebo\n2. Cha",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "interaction - 3_month_survey",
+        "english": "🥳 It's time for your last survey.  If you complete the survey, you will receive R75 airtime. Are you ready to get started? \n\nPress a number on your keypad:\n1. Yes\n2. No",
+        "english no airtime": "",
+        "zulu": "🥳 Sekuyisikhathi sokwenza inhlolovo yokugcina. Mawuyiqeda uzothola i-airtime ye-R75. Sewukulungele ukuqala na?\n\nCindezela inombolo kukhiphedi yakho:\n1. Yebo\n2. Cha",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "send_booster",
+        "english": "👀 Oops! You've timed out. If you want to rejoin ParentText, press 1. \n\n🔑 You will receive the opportunity to participate in the 3 month survey, and receive R75 airtime, whether or not you complete ParentText. ",
+        "english no airtime": "",
+        "zulu": "👀 Eish! Uphelelwe isikhathi. Uma ufuna ukujoyina iParentText futhi, chofoza 1. \n\n🔑 Uzothola ithuba lokuhlanganyela kunhlolovo lwezinyanga ezintathu, bese uthola i-airtime ka-R75, uqeda noma ungaqedile ngeParentText. ",
+        "zulu no airtime": ""
+      },
+      {
+        "flow": "interaction - booster_offer_completed_or_dropout_core",
+        "english": "That's okay! You can easily access the Child Development course any time you want via the main menu. Just type {MENU} to access it. \n\n🔑 You can still join the next survey, and receive R75 airtime, regardless of whether or not you complete ParentText. ",
+        "english no airtime": "",
+        "zulu": "Lokho kulungile! Ungangena kalula esifundweni soKuthuthuka Kwengane noma inini kumenyu enkulu. Bhala uIMENYU ukungena. \n\n🔑 Usengajoyina unhlolovo olulandelayo, bese uthola i-airtime ka-R75, uqeda noma ungaqedile ngeParentText.",
+        "zulu no airtime": ""
+      }
+    ],
+    "remove-payment-follow-up": [
+      {
+        "type_of_edit": "",
+        "flow_id": "1_month_intro - parent_introduction",
+        "original_row_id": "",
+        "node_identifier": "Thank you very much for taking part in this survey! \n\n🇿🇦 💛 Your participation in this study will help us learn how we can support other parents like you in South Africa. \n\n🥳 You will receive R50 airtime for participating in this survey. \n\n🤫 Remember that your name and answers to these questions will be kept private. \n\n🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them. \n\n🤗 Please try to answer the questions as honestly as you can.",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "1_month_intro - thanks",
+        "original_row_id": "",
+        "node_identifier": "🎉🎉 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R50 airtime. \n\n📅 We will follow up with similar questions in two months, and once you've completed this final survey, you will receive an additional R75 airtime. \n\n🇿🇦 💛 Your valuable input will help us better understand the challenges and experiences of parents in South Africa. Thank you for your time!",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "3_month_intro - parent_introduction",
+        "original_row_id": "",
+        "node_identifier": "Thank you very much for taking part in this survey! \n\n🇿🇦 💛 Your participation in this study will help us learn how we can support other parents like you in South Africa. \n\n🎉 You will receive R75 airtime for participating in this survey. \n\n🤫 Remember that your name and answers to these questions will be kept private. \n\n🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them. \n\n🤗 Please try to answer the questions as honestly as you can.",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "3_month_intro - thanks",
+        "original_row_id": "",
+        "node_identifier": "🎉🎉 You are done! 🎉🎉\n\n💙 Thank you very much for completing this final survey. \n\n🥳 You will now receive R75 airtime as a token of appreciation. \n\n💚 We appreciate the time you took to answer these questions!",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "",
+        "original_row_id": "",
+        "node_identifier": "It looks like you’re not interested in the Child Development course right now. If you want to join the Child Development course later, just press 1. 📚\n\nRemember, you can still take the 3-month survey and get R75 airtime, even if you don’t do the course. 🎁",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "",
+        "original_row_id": "",
+        "node_identifier": "👀 Oops! You've timed out. If you want to rejoin ParentText, press 1. \n\n🔑 You will receive the opportunity to participate in the 3 month survey, and receive R75 airtime, whether or not you complete ParentText. ",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "",
+        "original_row_id": "",
+        "node_identifier": "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? \n\nPress a number on your keypad:\n1. Yes\n2. No",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "",
+        "original_row_id": "",
+        "node_identifier": "🥳 It's time for your last survey.  If you complete the survey, you will receive R75 airtime. Are you ready to get started? \n\nPress a number on your keypad:\n1. Yes\n2. No",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      },
+      {
+        "type_of_edit": "",
+        "flow_id": "",
+        "original_row_id": "",
+        "node_identifier": "That's okay! You can easily access the Child Development course any time you want via the main menu. Just type {MENU} to access it. \n\n🔑 You can still join the next survey, and receive R75 airtime, regardless of whether or not you complete ParentText. ",
+        "change": "",
+        "condition_var": "",
+        "category": "",
+        "category:no_payment": "",
+        "condition:no_payment": "",
+        "condition_type:no_payment": ""
+      }
+    ],
+    "insert-child-age-name": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{Age Group}.*",
+        "change": "{Age Group}",
+        "condition_var": "@fields.age_group_for_tips",
+        "category": "Child",
+        "category:teen": "Teen",
+        "condition:teen": "teen",
+        "condition_type:teen": "has_any_word"
+      }
+    ],
+    "insert-childname": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "1_month_intro - apq_fci",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Teen.*",
+        "change": "Your Teen.",
+        "condition_var": "@fields.child_nickname",
+        "category": "your teen.\n\nAs you answer these questions please answer them in relation to the same child that you answered questions about last time.",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "1_month_intro - apq_fci",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Child.*",
+        "change": "Your Child.",
+        "condition_var": "@fields.child_nickname",
+        "category": "your child.\n\nAs you answer these questions please answer them in relation to the same child that you answered questions about last time.",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Teen.*",
+        "change": "Your Teen",
+        "condition_var": "@fields.child_nickname",
+        "category": "your teen",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*Your Child.*",
+        "change": "Your Child",
+        "condition_var": "@fields.child_nickname",
+        "category": "your child",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      }
+    ],
+    "insert-childname-punctuation": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:(^|.*[\\.?!] )Your Teen.*",
+        "change": "Your Teen",
+        "condition_var": "@fields.child_nickname",
+        "category": "Your teen",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:(^|.*[\\.?!] )Your Child.*",
+        "change": "Your Child",
+        "condition_var": "@fields.child_nickname",
+        "category": "Your child",
+        "category:child_nickname": "@fields.child_nickname",
+        "condition:child_nickname": "",
+        "condition_type:child_nickname": "has_text"
+      }
+    ],
+    "parent-gender-customisation": [
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "1_month_survey_child_wrapper",
+        "original_row_id": "",
+        "node_identifier": "1_month_question_with_opt - FCI_F_Activities",
+        "change": "1_month_question_with_opt - FCI_F_Activities",
+        "condition_var": "@fields.gender",
+        "category": "1_month_question_with_opt - FCI_F_Activities",
+        "category:male": "1_month_question_with_opt - FCI_M_Activities",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "1_month_survey_teen_wrapper",
+        "original_row_id": "",
+        "node_identifier": "1_month_question_with_opt - FCI_F_Activities",
+        "change": "1_month_question_with_opt - FCI_F_Activities",
+        "condition_var": "@fields.gender",
+        "category": "1_month_question_with_opt - FCI_F_Activities",
+        "category:male": "1_month_question_with_opt - FCI_M_Activities",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "1_month_survey_child_wrapper",
+        "original_row_id": "",
+        "node_identifier": "1_month_question_with_opt - FCI_F_Decisions",
+        "change": "1_month_question_with_opt - FCI_F_Decisions",
+        "condition_var": "@fields.gender",
+        "category": "1_month_question_with_opt - FCI_F_Decisions",
+        "category:male": "1_month_question_with_opt - FCI_M_Decisions",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "1_month_survey_teen_wrapper",
+        "original_row_id": "",
+        "node_identifier": "1_month_question_with_opt - FCI_F_Decisions",
+        "change": "1_month_question_with_opt - FCI_F_Decisions",
+        "condition_var": "@fields.gender",
+        "category": "1_month_question_with_opt - FCI_F_Decisions",
+        "category:male": "1_month_question_with_opt - FCI_M_Decisions",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "3_month_survey_child_wrapper",
+        "original_row_id": "",
+        "node_identifier": "3_month_question_with_opt - FCI_F_Activities",
+        "change": "3_month_question_with_opt - FCI_F_Activities",
+        "condition_var": "@fields.gender",
+        "category": "3_month_question_with_opt - FCI_F_Activities",
+        "category:male": "3_month_question_with_opt - FCI_M_Activities",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "3_month_survey_teen_wrapper",
+        "original_row_id": "",
+        "node_identifier": "3_month_question_with_opt - FCI_F_Activities",
+        "change": "3_month_question_with_opt - FCI_F_Activities",
+        "condition_var": "@fields.gender",
+        "category": "3_month_question_with_opt - FCI_F_Activities",
+        "category:male": "3_month_question_with_opt - FCI_M_Activities",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "3_month_survey_child_wrapper",
+        "original_row_id": "",
+        "node_identifier": "3_month_question_with_opt - FCI_F_Decisions",
+        "change": "3_month_question_with_opt - FCI_F_Decisions",
+        "condition_var": "@fields.gender",
+        "category": "3_month_question_with_opt - FCI_F_Decisions",
+        "category:male": "3_month_question_with_opt - FCI_M_Decisions",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      },
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "3_month_survey_teen_wrapper",
+        "original_row_id": "",
+        "node_identifier": "3_month_question_with_opt - FCI_F_Decisions",
+        "change": "3_month_question_with_opt - FCI_F_Decisions",
+        "condition_var": "@fields.gender",
+        "category": "3_month_question_with_opt - FCI_F_Decisions",
+        "category:male": "3_month_question_with_opt - FCI_M_Decisions",
+        "condition:male": "man",
+        "condition_type:male": "has_only_phrase"
+      }
+    ],
+    "baseline-age-customisation": [
+      {
+        "type_of_edit": "replace_flow",
+        "flow_id": "baseline",
+        "original_row_id": "",
+        "node_identifier": "baseline_question_with_opt - child_edu_level",
+        "change": "baseline_question_with_opt - child_edu_level",
+        "condition_var": "@fields.age_group_for_tips",
+        "category": "baseline_question_with_opt - child_edu_level",
+        "category:teen": "baseline_question_with_opt - teen_edu_level",
+        "condition:teen": "teen",
+        "condition_type:teen": "has_any_word"
+      }
+    ]
+  }
+}

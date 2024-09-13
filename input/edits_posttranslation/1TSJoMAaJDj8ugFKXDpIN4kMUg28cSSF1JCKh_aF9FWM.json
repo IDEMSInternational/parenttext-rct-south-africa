@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "==content==": [
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "replace-placeholders",
+        "status": "released",
+        "order": ""
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "replace-placeholders-transl",
+        "status": "released",
+        "order": ""
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "triggers_eng",
+        "status": "released",
+        "order": ""
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "triggers_transl",
+        "status": "released",
+        "order": ""
+      },
+      {
+        "flow_type": "flow_editing",
+        "flow_name": "",
+        "sheet_name": "remove_wa_bold_eng",
+        "status": "released",
+        "order": ""
+      },
+      {
+        "flow_type": "translation_editing",
+        "flow_name": "",
+        "sheet_name": "remove_wa_bold_transl",
+        "status": "released",
+        "order": ""
+      }
+    ],
+    "remove_wa_bold_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*",
+        "change": "**",
+        "condition_var": "",
+        "category": "*"
+      }
+    ],
+    "remove_wa_bold_transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*",
+        "original": "**",
+        "language": "zul",
+        "replacement": "*"
+      }
+    ],
+    "triggers_eng": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{STOP}.*",
+        "change": "{STOP}",
+        "condition_var": "",
+        "category": "STOP"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MENU}.*",
+        "change": "{MENU}",
+        "condition_var": "",
+        "category": "MENU"
+      }
+    ],
+    "triggers_transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{STOP}.*",
+        "original": "{STOP}",
+        "language": "zul",
+        "replacement": "YIMA"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "Regex:.*",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{MENU}.*",
+        "original": "{MENU}",
+        "language": "zul",
+        "replacement": "IMENYU"
+      }
+    ],
+    "replace-placeholders": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "rct_consent",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{consent_link}.*",
+        "change": "{consent_link}",
+        "condition_var": "",
+        "category": "https://bit.ly/satext_rct"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "give_incentive - baseline",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{support_phone_number}.*",
+        "change": "{support_phone_number}",
+        "condition_var": "",
+        "category": "079 762 3598"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "give_again_incentive - 1month",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{support_phone_number}.*",
+        "change": "{support_phone_number}",
+        "condition_var": "",
+        "category": "079 762 3598"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "give_again_incentive - 3month",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{support_phone_number}.*",
+        "change": "{support_phone_number}",
+        "condition_var": "",
+        "category": "079 762 3598"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share_non_eligible",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{share link}.*",
+        "change": "{share link}",
+        "condition_var": "",
+        "category": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "prog_intro",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{rct link}.*",
+        "change": "{rct link}",
+        "condition_var": "",
+        "category": "https://wa.me/27832838620/?text=study"
+      }
+    ],
+    "replace-placeholders-transl": [
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "rct_consent",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{consent_link}.*",
+        "original": "{consent_link}",
+        "language": "zul",
+        "replacement": "https://bit.ly/satext_rct"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "give_incentive - baseline",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{support_phone_number}.*",
+        "original": "{support_phone_number}",
+        "language": "zul",
+        "replacement": "079 762 3598"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "give_again_incentive - 1month",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{support_phone_number}.*",
+        "original": "{support_phone_number}",
+        "language": "zul",
+        "replacement": "079 762 3598"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "give_again_incentive - 3month",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{support_phone_number}.*",
+        "original": "{support_phone_number}",
+        "language": "zul",
+        "replacement": "079 762 3598"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "share_non_eligible",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{share link}.*",
+        "original": "{share link}",
+        "language": "zul",
+        "replacement": "https://wa.me/27832838620/?text=share"
+      },
+      {
+        "type_of_edit": "replace_bit_of_text",
+        "flow_id": "prog_intro",
+        "original_row_id": "",
+        "node_identifier": "Regex:.*{rct link}.*",
+        "original": "{rct link}",
+        "language": "zul",
+        "replacement": "https://wa.me/27832838620/?text=study"
+      }
+    ]
+  }
+}

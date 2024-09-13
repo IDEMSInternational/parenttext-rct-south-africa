@@ -1,0 +1,637 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "congrats_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "CongratsDataModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "delivery_messages",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "make_options_wrapper_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OptionsWrapperModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "show_options_wrapper_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OptionsWrapperModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "description_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "interaction_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "InteractionModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "activity_offer_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "ActivityOfferModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "activity_type_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "ActivityTypeModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "pre_post_goal_checkin_messages",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "operation": "",
+        "status": "",
+        "group": "",
+        "tags.1": "",
+        "tags.2": "",
+        "tags.3": ""
+      }
+    ],
+    "congrats_data": [
+      {
+        "ID": "intermediate_completion",
+        "msg": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! ",
+        "extra_msg": "Remember, you can always return to ParentText and get extra support or review this information. Just type {MENU}."
+      },
+      {
+        "ID": "final_completion",
+        "msg": "Thank you for participating!",
+        "extra_msg": ""
+      },
+      {
+        "ID": "take_a_pause_completion",
+        "msg": "Well done. You're ready to start the programme.",
+        "extra_msg": ""
+      }
+    ],
+    "description_data": [
+      {
+        "ID": "started",
+        "msg": "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons in this course. Today's lesson is @results.name."
+      },
+      {
+        "ID": "new",
+        "msg": "In this course, you will complete @fields.c_n_mod lessons. You will receive a new lesson each day. Your first lesson is @results.name."
+      },
+      {
+        "ID": "first",
+        "msg": "It takes only 5 days to complete this course and earn your parenting certificate."
+      }
+    ],
+    "delivery_messages": [
+      {
+        "ID": "activity_handler",
+        "msg": "What kind of activity do you want to try with your {child_age_group}?",
+        "next_button_option": "",
+        "metadata.description": "message for choosing which type of activity to do. Types in \"activity_type_data\""
+      },
+      {
+        "ID": "pregoal_checkin_wrapper",
+        "msg": "Let’s get started. Press NEXT to begin.",
+        "next_button_option": "NEXT",
+        "metadata.description": "message received after completing the pre goal/course checkin, before receiving the first module. It has a NEXT button, where NEXT can be replaced by anything  (anything typed in the chat will work anyway)"
+      },
+      {
+        "ID": "hook_message",
+        "msg": "These messages don’t seem to be working. When you are ready to keep going, press 1. ",
+        "next_button_option": "1",
+        "metadata.description": "hook message sent after 3 days of no response from the user. Needs to be aligned with whatsapp template \"no_response\". 1 can be replaced by anything (anything typed in the chat will work anyway)"
+      },
+      {
+        "ID": "first_selection_intro",
+        "msg": "NA",
+        "next_button_option": "",
+        "metadata.description": ""
+      }
+    ],
+    "make_options_wrapper_data": [
+      {
+        "ID": "start_new_goal_menu",
+        "list_var": "fields.goals_to_start",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "There are no new courses available.",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You only have the following course to start",
+        "msg_one_option.question": "Would you like to begin this course?",
+        "msg_one_option.affirmative": "Yes",
+        "msg_one_option.negative": "No",
+        "msg_one_option.no_message": "That's okay.",
+        "msg_multiple_options": "Which new course would you like to start? ",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      },
+      {
+        "ID": "start_started_goal_menu",
+        "list_var": "replace(fields.goals_started,fields.curr_goal,\"\")",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You do not have have a current course. ",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You only have the following course started",
+        "msg_one_option.question": "Would you like to begin this course?",
+        "msg_one_option.affirmative": "Yes",
+        "msg_one_option.negative": "No",
+        "msg_one_option.no_message": "That's okay.",
+        "msg_multiple_options": "Which unfinished course would you like to complete?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      },
+      {
+        "ID": "start_started_goal",
+        "list_var": "replace(fields.goals_started,fields.curr_goal,\"\")",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "There are no incomplete courses. ",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You only have the following course to complete",
+        "msg_one_option.question": "Would you like to begin this course?",
+        "msg_one_option.affirmative": "Yes",
+        "msg_one_option.negative": "No",
+        "msg_one_option.no_message": "That's okay.",
+        "msg_multiple_options": "Great! Which unfinished course would you like to complete?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      },
+      {
+        "ID": "start_started_module_daily",
+        "list_var": "fields.c_mod_started",
+        "print_type": "module",
+        "n_max_opt": "10",
+        "msg_no_options.message": "NA",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You only have the following lesson to complete:",
+        "msg_one_option.question": "",
+        "msg_one_option.affirmative": "",
+        "msg_one_option.negative": "",
+        "msg_one_option.no_message": "",
+        "msg_multiple_options": "Which lesson would you like to complete?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "accessed module"
+      },
+      {
+        "ID": "troubleshooting_menu",
+        "list_var": "fields.goals_accessed",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You haven't started to work on a course yet.",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You have only started the course",
+        "msg_one_option.question": "Would you like support on it?",
+        "msg_one_option.affirmative": "Yes",
+        "msg_one_option.negative": "No",
+        "msg_one_option.no_message": "That's okay. You can access more information at any time in the Main Menu. Just type {MENU}.",
+        "msg_multiple_options": "What are you struggling with?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "accessed tbs"
+      },
+      {
+        "ID": "choose_goal_to_review",
+        "list_var": "fields.goals_accessed",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You haven't completed a lesson yet.",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You have only started the course",
+        "msg_one_option.question": "",
+        "msg_one_option.affirmative": "",
+        "msg_one_option.negative": "",
+        "msg_one_option.no_message": "",
+        "msg_multiple_options": "Which course do you want to review?",
+        "extra_option": "Return to Main Menu",
+        "extra_message": "",
+        "update_var": "selected goal"
+      },
+      {
+        "ID": "choose_skill_to_review",
+        "list_var": "join(reverse(split(fields.s_modules_compl,\" \")), \" \")",
+        "print_type": "module",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You haven't completed any of the lessons in this course. ",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "You have only completed the following lesson:",
+        "msg_one_option.question": "Would you like to review it?",
+        "msg_one_option.affirmative": "Yes",
+        "msg_one_option.negative": "No",
+        "msg_one_option.no_message": "That's okay. You can come back here at any time to review it.",
+        "msg_multiple_options": "You have completed @fields.n_s_modules_compl lessons within this course. Which lesson do you want to review?",
+        "extra_option": "Return to Main Menu",
+        "extra_message": "",
+        "update_var": "accessed module"
+      },
+      {
+        "ID": "start_new_goal_daily",
+        "list_var": "fields.goals_to_start",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You have seen all the courses",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "Let's start with the course ",
+        "msg_one_option.question": "",
+        "msg_one_option.affirmative": "",
+        "msg_one_option.negative": "",
+        "msg_one_option.no_message": "",
+        "msg_multiple_options": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      },
+      {
+        "ID": "start_started_goal_daily",
+        "list_var": "fields.goals_started",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You have seen all the courses",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "Let's continue with the course ",
+        "msg_one_option.question": "",
+        "msg_one_option.affirmative": "",
+        "msg_one_option.negative": "",
+        "msg_one_option.no_message": "",
+        "msg_multiple_options": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      },
+      {
+        "ID": "start_new_goal_expired",
+        "list_var": "fields.goals_to_start",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You have seen all the courses",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "Let's start with the course ",
+        "msg_one_option.question": "",
+        "msg_one_option.affirmative": "",
+        "msg_one_option.negative": "",
+        "msg_one_option.no_message": "",
+        "msg_multiple_options": "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      },
+      {
+        "ID": "start_started_goal_expired",
+        "list_var": "fields.goals_started",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You have seen all the courses",
+        "msg_no_options.image": "",
+        "msg_one_option.message": "Let's continue with the course ",
+        "msg_one_option.question": "",
+        "msg_one_option.affirmative": "",
+        "msg_one_option.negative": "",
+        "msg_one_option.no_message": "",
+        "msg_multiple_options": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+        "extra_option": "",
+        "extra_message": "",
+        "update_var": "curr goal"
+      }
+    ],
+    "show_options_wrapper_data": [
+      {
+        "ID": "new_goals",
+        "list_var": "fields.goals_to_start",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You are on track to complete the entire ParentText programme! There are no new courses to start!",
+        "msg_one_option.message": "You have the following course available:",
+        "msg_multiple_options": "You have the following courses available:"
+      },
+      {
+        "ID": "started_goals",
+        "list_var": "replace(fields.goals_started,fields.curr_goal,\"\")",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "There are no other courses to complete.",
+        "msg_one_option.message": "You have the following courses still available: ",
+        "msg_multiple_options": "You have not begun the following courses: "
+      },
+      {
+        "ID": "completed_goals",
+        "list_var": "fields.goals_compl",
+        "print_type": "goal",
+        "n_max_opt": "10",
+        "msg_no_options.message": "You have not completed a course yet.",
+        "msg_one_option.message": "You have completed the following course:",
+        "msg_multiple_options": "You have completed the following courses:"
+      }
+    ],
+    "interaction_data": [
+      {
+        "ID": "unfinished_onboarding",
+        "question": "ParentText has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?\n\nPress a number on your keypad:\n1. Yes\n2. Remind me tomorrow",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "unfinished_onboarding",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "complete_start_module",
+        "question": "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?\n\nPress a number on your keypad:\n1. Complete a previous lesson\n2. Start a new lesson",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "complete",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "new",
+        "options.2.stop_message": "",
+        "wa_template_ID": "complete_start_module",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "catch_up_start",
+        "question": "Do you want to catch up and proceed to the next lesson?",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "Yes",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "Remind me tomorrow",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "start_started_mod_or_later_one",
+        "question": "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?\n\nPress a number on your keypad:\n1. Finish this lesson and earn my course certificate\n2. Remind me tomorrow",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "complete",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "start_started_mod_or_later_one",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "start_started_mod_or_later_multiple",
+        "question": "You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?\n\nPress a number on your keypad:\n1. Complete unfinished lessons to earn my course certificate\n2. Remind me tomorrow",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "complete",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "start_started_mod_or_later_multiple",
+        "wa_template_vars.1": "@fields.c_n_mod_started",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "first_module_intro",
+        "question": "It's time to get started on ParentText. Are you ready? \n\nPress a number on your keypad: \n1. Yes!\n2. Remind me tomorrow",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "first_module_intro",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "daily_interaction",
+        "question": "I've got another lesson ready for you! Are you ready?\n\nPress a number on your keypad:\n1. Yes\n2. No, remind me tomorrow",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "daily_interaction",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      },
+      {
+        "ID": "select_goal",
+        "question": "I've got another lesson ready for you! Are you ready?\n\nPress a number on your keypad:\n1. Yes\n2. No, remind me tomorrow",
+        "webhook_template_name": "",
+        "webhook_template_args": "",
+        "options.1.text": "1",
+        "options.1.proceed_result_value": "yes",
+        "options.1.stop_message": "",
+        "options.2.text": "2",
+        "options.2.proceed_result_value": "",
+        "options.2.stop_message": "Great, see you tomorrow!",
+        "wa_template_ID": "daily_interaction",
+        "wa_template_vars.1": "",
+        "wa_template_vars.2": ""
+      }
+    ],
+    "activity_offer_data": [
+      {
+        "ID": "timed_programme",
+        "activity_handler_flow": "activity_handler",
+        "offer_msg": "What would you like to do next?",
+        "accept.child": "Give me an idea for 1-on-1 time with my child",
+        "accept.teen": "Give me an idea for 1-on-1 time with my teen",
+        "accept.baby": "Give me an idea for 1-on-1 time with my baby",
+        "refuse": "I’m done for today",
+        "refuse_msg": "Great, see you tomorrow!",
+        "next_offer_msg": "What would you like to do?",
+        "next_accept": "View another activity idea",
+        "next_refuse": "Continue my progress tomorrow",
+        "next_refuse_msg": "Great, see you tomorrow!",
+        "next_refuse_flow": "",
+        "next_other_opt": "Go to Main Menu",
+        "next_other_msg": "",
+        "next_other_flow": "menu - main"
+      },
+      {
+        "ID": "demo",
+        "activity_handler_flow": "activity_handler",
+        "offer_msg": "What would you like to do next?",
+        "accept.child": "Give me an idea for 1-on-1 time with my child",
+        "accept.teen": "Give me an idea for 1-on-1 time with my teen",
+        "accept.baby": "Give me an idea for 1-on-1 time with my baby",
+        "refuse": "I’m done for today",
+        "refuse_msg": "Great, see you tomorrow!",
+        "next_offer_msg": "What would you like to do?",
+        "next_accept": "View another activity idea",
+        "next_refuse": "Continue my progress tomorrow",
+        "next_refuse_msg": "Great, see you tomorrow!",
+        "next_refuse_flow": "",
+        "next_other_opt": "",
+        "next_other_msg": "",
+        "next_other_flow": ""
+      },
+      {
+        "ID": "menu",
+        "activity_handler_flow": "activity_handler",
+        "offer_msg": "",
+        "accept.child": "",
+        "accept.teen": "",
+        "accept.baby": "",
+        "refuse": "",
+        "refuse_msg": "",
+        "next_offer_msg": "What would you like to do?",
+        "next_accept": "View another activity idea",
+        "next_refuse": "Exit menu",
+        "next_refuse_msg": "",
+        "next_refuse_flow": "exit_menu",
+        "next_other_opt": "Go to Main Menu",
+        "next_other_msg": "",
+        "next_other_flow": "menu - main"
+      }
+    ],
+    "activity_type_data": [
+      {
+        "ID": "quick",
+        "option_name": "Something Quick"
+      },
+      {
+        "ID": "active",
+        "option_name": "Something Active"
+      },
+      {
+        "ID": "calm",
+        "option_name": "Something Calm"
+      },
+      {
+        "ID": "group",
+        "option_name": "Something for the whole family"
+      }
+    ],
+    "pre_post_goal_checkin_messages": [
+      {
+        "ID": "skip_reply",
+        "msg": "That's okay.",
+        "metadata.description": "pre/post"
+      },
+      {
+        "ID": "next_offer",
+        "msg": "Would you like to get more help?",
+        "metadata.description": "post after troubleshooting"
+      },
+      {
+        "ID": "more_help_option",
+        "msg": "Yes",
+        "metadata.description": "post after troubleshooting"
+      },
+      {
+        "ID": "stop_option",
+        "msg": "No",
+        "metadata.description": "post after troubleshooting"
+      }
+    ]
+  }
+}

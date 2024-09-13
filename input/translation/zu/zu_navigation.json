@@ -1,0 +1,3098 @@
+[
+  {
+    "SourceText": "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?",
+    "text": "i-ParentText ilula kakhulu ukuyisebenzisa uma uthola umthamo wayo ngamavidiyo, izithombe kanye nemiyalezo ebhaliwe. Kodwa ke kungenzeka ukuthi i-data yakho noma ukudonsa kwe-network kungakweseki ekutholeni amavidiyo. Ukonga i-data ungakhetha ukuthola okuqukethwe yividiyo ngeziqephu ezimfishane ezishicilelwe ngephimbo noma ezibhaliwe. Ufisa ukuyithola ngaluphi uhlobo i-ParentText?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, I don't understand what you mean.",
+    "text": "Ngiyaxolisa, angiqondi ukuthi uthini.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you a WOMAN or MAN?",
+    "text": "UNGOWESIFAZANE noma UNGOWESILISA?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your marital status?",
+    "text": "Ingabe ushadile?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Is @fields.child_nickname a girl or a boy?",
+    "text": "Ingabe @fields.child_nickname yintombazane noma umfana?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Is your child a girl or a boy?",
+    "text": "Ingabe ingane yakho intombazane noma umfana?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which province do you live in?",
+    "text": "Uhlala kusiphi isifundazwe?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please provide us with your child's first name.",
+    "text": "Sicela usinikeze igama lokuqala lengane yakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please type \"N\" if you prefer not to answer.",
+    "text": "Sicela ubhale u “C” uma ukhetha ukungaphenduli.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your last name?",
+    "text": "Sicela usinikeze isibongo sakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your first name?",
+    "text": "Ubani igama lakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please select your language:",
+    "text": "Sicela ukhethe ulimi lwakho:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Participating in ParentText is optional. ",
+    "text": "✅Ukubamba iqhaza ku-ParentText uyazikhethela. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅Your personal information is safe and private. Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours.  They plan to publish the results. ",
+    "text": "✅Imniningwane yakho yangasese iphephile  futhi iyimfihlo. Igama lakho neminye imniningwane yakho ngeke ibe sesidlangalaleni, kodwa izimpendulo zakho zizogcinwa futhi zisetshenziswe abacwaningi ukuze bafunde ukweseka imindeni efana neyakho. Bahlela ukushicilela imiphumela. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "❌You can stop when you want. Just type {STOP}",
+    "text": "❌Ungayeka uma ufuna. Vele uthayiphe ukuthi {STOP}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press YES if you agree with this. Type \"EXIT\" if you do not want to participate. ",
+    "text": "Cindezela “YEBO” uma uvumelana nalokhu. Bhala “PHUMA” uma ungathandi ukubamba iqhaza. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That is wonderful, thank you so much! ",
+    "text": "Kuhle kakhulu, siyabonga kakhulu!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you please confirm that you are 18 years old or older?",
+    "text": "Sicela uqinisekise ukuthi uneminyaka eyi-18 ubudala noma ngaphezulu?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! Let's begin.",
+    "text": "Kuhle! Asiqale.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option.",
+    "text": "Uqinisekile ukuthi awufuni ukuthola le milayezo? Uma ungasafuni ukuthola eminye imilayezo, sicela ubhale ukuthi CHA. Uma wenze iphutha, sicela ucindezele EMUVA bese ukhetha okunye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever return to participate in the programme, type \"HELLO\". ",
+    "text": "Uma kwenzeka ubuya uzohlanganyela ohlelweni, bhala ukuthi \"SAWUBONA\". ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope to see you again soon, and we wish you a happy and peaceful day! ",
+    "text": "Sithembe ukuthi sizokubona maduzane, futhi sikufisela usuku olunenjabulo nokuthula! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, ParentText is only for people over the age of 18. Do you confirm that you are under the age of 18?",
+    "text": "Siyaxolisa, i-ParetText ngeyabantu abaneminyaka engaphezu kweyi-18 kuphela. Ingabe uyakuqinisekisa ukuthi ungaphansi kweminyaka eyi-18 ubudala?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you want to experience ParentText, you can always share it with your parents or caregivers.",
+    "text": "Uma uthanda ukusebenzisa i-ParentText, ungakuxoxa nabazali noma abanakekeli bakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a video that shows how to use ParentText.",
+    "text": "Nansi ividiyo ebonisa indlela yokusebenzisa i-ParentText.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Variables have been reset",
+    "text": "Okusethile kushitshile",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Wazalwa nini @fields.child_nickname? Faka usuku lwakhe lokuzalwa ngalendlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Wazalwa nini @? Faka usuku lwabo lokuzalwa ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Siyaxolisa, lolu suku akulona. Sicela unikeze usuku lokuzalwa lwengane yakho ngalendlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Usuku olifakile isesikhathini esizayo. Sicela unikeze usuku yokuzalwa yengane yakho ngale ndlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Ake sizame futhi. Sicela unikeze usuku lokuzalwa lwengane yakho ngale ndlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?",
+    "text": "@fields.child_nickname ngu @(round_down(datetime_diff(results.date,now(),\"M\")/12)) ubudala -. Ingabe kuyikho lokho?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?",
+    "text": "Ingane yakho ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?",
+    "text": "i-@fields.child_nickname ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?",
+    "text": "Osemusha wakho uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010.",
+    "text": "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!",
+    "text": "Wamukelekile kuParentText! Leli robhothi elikhulumayo lakhiwe ngabazali futhi lakhelwe abazali abafana nawe. Sithemba ukuthi uzolithola liwusizo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time.",
+    "text": "I-ParentText izokusiza ngazo zonke izingane empilweni yakho, kodwa kulolu hlelo sigxile enganeni eyodwa ngesikhathi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to go back to the previous messages?",
+    "text": "Ngabe ufisa ukubuyela emiyalezweni yaphambilini?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines.",
+    "text": "Kulungile. Bhala ukuthi {USIZO} noma nini uma ungathanda imininingwane yamasevisi ezimo eziphuthumayo noma amanye ama-hotline.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are the contact details of your local emergency services:",
+    "text": "Nansi imininingwane yokuxhumana nezindawo zangakini zosizo oluphuthumayo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{generic referrals}",
+    "text": "{Ukudluliselwa okuvamile}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!",
+    "text": "Bhala ukuthi {HELP} noma nini uma ungathanda imininingwane yamasevisi ezimo eziphuthumayo noma amanye ama-hotline. Khumbula konke okushoyo kuzoba yimfihlo ngokuphelele!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever feel like talking privately to a trained professional, you can call:",
+    "text": "Uma uzizwa sengathi ufuna ukukhuluma ngasese nomuntu oqeqeshiwe, ungashayela:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{mental_health referrals}",
+    "text": "{Ukudluliselwa kwezempilo yengqondo}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are the contact details of your local medical services:",
+    "text": "Nansi imininingwane yokuxhumana nezindawo zangakini zosizo lwezempilo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{health referrals}",
+    "text": "{Ukudluliselwa ngokwezempilo}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{violence referrals}",
+    "text": "{violence referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{natural_disasters referrals}",
+    "text": "{ukudluliselwa ngenhlekelele zemvelo}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{drugs referrals}",
+    "text": "{drugs referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you currently facing an emergency?",
+    "text": "Ngabe ubhekene nesimo esiphuthumayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you need some support with an emotional issue?",
+    "text": "Ngabe udinga usizo mayelana nesimo esikuthinta emoyeni?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you currently experiencing a health issue?",
+    "text": "Ngabe unenkinga ngokwesimo sezempilo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Are you experiencing an unsafe situation?",
+    "text": "Ngabe uzizwa ungaphephile?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you have an emergency?",
+    "text": "Ingabe unesimo esiphuthumayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you need some urgent help?",
+    "text": "Ngabe udinga usizo oluphuthumayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I might know some resources that can help. Would you like information for:",
+    "text": "Kungenzeka ngazi amathuluzi angasiza. Ungaluthanda ulwazi lo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:",
+    "text": "Sicela uzinakekele! Umtholampilo oseduze nawe ungakusiza ngezinkinga zokuphila. Uma udinga ukwesekwa, nazi izincingo zamahala zosizo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! ",
+    "text": "Ukubona nokubhekana nodlame kungaba isikhathi esithusayo. Kukhona abantu abangasiza wena nengane yakho! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:",
+    "text": "Uzizwa uphansi noma ukhathazekile, noma imphatho yengane yakho inzima? Lezi zindawo zingakusiza:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:",
+    "text": "Impilo yomndeni inzima! Ubuwazi ukuthi osohlalakahle kuMnyango Wezokuthuthukiswa Komphakathi eduze nawe bangakusiza ngamakhono obuzali, ukuba ngubaba, ukumitha kwentsha, nokwelulekwa komndeni nobudlelwano? Uma lingekho i-ofisi eliseduze, ungathola usizo kuNGO eseduze nawe:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{family referrals}",
+    "text": "{family referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:",
+    "text": "Amandla amaningi ethu asekusizeni umuntu ohlulwa izidakamizwa. Njengoba lokhu kubalulekile, wena nomndeni wakho nidinga ukwesekwa futhi! Thola ukwesekwa ngezansi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{development resources 1}",
+    "text": "{izinsiza zokuthuthukisa 1}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:",
+    "text": "Izinkinga zomthetho neSASSA ziyakhathazana! Kungenzeka kubenokwesekwa okwengeziwe ngaphezu kolwazi lwakho kulezizindawo ngezansi:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{legal_help referrals}",
+    "text": "{legal_help referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:",
+    "text": "Ukuqondisisa ukuthuthuka kwezocansi nobulili kungadidana futhi kube nzima ukukhuluma ngakho. Sonke sihlukile! Naku ukweseka nokwelulekwa:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{lgbtqia referrals}",
+    "text": "{lgbtqia referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:",
+    "text": "Ingane yakho ichitha isikhathi esiningi esikoleni. Kubalulekile ukuqiniseka ukuthi basesikoleni, bajabulile futhi bayasekwa. Uma uhlulwa izinkinga zesikole, nalu usizo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{school referrals}",
+    "text": "{school referrals}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What would you like to do?",
+    "text": "Ungathanda ukwenzani?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope this was helpful! You can access this information at any time by typing {HELP}.",
+    "text": "Sithemba ukuthi lokhu kube usizo! Ungafinyelela kulolu lwazi noma nini ngokubhala ukuthi {USIZO}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome back to ParentText!",
+    "text": "Siyakwamukela futhi kwi-ParentText!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I don't understand your message.",
+    "text": "Angiwuqondi umyalezo wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis.",
+    "text": "Sicela ubhale ukuthi {MENU} ukuze ufinyelele izinsiza futhi ubuyekeze amamojuli aqediwe, {PLAY} ukuze uthole umsebenzi wokudlala ongawuqedela nengane yakho, noma {HELP} ukuze ufinyelele kwizinsiza zokukusekela zasendaweni zenhlekelele.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have not given consent to participate in this programme. Would you like to participate?",
+    "text": "Awuhlinzekwanga ngemvume yokubamba iqhaza kulolu hlelo. Ungathanda ukubamba iqhaza?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you ever decide to participate in the programme, type HELLO. ",
+    "text": "Uma kwenzeka ufuna ukubamba iqhaza ohlelweni, bhala uthi Sawubona. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Parenting is hard. ParentText may help. Would you like to continue your progress?",
+    "text": "Ukukhulisa abantwana kunzima. i-ParentText ingasiza. Ungathanda ukuqhubeka nentuthuko yakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. If you ever decide to come back, type HELLO. ",
+    "text": "Kulungile. Uma kwenzeka unquma ukubuya, bhala ukuthi SAWUBONA. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are already part of ParentText! ",
+    "text": "Usuvele uyingxenye ye-ParentText! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have already completed ParentText!",
+    "text": "Usuvele uyingxenye ye-ParentText!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?",
+    "text": "Ukuhlala ku-ParentText kusiza wena nengane yakho. Uqinisekile ukuthi ufuna ukuphuma ohlelweni?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you do not want to receive any more messages, please type \"EXIT\".",
+    "text": "Uma ungasathandi ukuthola le miyalezo, sicela uthayiphe “PHUMA”.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "If you made a mistake, please type \"BACK\".",
+    "text": "Uma wenze iphutha, sicela ubhale igama elithi \"EMUVA\".",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for participating. If you want to return to the programme, type HELLO. ",
+    "text": "Siyabonga ngokuhlanganyela. Uma ufuna ukubuyela ohlelweni, bhala ukuthi SAWUBONA. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope to see you again soon! ",
+    "text": "Sithemba ukukubona futhi maduze! ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!",
+    "text": "Lokhu kuzotholakala uma usuqedile ukubhalisa. Ngeke kuthathe isikhathi eside. Sicela uqhubeke nentuthuko yakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!",
+    "text": "Imenyu izotholakala uma usuqedile ukubhalisa. Ngeke kuthathe isikhathi eside. Sicela uqhubekele phambili!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "In this course, you will complete @fields.c_n_mod lessons. You will receive a new lesson each day. Your first lesson is @results.name.",
+    "text": "Kulesi sifundo, uzoqedela @fields.c_n_mod izifundo. Uzothola isifundo esisha usuku ngalunye. Isifundo sakho sokuqala sithi @results.name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons in this course. Today's lesson is @results.name.",
+    "text": "Uqedele @fields.c_n_mod_compl ezifundweni ze-@fields.c_n_mod kulesi sifundo. Isifundo sanamuhla sithi @results.name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "fail",
+    "text": "akuhambi kahle",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let’s get started. Press NEXT to begin.",
+    "text": "Ake siqale. Cindezela okuthi OKULANDELAYO ukuze uqalise.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Well done. You're ready to start the programme.",
+    "text": "Wenze kahle. Usukulungele ukuqala uhlelo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no new courses available.",
+    "text": "Azikho izifundo ezintsha ezitholakalayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following course to start",
+    "text": "Kumele ulandele lezifundo ukuze uqale",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(text_slice(results.message_options,3)).",
+    "text": "@(text_slice(results.message_options,3)).",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Would you like to begin this course?",
+    "text": "Ungathanda ukuqala lesi sifundo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay.",
+    "text": "Kulungile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which new course would you like to start? ",
+    "text": "Isiphi isifundo esisha ongathanda ukusiqala? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@results.message_options",
+    "text": "@results.message_options",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You do not have have a current course. ",
+    "text": "Awunazo izifundo njenga manje. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following course started",
+    "text": "Unesifundo esilandelayo kuphela esiqalile",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which unfinished course would you like to complete?",
+    "text": "Iziphi izifundo ongathanda ukuziqedela?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no incomplete courses. ",
+    "text": "Azikho izifundo ezingaphelile. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following course to complete",
+    "text": "Unesifundo ezilandelayo kuphela okufanele uziqedele",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great! Which unfinished course would you like to complete?",
+    "text": "Kuhle! iziphi izifundo ongathanda ukuziqeda?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "NA",
+    "text": "NA",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You only have the following lesson to complete:",
+    "text": "Unesifundo esilandelayo kuphela okufanele usiqedele:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which lesson would you like to complete?",
+    "text": "Iziphi izifundo ongathanda ukuziqedela?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You haven't started to work on a course yet.",
+    "text": "Awukakaqali ukusebenza esifundweni okwamanje.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have only started the course",
+    "text": "Uqale isifundo kuphela",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like support on it?",
+    "text": "Ungathanda ukwesekwa kukho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can access more information at any time in the Main Menu. Just type {MENU}.",
+    "text": "Kulungile. Ungafinyelela olwazini olwengeziwe nganoma yisiphi isikhathi kwi menyu nkulu. Vele ubhale ukuthi {Menyu}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What are you struggling with?",
+    "text": "Uzabalaziswa yini?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You haven't completed a lesson yet.",
+    "text": "Awukasiqedi isifundo okwamanje.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Which course do you want to review?",
+    "text": "Isiphi isifundo ofuna ukusibuyekeza?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(word_count(fields.goals_accessed) +1). Return to Main Menu",
+    "text": "@(word_count(fields.goals_accessed) +1). Buyela kuMeyu Omkhulu",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "You haven't completed any of the lessons in this course. ",
+    "text": "Awukaqedi noma yiziphi izifundo kulesi sifundo. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have only completed the following lesson:",
+    "text": "Uqedele isifundo esilandelayo kuphela:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to review it?",
+    "text": "Ungathanda ukulibuyekeza?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can come back here at any time to review it.",
+    "text": "Kulungile. Ungabuya lapha noma nini ukuzolibuyekeza.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @fields.n_s_modules_compl lessons within this course. Which lesson do you want to review?",
+    "text": "Usiqedile isifundo se-@fields.n_s_modules_compl kulezi zifundo. Isiphi isifundo ofuna ukusibuyekeza?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu",
+    "text": "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Buyela kuyi-Main Menu",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
+  },
+  {
+    "SourceText": "You have seen all the courses",
+    "text": "Usuzibone zonke izifundo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's start with the course ",
+    "text": "Masiqale ngesifundo ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+    "text": "Isikhathi sokukhetha isifundo esisha! Usuqede @fields.n_goals_completed ku @fields.n_goals_prog wezifundo. Ungathanda ukwenza siphi isifundo esilandelayo?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Let's continue with the course ",
+    "text": "Masiqhubeke ngesifundo ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?",
+    "text": "Usuqede @fields.n_goals_completed ku @fields.n_goals_prog wezifundo. Ungathanda ukwenza siphi isifundo esilandelayo?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "What would you like to do next?",
+    "text": "Yini ongathanda ukuyenza ngokulandelayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Great, see you tomorrow!",
+    "text": "Kuhle, sobonana kusasa!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What kind of activity do you want to try with your teen?",
+    "text": "Imuphi umsebenzi ofuna ukuwuzama nengane yakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What kind of activity do you want to try with your baby?",
+    "text": "Iziphi izinto ofuna ukuzizama nengane yakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What kind of activity do you want to try with your child?",
+    "text": "Iluphi uhlobo lomsebenzi ofuna ukuwuzama nengane yakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you want to begin now or tomorrow?",
+    "text": "Ingabe ufuna ukuqala manje noma kusasa?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It takes only 5 days to complete this course and earn your parenting certificate.",
+    "text": "Kuthatha izinsuku ezi-5 kuphela ukuqeda lesi sifundo futhi uzuze isitifiketi sakho sokuba ngumzali.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Thank you for participating!",
+    "text": "Siyabonga ngokuhlanganyela kwakho!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! ",
+    "text": "🎉Uphumelele!🎉 Usiqedile isifundo @results.name. Nasi isitifiketi sakho. Halala! ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Remember, you can always return to ParentText and get extra support or review this information. Just type {MENU}.",
+    "text": "Khumbula, ungakwazi njalo ukubuyela ku-ParentText futhi uthole ukwesekwa okwengeziwe noma ubuyekeze lolu lwazi. Vele ubhale ukuthi {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "ParentText has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?",
+    "text": "IParentText isiqalile. Usalelwe yizinsuku ezi-5 kuphela ukuthi uzuze isitifiketi sakho sokuba ngumzali. Ingabe usukulungele ukuqedela ukubhalisa kwakho futhi uqalise?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press a number on your keypad:",
+    "text": "Cindezela inombolo kukhiphedi yakho:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Yes",
+    "text": "1. Yebo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. Remind me tomorrow",
+    "text": "2. Ngikhumbuze kusasa",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?",
+    "text": "Awukho endleleni! Ingabe ufuna ukuqedela isifundo sangaphambilini noma ukuqala isifundo esisha?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Complete a previous lesson",
+    "text": "1. Qedela isifundo esedlule",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. Start a new lesson",
+    "text": "2. Qala isifundo esisha",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you want to catch up and proceed to the next lesson?",
+    "text": "Ingabe uyafuna ukuqhubeka futhi uqhubekele esifundweni esilandelayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?",
+    "text": "Usuzoqeda ngalesi sifundo! Unesifundo esisodwa esingaqediwe. Ungathanda ukwenzani?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Finish this lesson and earn my course certificate",
+    "text": "1. Qeda lesi sifundo futhi uzuze isitifiketi sesifundo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?",
+    "text": "Usuzoqeda ngalesi sifundo! Una-@fields.c_n_mod_started wezifundo ezingaqediwe. Ungathanda ukwenzani?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "1. Complete unfinished lessons to earn my course certificate",
+    "text": "1. Qedela izifundo ezingakaqedwa ukuze uthole isitifiketi sesifundo",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "It's time to get started on ParentText. Are you ready? ",
+    "text": "Isikhathi sokuthi uqalise ngeParentText. Usukulungele? ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Press a number on your keypad: ",
+    "text": "Cindezela inombolo kuyi-keypad yakho: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Yes!",
+    "text": "1. Yebo!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "I've got another lesson ready for you! Are you ready?",
+    "text": "Ngikulungiselele esinye isifundo! Usukulungele?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "2. No, remind me tomorrow",
+    "text": "2. Cha, ngikhumbuze kusasa",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "These messages don’t seem to be working. When you are ready to keep going, press 1. ",
+    "text": "Sengathi le miyalezo ayisebenzi. Uma usukulungele ukuqhubeka, cindezela u-1. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have not completed a course yet.",
+    "text": "Awukasiqedi isifundo okwamanje.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed the following course:",
+    "text": "Usiqedile isifundo esilandelayo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@(text_slice(results.message_options,3))",
+    "text": "@(text_slice(results.message_options,3))",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have completed the following courses:",
+    "text": "Usiqedile isifundo esilandelayo:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no other courses to complete.",
+    "text": "Ayikho eminye imigomo okufanele uyiqedele.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have the following courses still available: ",
+    "text": "Unezifundo ezilandelayo ezisatholakala: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have not begun the following courses: ",
+    "text": "Awukaziqali izifundo ezilandelayo: ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are on track to complete the entire ParentText programme! There are no new courses to start!",
+    "text": "Usuthubeni lokuqeda lonke uhlelo lweParentText! Azikho izifundo ezintsha ezizoqala!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have the following course available:",
+    "text": "Unezifundo ezilandelayo ezisatholakala:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have the following courses available:",
+    "text": "Unezifundo ezilandelayo ezisatholakala:",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}.",
+    "text": "Sithemba ukuthi lokhu kube usizo! Ungakwazi ukufinyelela I-Main Menu nomanini ngokubhala ukuthi {MENU}.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your relationship status has been updated. You've unlocked a new course: @results.name. ",
+    "text": "Ubudlelwano bakho bubuyekeziwe. Uvule isifundo esisha: @results.name. ",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "To invite someone to join, share this link!",
+    "text": "Ukuze umeme othile ukujoyina, thumela le-link!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "{insert link}",
+    "text": "{insert link}",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have reached the end of this lesson! 🎉 ",
+    "text": "Ufinyelele ekupheleni kwalesi sifundo! 🎉 ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What do you want to do next?",
+    "text": "Ufuna ukwenzani ngokulandelayo?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "That's okay. You can access more information at any time in the Main Menu.",
+    "text": "Kulungile. Ungafinyelela ulwazi olwengeziwe nganoma yisiphi isikhathi kwi-Menyu enkulu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "🎉You did it! Congratulations!🎉 You have completed all the available courses. Well done!",
+    "text": "🎉Usebenzile! Halala!🎉 Uziqede zonke izifundo ezitholakalayo. Wenze kahle kakhulu!",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons.",
+    "text": "Uqedele izifundo eziwu @fields.c_n_mod_compl kwezingu-@fields.c_n_mod.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "⬜️⬜️",
+    "text": "⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.n_goals_completed of @fields.n_goals_prog Courses Complete",
+    "text": "@fields.n_goals_completed of @fields.n_goals_prog Izifundo Ziqediwe",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "✅⬜️",
+    "text": "✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅",
+    "text": "✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️",
+    "text": "✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️",
+    "text": "✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅",
+    "text": "✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️",
+    "text": "✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️",
+    "text": "✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅",
+    "text": "✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️",
+    "text": "✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅",
+    "text": "✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅✅⬜️⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅✅⬜️",
+    "text": "✅✅✅✅✅✅✅✅✅✅✅⬜️",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "✅✅✅✅✅✅✅✅✅✅✅✅",
+    "text": "✅✅✅✅✅✅✅✅✅✅✅✅",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently working on the course @results.name.",
+    "text": "Okwamanje usebenza esifundweni esithi @results.name.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You have not selected which course to work on next.",
+    "text": "Awukakhethi ukuthi yisiphi isifundo ozosebenza kuso ngokulandelayo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "What would you like change?",
+    "text": "Yini ongathanda ukuyishintsha?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is Text, Images, and Videos.",
+    "text": "Isilungiselelo sakho semidiya samanje sithi Umbhalo, Izithombe, namavidiyo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is Text, Images, and Audio.",
+    "text": "Isilungiselelo sakho semidiya samanje sithi Umbhalo, Izithombe, Nomsindo.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is Text and Images Only.",
+    "text": "Isilungiselelo sakho semidiya samanje Esombhalo kanye Nezithombe Kuphela.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your current media setting is",
+    "text": "Isilungiselelo sakho semidiya samanje sithi",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't provide this info.",
+    "text": "Awuzange unikeze lolu lwazi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change it?",
+    "text": "Ingabe ungathanda ukuwashintsha?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't tell us if you are a woman or a man. ",
+    "text": "Awuzange usitshele ukuthi ungumuntu wesilisa noma wesifazane. ",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are a Woman.",
+    "text": "Usitshele ukuthi ungumuntu Wesifazane.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are a Man.",
+    "text": "Usitshele ukuthi ungumuntu Wesilisa.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are a",
+    "text": "Usitshele ukuthi uyi-",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to update your gender?",
+    "text": "Ungathanda ukubuyekeza ubulili bakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't tell us what's your relationship status.",
+    "text": "Awuzange usitshele ukuthi siyini isimo sobudlelwano bakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Single (not in a relationship).",
+    "text": "Usitshele ukuthi awushadile (awunabudlelwane).",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Married.",
+    "text": "Usitshele ukuthi ushadile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Partnered but not married.",
+    "text": "Usitshele ukuthi Ukhona Ozwana naye kodwa anishadile.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Divorced or separated.",
+    "text": "Usitshele ukuthi Uhlukanisile noma awusahlali noganene naye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are Widowed.",
+    "text": "Usitshele ukuthi washonelwa ngowawuganene naye.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that you are",
+    "text": "Usitshele ukuthi uyi-",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change your relationship status?",
+    "text": "Ungathanda ukushintsha isimo sobudlelwano bakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is @fields.child_age year old and was born on @(date(fields.child_dob)).",
+    "text": "Usitshele ukuthi @fields.child_nickname uneminyaka engu-@fields.child_age ubudala futhi wazalwa ngo-@(date(fields.child_dob)).",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is @fields.child_age year old and was born on @(date(fields.child_dob)).",
+    "text": "Usitshele ukuthi ingane yakho ineminyaka engu-@fields.child_age ubudala futhi yazalwa ngo-@(date(fields.child_dob)).",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Would you like to update the date of birth of @fields.child_nickname?",
+    "text": "Ungathanda ukufaka usuku lokuzalwa lwa-@fields.child_nickname?",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Would you like to update the date of birth of your child?",
+    "text": "Ungathanda ukubuyekeza usuku lokuzalwa kwengane yakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Your child's nickname is @fields.child_nickname.",
+    "text": "Isiteketiso sengane yakho sithi @fields.child_nickname.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You didn't provide a nickname for your child.",
+    "text": "Awunikezanga isiteketiso sengane yakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to update it?",
+    "text": "Ungathanda ukuyibuyekeza?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.child_nickname's gender has been updated.",
+    "text": "Ubulili ba-@fields.child_nickname bubuyekeziwe.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "Your child's gender has been updated.",
+    "text": "Ubulili bomntwana wakho wakho bubuyekeziwe.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You didn't tell us the gender of @fields.child_nickname.",
+    "text": "Awuzange usitshele ubulili ba @fields.child_nickname.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You didn't tell us the gender of your child.",
+    "text": "Awusitshelanga ubulili bomntwana wakho.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is a Girl.",
+    "text": "Usitshele ukuthi u @fields.child_nickname yintombazane.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is a Girl.",
+    "text": "Usitshele ukuthi umntwana wakho yintombazane.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is a Boy.",
+    "text": "Usitshele ukuthi u @fields.child_nickname umfana.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is a Boy.",
+    "text": "Usitshele ukuthi umntwana wakho umfana.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You told us that @fields.child_nickname is a",
+    "text": "Usitshele ukuthi u @fields.child_nickname u",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You told us that your child is a",
+    "text": "Usitshele ukuthi ingane yakho i",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently receiving messages in English.",
+    "text": "Okwamanje uthola imilayezo ngesiNgisi.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently receiving messages in IsiZulu.",
+    "text": "Njengamanje uthola imiyalezo ngesiZulu.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "You are currently receiving messages in",
+    "text": "Okwamanje uthola imilayezo nge-",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you like to change your language?",
+    "text": "Ungathanda ukushintsha ulimi lwakho?",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "*DAY @fields.curr_demo_day*",
+    "text": "*USUKU @fields.curr_demo_day*",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated."
+  },
+  {
+    "SourceText": "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning.",
+    "text": "Uyiqedele idemo ye-ParentText. Bhala ukuthi RESET bese uthi {FACSTART} ukuze uqale kabusha kusukela ekuqaleni.",
+    "type": "text",
+    "note": ""
+  },
+  {
+    "SourceText": "Text, Images, and Videos",
+    "text": "Umbhalo, Izithombe, Namavidiyo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text, Images, and Audio",
+    "text": "Umbhalo, Izithombe, ne-Audio",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Text and Images Only",
+    "text": "Umbhalo Nezithombe Kuphela",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Woman",
+    "text": "Owesifazane",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Man",
+    "text": "Owesilisa",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Prefer not to say",
+    "text": "Ngikhetha ukungasho",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Single",
+    "text": "Awuthandani namuntu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Unmarried but in a relationship",
+    "text": "Awuashadile kodwa usebudlelwaneni nothile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Married",
+    "text": "Ushadile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Separated from partner",
+    "text": "Anihlali ndawonye",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Divorced",
+    "text": "Udivosile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Widowed",
+    "text": "Umfelokazi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Other",
+    "text": "Okunye",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I don't want to answer",
+    "text": "Angifuni ukuphendula",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Girl",
+    "text": "Intombazane",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Boy",
+    "text": "Umfana",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Eastern Cape",
+    "text": "Eastern Cape",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Free State",
+    "text": "eFleyistata",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Gauteng",
+    "text": "eGauteng",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "KwaZulu-Natal",
+    "text": "KwaZulu-Natal",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Limpopo",
+    "text": "eLimpopo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Mpumalanga",
+    "text": "eMpumalanga",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "North West",
+    "text": "eNorth West",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Northern Cape",
+    "text": "eNorthern Cape",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Western Cape",
+    "text": "eWestern Cape",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I do not live in South Africa",
+    "text": "Angihlali eNingizimu Afrika",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "English",
+    "text": "IsiNgisi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "IsiZulu",
+    "text": "IsiZulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "YES",
+    "text": "YEBO",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes, I am over 18",
+    "text": "Yebo, ngingaphezulu kweminyaka eyi-18",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No, I am under 18",
+    "text": "Cha, ngingaphansi kweminyaka eyi-18",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "BACK",
+    "text": "EMUVA",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Yes",
+    "text": "Yebo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "No",
+    "text": "Cha",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "NEXT",
+    "text": "OKULANDELAYO",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Emergency support",
+    "text": "Ukweseka okuphuthumayo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Health support services",
+    "text": "Ukweseka kokuphila okuhle",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Dealing with violence",
+    "text": "Ukubhekana nodlame",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Suicide prevention services",
+    "text": "Usizo oluphuthumayo lokunqanda ukuzibulala",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Family counselling and support",
+    "text": "Ukwelulekwa nokweseka komndeni",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Drugs and alcohol abuse",
+    "text": "Ukusetshenziswa kwezidakamizwa notshwala",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Child development support",
+    "text": "Ukwesekwa ngokukhula kwengane",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Legal or SASSA help",
+    "text": "Usizo ngezomthetho noma iSASSA",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "LGBTQIA+ support services",
+    "text": "Usizo ngokweseka iLGBTQIA+",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "School issues",
+    "text": "Izinkinga zesikole",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get other emergency contacts",
+    "text": "Thola ezinye izinombolo zocingo zezimo esiphuthumayo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Go to the Main Menu",
+    "text": "Yana Kumenyu Omkhulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Exit Menu",
+    "text": "Phuma kumenyu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me an idea for 1-on-1 time with my child",
+    "text": "Nginike umbono wesikhathi sisobabili sodwa nengane yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I’m done for today",
+    "text": "Ngiqedile okwanamuhla",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me an idea for 1-on-1 time with my teen",
+    "text": "Nginike umbono mayelana nesikhathi nginengane yami sisobabili",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me an idea for 1-on-1 time with my baby",
+    "text": "Nginike umbono wesikhathi sisobabili sodwa nomntwana wami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View another activity idea",
+    "text": "Buka omunye umbono mayelana nomsebenzi",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Go to Main Menu",
+    "text": "Iya kwi-Menyu enkulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Continue my progress tomorrow",
+    "text": "Qhubeka intuthuko yami kusasa",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Exit menu",
+    "text": "Phuma kuyi-Menu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something Quick",
+    "text": "Okuthile Okusheshayo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something Active",
+    "text": "Kukhona Okusebenzayo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something Calm",
+    "text": "Okuthile Okuzolile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Something for the whole family",
+    "text": "Yenza okuthile nomndeni wakho wonke",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Now",
+    "text": "Manje",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Tomorrow",
+    "text": "Kusasa",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Remind me tomorrow",
+    "text": "Ngikhumbuze kusasa",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View incomplete courses",
+    "text": "Buka izifundo ezingaqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View courses to start",
+    "text": "Buka izifundo ukuze uqale",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Return to Main Menu",
+    "text": "Buyela kwi-Menyu enkulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "View finished courses",
+    "text": "Buka izifundo eziqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Complete this outstanding course and leave my current course incomplete",
+    "text": "Qedela lesi sifundo esishodayo futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Complete another outstanding course and leave my current course incomplete",
+    "text": "Qedela esinye isifundo esishodayo futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Start the new course and leave my current course incomplete",
+    "text": "Qala isifundo esisha futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Start a new course and leave my current course incomplete",
+    "text": "Qala isifundo esisha futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review a lesson from a different course",
+    "text": "Buyekeza izifundo ezivela ezifundweni ezihlukile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Return to Menu",
+    "text": "Buyela kwi-Menyu enkulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review another lesson from this course",
+    "text": "Buyekeza esinye isifundo kulesi sifundo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get more help with this course",
+    "text": "Thola usizo olwengeziwe ngalesi sifundo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get help with a different challenge",
+    "text": "Thola usizo mayelana nenkinga ehlukile",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Return to the Main Menu",
+    "text": "Buyela kwi-Menyu enkulu",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Review and track my progress",
+    "text": "Buyekeza futhi ulandelele intuthuko yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my settings",
+    "text": "Shitsha ama-settings ami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Invite a friend to enroll",
+    "text": "Mema umngani ukuthi abhalise",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get help with an emergency",
+    "text": "Thola usizo ngesimo esiphuthumayo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Watch a video with instructions",
+    "text": "Bhukela ividiyo enemiyalelo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Track my progress",
+    "text": "Landelela intuthuko yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Retake completed lessons",
+    "text": "Phinda wenze izifundo eziqediwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Get extra help with my child",
+    "text": "Ukuthola usizo olwengeziwe ngengane yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my profile",
+    "text": "Shintsha i-profile yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Stop receiving the messages",
+    "text": "Yeka ukuthola imiyalezo",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my language",
+    "text": "Shintsha ulimi lwami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change the way I receive content",
+    "text": "Shintsha indlela engithola ngayo okuqukethwe",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my gender",
+    "text": "Shintsha ubulili bami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my relationship status",
+    "text": "Shitsha isimo sami kwezobudlelwano",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my child's age",
+    "text": "Shintsha iminyaka yengane yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Update my child's name",
+    "text": "Vuselela igama lengane yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Change my child's gender",
+    "text": "Shintsha ubulili bengane yami",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "text, images, and videos",
+    "text": "umbhalo, Izithombe, namavidiyo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "text, images, and audio",
+    "text": "umbhalo, izithombe, kanye ne-audio",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "text and images only",
+    "text": "umbhalo nezithombe kuphela",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "woman",
+    "text": "owesifazane",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "man",
+    "text": "owesilisa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "prefer not to say",
+    "text": "ngikhetha ukungasho",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "single",
+    "text": "ongashadile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "unmarried but in a relationship",
+    "text": "awuashadile kodwa usebudlelwaneni nothile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "married",
+    "text": "oshadile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "separated from partner",
+    "text": "anihlali ndawonye",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "divorced",
+    "text": "udivosile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "widowed",
+    "text": "umfelokazi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "other",
+    "text": "Okunye",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i don't want to answer",
+    "text": "angifuni ukuphendula",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "girl",
+    "text": "intombazane",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "boy",
+    "text": "umfana",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "eastern cape",
+    "text": "e-eastern Cape",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "free state",
+    "text": "eFleyistata",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "gauteng",
+    "text": "egauteng",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "kwazulu-natal",
+    "text": "kwazulu-natal",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "limpopo",
+    "text": "elimpopo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "mpumalanga",
+    "text": "empumalanga",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "north west",
+    "text": "enorth west",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "northern cape",
+    "text": "enorthen cape",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "western cape",
+    "text": "ewestern cape",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i do not live in south africa",
+    "text": "angihlali eningizimu afrika",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "n",
+    "text": "c",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "english",
+    "text": "isiNgisi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "isizulu",
+    "text": "isizulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes",
+    "text": "yebo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "exit",
+    "text": "phuma",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y over",
+    "text": "yebo yini kungaphezulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n under",
+    "text": "cha ngaphansi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no",
+    "text": "Cha",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "back",
+    "text": "emuva",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y yeah yep",
+    "text": "yebo y yebo yeb",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n nope",
+    "text": "cha n cha",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "generic",
+    "text": "vamile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "mental_health",
+    "text": "mental_health",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "health",
+    "text": "ezempilo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "violence",
+    "text": "udlame",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "natural_disasters",
+    "text": "natural_disasters",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "drugs",
+    "text": "izidakamizwa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "help",
+    "text": "Usizo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "menu",
+    "text": "imenyu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "play",
+    "text": "dlala",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "grow",
+    "text": "ukukhula",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stop",
+    "text": "yima",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "no n nope nah",
+    "text": "cha c cha cha",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "emergency support",
+    "text": "ukweseka okuphuthumayo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "health support services",
+    "text": "ukweseka kokuphila okuhle",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "dealing with violence",
+    "text": "ukubhekana nodlame",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "suicide prevention services",
+    "text": "usizo oluphuthumayo lokunqanda ukuzibulala",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "family counselling and support",
+    "text": "ukwelulekwa nokweseka komndeni",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "drugs and alcohol abuse",
+    "text": "ukusetshenziswa kwezidakamizwa notshwala",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "child development support",
+    "text": "ukwesekwa ngokukhula kwengane",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "legal or sassa help",
+    "text": "usizo ngezomthetho noma i-sassa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "lgbtqia+ support services",
+    "text": "usizo ngokweseka ilgbtqia+",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "school issues",
+    "text": "izinkinga zesikole",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get other emergency contacts",
+    "text": "thola ezinye izinombolo zocingo zezimo esiphuthumayo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "go to the main menu",
+    "text": "yana kumenyu omkhulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "exit menu",
+    "text": "phuma kumenyu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "i’m done for today",
+    "text": "ngiqedile okwanamuhla",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "give me an idea for 1-on-1 time with my child",
+    "text": "nginike umbono wesikhathi sisobabili sodwa nomntwana wami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "give me an idea for 1-on-1 time with my teen",
+    "text": "nginike umbono mayelana nesikhathi nginengane yami sisobabili",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "give me an idea for 1-on-1 time with my baby",
+    "text": "nginike umbono wesikhathi sisobabili sodwa nomntwana wami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view another activity idea",
+    "text": "buka omunye umbono mayelana nomsebenzi",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "go to main menu",
+    "text": "iya kwi-Menyu enkulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "continue my progress tomorrow",
+    "text": "qhubeka intuthuko yami kusasa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something quick",
+    "text": "okuthile okusheshayo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something active",
+    "text": "kukhona okusebenzayo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something calm",
+    "text": "okuthile okuzolile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "something for the whole family",
+    "text": "okuthile komndeni wonke",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "now",
+    "text": "manje",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "tomorrow",
+    "text": "kusasa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "1",
+    "text": "1",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "2",
+    "text": "2",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "remind me tomorrow",
+    "text": "ngikhumbuze kusasa",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view incomplete courses",
+    "text": "buka izifundo ezingaqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view courses to start",
+    "text": "buka izifundo ukuze uqale",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "return to main menu",
+    "text": "buyela kumenyu enkulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "view finished courses",
+    "text": "buka izifundo eziqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "complete this outstanding course and leave my current course incomplete",
+    "text": "qedela lesi sifundo esishodayo futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "complete another outstanding course and leave my current course incomplete",
+    "text": "qedela esinye isifundo esishodayo futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "start the new course and leave my current course incomplete",
+    "text": "qala isifundo esisha futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "start a new course and leave my current course incomplete",
+    "text": "qala isifundo esisha futhi ushiye isifundo sami samanje singaqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "return to menu",
+    "text": "buyela kumenyu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review a lesson from a different course",
+    "text": "buyekeza izifundo ezivela ezifundweni ezihlukile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review another lesson from this course",
+    "text": "buyekeza esinye isifundo kulesi sifundo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get more help with this course",
+    "text": "thola usizo olwengeziwe ngalesi sifundo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get help with a different challenge",
+    "text": "thola usizo ngenkinga ehlukile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "return to the main menu",
+    "text": "buyela kumenyu enkulu",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "review and track my progress",
+    "text": "buyekeza futhi ulandelele intuthuko yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my settings",
+    "text": "shitsha ama-settings ami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "invite a friend to enroll",
+    "text": "mema umngani ukuthi abhalise",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get help with an emergency",
+    "text": "thola usizo ngesimo esiphuthumayo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "watch a video with instructions",
+    "text": "bhukela ividiyo enemiyalelo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "track my progress",
+    "text": "landelela intuthuko yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "retake completed lessons",
+    "text": "phinda wenze izifundo eziqediwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "get extra help with my child",
+    "text": "ukuthola usizo olwengeziwe ngengane yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my profile",
+    "text": "shintsha i-profile yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "stop receiving the messages",
+    "text": "yeka ukuthola imiyalezo",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my language",
+    "text": "shintsha ulimi lwami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change the way i receive content",
+    "text": "shintsha indlela engithola ngayo okuqukethwe",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my gender",
+    "text": "shitsha ubulili bami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my relationship status",
+    "text": "shitsha isimo sami kwezobudlelwano",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my child's age",
+    "text": "shintsha iminyaka yengane yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "update my child's name",
+    "text": "vuselela igama lengane yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "change my child's gender",
+    "text": "shintsha ubulili bengane yami",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "yes y yeah yep ok",
+    "text": "yebo y yebo kulungile",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]

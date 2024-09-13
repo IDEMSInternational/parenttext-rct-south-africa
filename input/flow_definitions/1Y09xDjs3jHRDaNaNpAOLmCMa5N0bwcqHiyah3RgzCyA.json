@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "version": "0.1.0"
+  },
+  "sheets": {
+    "content_index": [
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_messages",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_question_with_opt_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OnboardingQuestionWithOptionsModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_question_input_name_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OnboardingQuestionInputModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_question_language_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OnboardingQuestionWithOptionsModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "onboarding_question_date_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "OnboardingQuestionRangeModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      },
+      {
+        "type": "data_sheet",
+        "sheet_name": "consent_data",
+        "data_sheet": "",
+        "data_row_id": "",
+        "new_name": "",
+        "data_model": "SingleMessageModel",
+        "template_arguments": "",
+        "status": "",
+        "tags.1": "",
+        "tags.2": ""
+      }
+    ],
+    "onboarding_messages": [
+      {
+        "ID": "onboarding_welcome_msg",
+        "msg": "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!",
+        "next_button_option": "",
+        "metadata.description": "first message after language selection (if present)",
+        "attachment.url": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/project%2FPLH%2Fsubproject%2FParentText_v2%2Fdeployment%2FSouthAfricaRCT%2FresourceGroup%2Flogo%2Fparenttext_logo.png?alt=media&token=625b8200-1706-4d9b-9dc0-11092dd770fa",
+        "attachment.file_type": "image"
+      },
+      {
+        "ID": "one_child_time_msg",
+        "msg": "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time.",
+        "next_button_option": "",
+        "metadata.description": "introduction before collecting child info",
+        "attachment.url": "",
+        "attachment.file_type": ""
+      },
+      {
+        "ID": "orientation",
+        "msg": "Here is a video that shows how to use ParentText.",
+        "next_button_option": "NEXT",
+        "metadata.description": "message with onboarding video",
+        "attachment.url": "",
+        "attachment.file_type": ""
+      }
+    ],
+    "onboarding_question_date_data": [
+      {
+        "ID": "child_dob",
+        "question": "When was Your Child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+      }
+    ],
+    "onboarding_question_input_name_data": [
+      {
+        "ID": "child_name",
+        "question": "Please provide us with your child's first name.",
+        "skip_option": "Please type \"N\" if you prefer not to answer.",
+        "skip_value": "N",
+        "variable": "child nickname",
+        "test.expression": "",
+        "test.value": "",
+        "test.condition_type": "",
+        "error_message": ""
+      },
+      {
+        "ID": "family_name",
+        "question": "What is your last name?",
+        "skip_option": "",
+        "skip_value": "",
+        "variable": "family name",
+        "test.expression": "",
+        "test.value": "",
+        "test.condition_type": "",
+        "error_message": ""
+      },
+      {
+        "ID": "first_name",
+        "question": "What is your first name?",
+        "skip_option": "",
+        "skip_value": "",
+        "variable": "first user name",
+        "test.expression": "",
+        "test.value": "",
+        "test.condition_type": "",
+        "error_message": ""
+      }
+    ],
+    "consent_data": [
+      {
+        "ID": "intro",
+        "msg": "",
+        "metadata.description": ""
+      },
+      {
+        "ID": "info",
+        "msg": "✅Participating in ParentText is optional. \n✅Your personal information is safe and private. Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours.  They plan to publish the results. \n❌You can stop when you want. Just type {STOP}",
+        "metadata.description": "{STOP} placeholder: do not edit\n{consent_link} placeholder: do not edit"
+      },
+      {
+        "ID": "agree_instructions",
+        "msg": "Press YES if you agree with this. Type \"EXIT\" if you do not want to participate. ",
+        "metadata.description": "YES needs to be consistent with \"yes_option\"\nEXIT needs to be consistent with \"exit_option\""
+      },
+      {
+        "ID": "yes_option",
+        "msg": "YES",
+        "metadata.description": "needs to be consistent with \"agree_instructions\""
+      },
+      {
+        "ID": "exit_option",
+        "msg": "EXIT",
+        "metadata.description": "needs to be consistent with \"agree_instructions\""
+      },
+      {
+        "ID": "exit_message",
+        "msg": "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option.",
+        "metadata.description": "BACK needs to be consistent with \"back_option\"\nNO needs to be consistent with \"stop_option\""
+      },
+      {
+        "ID": "back_option",
+        "msg": "BACK",
+        "metadata.description": "needs to be consistent with \"exit_message\""
+      },
+      {
+        "ID": "stop_option",
+        "msg": "NO",
+        "metadata.description": "needs to be consistent with \"exit_message\""
+      },
+      {
+        "ID": "goodbye_msg",
+        "msg": "If you ever return to participate in the programme, type \"HELLO\". \n\nWe hope to see you again soon, and we wish you a happy and peaceful day! ",
+        "metadata.description": "{START} placeholder: do not edit"
+      },
+      {
+        "ID": "agreement_thanks",
+        "msg": "That is wonderful, thank you so much! ",
+        "metadata.description": ""
+      },
+      {
+        "ID": "age_confirmation",
+        "msg": "Can you please confirm that you are 18 years old or older?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "above_age_opt",
+        "msg": "Yes, I am over 18",
+        "metadata.description": ""
+      },
+      {
+        "ID": "above_age_opt_aliases",
+        "msg": "yes y over",
+        "metadata.description": "what is accepted if they want to select \"above_age_opt\""
+      },
+      {
+        "ID": "below_age_opt",
+        "msg": "No, I am under 18",
+        "metadata.description": "what is accepted if they want to select \"below_age_opt\""
+      },
+      {
+        "ID": "below_age_opt_aliases",
+        "msg": "no n under",
+        "metadata.description": ""
+      },
+      {
+        "ID": "above_age_msg",
+        "msg": "Great! Let's begin.",
+        "metadata.description": ""
+      },
+      {
+        "ID": "below_age_confirm",
+        "msg": "Sorry, ParentText is only for people over the age of 18. Do you confirm that you are under the age of 18?",
+        "metadata.description": ""
+      },
+      {
+        "ID": "below_age_yes",
+        "msg": "Yes",
+        "metadata.description": ""
+      },
+      {
+        "ID": "below_age_no",
+        "msg": "No",
+        "metadata.description": ""
+      },
+      {
+        "ID": "below_age_msg",
+        "msg": "If you want to experience ParentText, you can always share it with your parents or caregivers.",
+        "metadata.description": ""
+      }
+    ],
+    "onboarding_question_language_data": [
+      {
+        "ID": "entry",
+        "question": "Please select your language:",
+        "image": "",
+        "options.1.text": "English",
+        "options.1.value": "eng",
+        "options.1.alias": "eng",
+        "options.2.text": "IsiZulu",
+        "options.2.value": "zul",
+        "options.2.alias": "zul"
+      },
+      {
+        "ID": "menu",
+        "question": "Please select your language:",
+        "image": "",
+        "options.1.text": "English",
+        "options.1.value": "eng",
+        "options.1.alias": "eng",
+        "options.2.text": "IsiZulu",
+        "options.2.value": "zul",
+        "options.2.alias": "zul"
+      }
+    ],
+    "onboarding_question_with_opt_data": [
+      {
+        "ID": "media",
+        "question": "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?",
+        "image": "",
+        "variable": "type of media",
+        "options.1.text": "Text, Images, and Videos",
+        "options.1.value": "high",
+        "options.2.text": "Text, Images, and Audio",
+        "options.2.value": "medium",
+        "options.3.text": "Text and Images Only",
+        "options.3.value": "low",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "gender",
+        "question": "Are you a WOMAN or MAN?",
+        "image": "",
+        "variable": "gender",
+        "options.1.text": "Woman",
+        "options.1.value": "woman",
+        "options.2.text": "Man",
+        "options.2.value": "man",
+        "options.3.text": "Prefer not to say",
+        "options.3.value": "no answer given",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "marital_status",
+        "question": "What is your marital status?",
+        "image": "",
+        "variable": "marital status",
+        "options.1.text": "Single",
+        "options.1.value": "Single",
+        "options.2.text": "Unmarried but in a relationship",
+        "options.2.value": "Partnered",
+        "options.3.text": "Married",
+        "options.3.value": "Married",
+        "options.4.text": "Separated from partner",
+        "options.4.value": "Separated",
+        "options.5.text": "Divorced",
+        "options.5.value": "Divorced",
+        "options.6.text": "Widowed",
+        "options.6.value": "Widowed",
+        "options.7.text": "Other",
+        "options.7.value": "Other",
+        "options.8.text": "I don't want to answer",
+        "options.8.value": "no answer given",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "child_gender",
+        "question": "Is Your Child a girl or a boy?",
+        "image": "",
+        "variable": "child gender",
+        "options.1.text": "Girl",
+        "options.1.value": "female",
+        "options.2.text": "Boy",
+        "options.2.value": "male",
+        "options.3.text": "Prefer not to say",
+        "options.3.value": "no answer given",
+        "options.4.text": "",
+        "options.4.value": "",
+        "options.5.text": "",
+        "options.5.value": "",
+        "options.6.text": "",
+        "options.6.value": "",
+        "options.7.text": "",
+        "options.7.value": "",
+        "options.8.text": "",
+        "options.8.value": "",
+        "options.9.text": "",
+        "options.9.value": "",
+        "options.10.text": "",
+        "options.10.value": ""
+      },
+      {
+        "ID": "location",
+        "question": "Which province do you live in?",
+        "image": "",
+        "variable": "location",
+        "options.1.text": "Eastern Cape",
+        "options.1.value": "Eastern Cape",
+        "options.2.text": "Free State",
+        "options.2.value": "Free State",
+        "options.3.text": "Gauteng",
+        "options.3.value": "Gauteng",
+        "options.4.text": "KwaZulu-Natal",
+        "options.4.value": "KwaZulu-Natal",
+        "options.5.text": "Limpopo",
+        "options.5.value": "Limpopo",
+        "options.6.text": "Mpumalanga",
+        "options.6.value": "Mpumalanga",
+        "options.7.text": "North West ",
+        "options.7.value": "North West ",
+        "options.8.text": "Northern Cape",
+        "options.8.value": "Northern Cape",
+        "options.9.text": "Western Cape",
+        "options.9.value": "Western Cape",
+        "options.10.text": "I do not live in South Africa",
+        "options.10.value": "out of south africa"
+      }
+    ]
+  }
+}
